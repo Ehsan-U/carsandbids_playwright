@@ -1,6 +1,6 @@
 # carbandbids
 Crawler for carsandbids
-### install requirements
+### create virtual environment & install requirements
 `pip3 install virtualenv`
 `virtualenv venv`
 ### start server
