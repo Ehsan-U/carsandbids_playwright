@@ -1,6 +1,5 @@
 import json
 import re
-from socket import timeout
 from urllib.parse import urljoin
 import scrapy
 from scrapy.selector import Selector
