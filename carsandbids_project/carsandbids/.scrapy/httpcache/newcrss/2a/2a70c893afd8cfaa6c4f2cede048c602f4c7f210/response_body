@@ -1,0 +1,564 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 153, 
+      "price": 5000, 
+      "rate": 0.0599, 
+      "term": 36
+    }
+  }, 
+  "id": "3RJxJxam", 
+  "listing": {
+    "body_style": 5, 
+    "drive_train": 3, 
+    "engine": "4.6L V8", 
+    "exterior_color": "Estoril Blue Metallic", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Heated front and rear seats", 
+      "20-inch wheels"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-12T16:12:46.292+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=RAht65pifoBdzj3NZHkRvA", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "3BZazQAE", 
+    "interior_color": "Black", 
+    "location": "Calhan, CO 80808", 
+    "make": "BMW", 
+    "make_slug": "bmw", 
+    "mileage": 144900, 
+    "mileage_text": null, 
+    "model": "X5", 
+    "model_slug": "x5", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3505, 
+          "id": "rjYOmZqx", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-_6EJkVfsCT.jpg?t=165037497483", 
+          "width": 2479
+        }, 
+        {
+          "height": 3505, 
+          "id": "rkdnBonb", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-F_FCln2SnF.jpg?t=165037497452", 
+          "width": 2479
+        }, 
+        {
+          "height": 3505, 
+          "id": "9AlOg5aj", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-EDG5b0IIBN.jpg?t=165037497376", 
+          "width": 2479
+        }, 
+        {
+          "height": 1634, 
+          "id": "rMVw52Jm", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-ACc3DRLJfgX.jpeg?t=165026858515", 
+          "width": 2180
+        }, 
+        {
+          "height": 4032, 
+          "id": "3BqmkWy5", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-eHZb-Uk2M5-(edit).jpg?t=165037643811", 
+          "width": 3024
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2509, 
+          "id": "3ylkG6Ya", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-ZsTcFB56aJ-(edit).jpg?t=165038495226", 
+          "width": 3763
+        }, 
+        {
+          "height": 2052, 
+          "id": "KVWobmBQ", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-43FjTrsM7K-(edit).jpg?t=165047540440", 
+          "width": 3078
+        }, 
+        {
+          "height": 2592, 
+          "id": "KYZgD2qL", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-Jj15Bi_ZUu-(edit).jpg?t=165038487523", 
+          "width": 3889
+        }, 
+        {
+          "height": 2103, 
+          "id": "rJad5aNv", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-gv6c6n8ZOj-(edit).jpg?t=165038499054", 
+          "width": 3155
+        }, 
+        {
+          "height": 1673, 
+          "id": "9n14gOOB", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-aOxOxckSLf-(edit).jpg?t=165038502025", 
+          "width": 2510
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmmBQDdx", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-_-FsejHU7p.jpeg?t=165046547542", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVVkzBYQ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-beM4i8rZ4Ut.jpeg?t=164972697846", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oQeOQAV", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-iv7I8MGK2Jt.jpeg?t=164972637535", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QAEWmYl", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-Zq6GEWSK7fu.jpeg?t=164972672223", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkxWPdgl", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-4VqGI3m8vaj.jpeg?t=164972650180", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3R6XYB21", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-DYxG86XlRv0.jpeg?t=164972639502", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gVvq7jo", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-E7q53MI5KN0.jpeg?t=164972654288", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36Bzqbyz", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-FYcoLp2x0V4.jpeg?t=164972632019", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9abABdOQ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-zskA3YYzrqG.jpeg?t=164972655741", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35pPyNvE", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-pX4aKZSQxZJ.jpeg?t=164972622928", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmO1Jnme", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-20Dqfomf95K.jpeg?t=164972625827", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37OagGOZ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-AufG073HxB1.jpeg?t=164972621542", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35PqabwJ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-w97aAPD7U_.jpeg?t=165046546824", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rb8zEXl3", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-c9w5odqznOv.jpeg?t=164972613430", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rN2ejkpW", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-evYM7lkNvPf.jpeg?t=164972665058", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjZbZEeX", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-0qG9Pi_nAPd.jpeg?t=164972653431", 
+          "width": 4032
+        }, 
+        {
+          "height": 2448, 
+          "id": "9aaOqwnQ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-MAhBa3YZk8y.jpeg?t=164980498143", 
+          "width": 3264
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zYlnLYB", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-tKp34q1khyd.jpeg?t=164972607866", 
+          "width": 4032
+        }, 
+        {
+          "height": 2448, 
+          "id": "9Wla7e6R", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-mjHhuhXc0JQ.jpeg?t=164980497234", 
+          "width": 3264
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVpgLwlx", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-kwQgpA1Yqsa.jpeg?t=164972727853", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNXekkwX", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-WOcskwBpayO.jpeg?t=164972723079", 
+          "width": 4032
+        }, 
+        {
+          "height": 2448, 
+          "id": "KZB2NbAR", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-UMBV49R3iku.jpeg?t=164980498677", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rwnzeAJM", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-np4Gl9fEpj4.jpeg?t=164980493522", 
+          "width": 3264
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zlGm8Md", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-LLVfmfYQ5Rc.jpeg?t=164972761632", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4Znw8Yn", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-oa-r2xI7x2_.jpeg?t=164972765871", 
+          "width": 4032
+        }, 
+        {
+          "height": 2448, 
+          "id": "36yqOMez", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-tasgZJUqmMf.jpeg?t=164980493427", 
+          "width": 3264
+        }, 
+        {
+          "height": 3024, 
+          "id": "rk6WwOWN", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-_-WoKULvXER.jpeg?t=164972702187", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjAb0EgN", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-YeRZzvE5wZ4.jpeg?t=164972702733", 
+          "width": 4032
+        }, 
+        {
+          "height": 2448, 
+          "id": "3OpnjLm6", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-eDvCi0phIf_.jpeg?t=164980499509", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3RbEqpO1", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-R-iIWKeCov9.jpeg?t=164980496304", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KD6AbBQa", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-fx7tYsUF4g-.jpeg?t=164980495059", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rkddGD49", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-izfiAsBocv0.jpeg?t=164980496471", 
+          "width": 3264
+        }, 
+        {
+          "height": 1536, 
+          "id": "KdA65M2y", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-yMQ-hqshG5e.jpeg?t=165031368465", 
+          "width": 2048
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1702, 
+          "id": "3qNPnbOE", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-x18ihtYKSX-(edit).jpg?t=165026761561", 
+          "width": 2553
+        }, 
+        {
+          "height": 2688, 
+          "id": "KDRRnpo9", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-t7Azs8IwXS-(edit).jpg?t=165026752653", 
+          "width": 4032
+        }, 
+        {
+          "height": 2429, 
+          "id": "KPDbZVQK", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-MduOKVyHTY-(edit).jpg?t=165038085019", 
+          "width": 3644
+        }, 
+        {
+          "height": 2688, 
+          "id": "9e7YAYA8", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/KY4Zke8x-mAkXMdL8h5-(edit).jpg?t=165047534588", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36gQmVLA", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-BB80-dcykNT.jpeg?t=165031378498", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3654Z58Z", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-t7HGlx-iUeJ.jpeg?t=164972738429", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3y8PLbQp", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-2XfnAj8n0Lg.jpeg?t=164972745887", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rw0AmdwX", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-zD482TydEb5.jpeg?t=164980554463", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30XONexR", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-MrW3tvy2NKc.jpeg?t=164972764504", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3owVVwbE", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-q4FF1eCQgkt.jpeg?t=164972692238", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJzbB8WO", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-BpyLPYVHVcY.jpeg?t=164972747682", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37B4LnRD", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-d2Jc7e3d8Rn.jpeg?t=164972765362", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LEzjGoV", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-Cz6ORz49O8J.jpeg?t=164972759028", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XbJJYLO", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-T_xHS-JGprf.jpeg?t=164972762227", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3OZMgPjm", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-NF_PejGgeHZ.jpeg?t=164972745300", 
+          "width": 4032
+        }, 
+        {
+          "height": 2448, 
+          "id": "3g7JjNDR", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-1zDRR4lkbby.jpeg?t=164980497621", 
+          "width": 3264
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nLoAk0n", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/s-6Z7URKFZztA.jpeg?t=164972748195", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 2448, 
+          "id": "3vNY5JEN", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-6RGm_r8AMQD.jpeg?t=164980499849", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KYy4GAkP", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-K5uM4U1i4Ud.jpeg?t=164980499266", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3yEJMNV7", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-CnHc9bfxe41.jpeg?t=164980499855", 
+          "width": 3264
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJqxRO7z", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-NYPau1nqgY.jpeg?t=165046549517", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BLemkOb", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-xf6N5mNigL.jpeg?t=165046549914", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMb170bZ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-KBKVZYtPwV.jpeg?t=165046547709", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjZj8YJl", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-gps-9jMZcP.jpeg?t=165046548572", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lb2x7nZ", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-YD55Zhjw_.jpeg?t=165046544308", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwgW8ana", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-YWKtEG3OwQ.jpeg?t=165046547853", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3R0lLPYm", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-Lu14NdPMmd.jpeg?t=165046548389", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pxLJM5Y", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-2GHrwj-nYR.jpeg?t=165046544653", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9Ab5RPJz", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-1Z7VmlSpbc.jpeg?t=165046544931", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qNBdM2A", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-AafWs17ntg.jpeg?t=165046549480", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4R61YnA", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-W6dCjFer4s.jpeg?t=165046546795", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gQ4Zn2y", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-KtPLkxkovl.jpeg?t=165046548620", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "365JpVGA", 
+          "link": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/KY4Zke8x-qYdO4ukdsHZ.jpeg?t=164980554244", 
+          "width": 4032
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "I love the E53 X5, especially if it\u2019s one of the range-topping \u201cis\u201d models, which get a more powerful V8 engine, upgraded styling, and an improved suspension. This particular example is even cooler as it\u2019s finished in the gorgeous Estoril Blue Metallic \u2013 and it comes with some nice factory equipment, including Nappa leather upholstery and heated front AND rear seats. This X5 also touts a clean, accident-free Carfax report showing ownership in warm-weather California and Nevada up until 2018. Other benefits include a recent major service that included a new timing chain and a complete engine reseal, which is a big deal on these \u2013 plus, it's offered with the thrill of no reserve, which should make for an exciting auction finish!", 
+      "equipment": "A build sheet is provided in the photo gallery, and a partial list of notable equipment includes:\n- Sport suspension settings\n- Xenon headlights with washers\n- Power-operated sunroof\n- Roof rails\n- Nappa leather upholstery\n- Power-adjustable front seats with memory function\n- Heated front and rear seats\n- Dual-zone automatic climate control\n- Professional Logic7 sound system\n- Rain-sensing windscreen wipers\n- Park Distance Control (PDC)\n- Cruise control", 
+      "highlights": "THIS\u2026 is a 2002 BMW X5 4.6is, finished in Estoril Blue Metallic with a black interior. \n- The attached Carfax history report shows no accidents or mileage discrepancies in this X5\u2019s past. It also confirms that it was registered in California and Nevada until 2018. \n- Factory equipment includes a power-operated sunroof, Nappa leather upholstery, front and rear heated seats, a Professional Logic7 sound system, and more as listed below. Modifications reported by the seller are limited to 20-inch BMW X5 4.8is wheels, a Dinan air intake, a Dinan throttle body, and tinted windows. \n- Service documentation in the photo gallery indicates that this X5 had a comprehensive service in December 2021 that included a timing chain and Vanos replacement, a new water pump and radiator installed, and a complete engine reseal, among other items.  \n- BMW boldly applied its \"Ultimate Driving Machine\" ethos to an entirely new segment when it released the first-generation X5 for the 2000 model year. Called \"E53\" internally, the X5 was marketed as a sports activity vehicle, not as a sport utility vehicle. The 4.6is model was launched in 2001 as the range-topping X5. It offered more power than the 4.4-liter model, larger brakes, 20-inch wheels, wider rear fender flares, and redesigned front and rear bumpers.\n- Power comes from a 4.6-liter \"M62B46\" V8, rated at 340 horsepower and 350 lb-ft of torque in stock form. Due to the modifications performed to this X5, it likely produces slightly more power, but a dyno sheet was not provided to confirm. Output is sent to all four wheels via a 5-speed automatic transmission.", 
+      "known_flaws": "- Stone chips on front end\n- Dings on front bumper, hood, driver-side fender, driver\u2019s door, and passenger-side rear door\n- Scratches on rear bumper\n- Touched-up spots on the roof\n- Some chips on wheels\n- Some creases on driver seat\u2019s cushion\n- Sunroof opens all the way but it doesn't tilt ", 
+      "modifications": "- 20-inch BMW X5 4.8is wheels\n- Dinan air intake\n- Dinan throttle body\n- Tinted windows", 
+      "other_items": "- 1 key\n- Service records", 
+      "ownership_history": "The seller is representing this X5 on behalf of his wife, who purchased it in April 2021 and has added approximately 4,000 miles since. ", 
+      "recent_service_history": "Service documentation in the photo gallery indicates that the following maintenance was performed in December 2021 at 142,013 miles: \n- Complete engine reseal\n- New timing chain installed\n- New water pump installed\n- Vanos and Vanos solenoids replaced\n- Camshaft adjuster replaced\n- New engine mounts installed\n- New accessory belts and pulleys installed\n- Radiator and cooling hoses replaced\n- New valley pan installed\n- Transmission fluid flushed\n- Front and rear differential fluid flushed\n- Engine oil and filter changed\n- Brake rotors replaced\n\nAdditional service history is detailed in the attached Carfax report.", 
+      "videos": [
+        "https://youtu.be/a-OA6vnco6I", 
+        "https://youtu.be/GtgVRfO1Ofg", 
+        "https://youtu.be/Ich1ndTwfs4", 
+        "https://youtu.be/OEaRf2A5o9s"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "V8 Power, AWD, Estoril Blue Metallic, Recent Major Service", 
+    "title": "2002 BMW X5 4.6is", 
+    "title_status": "Clean (CO)", 
+    "transmission": 1, 
+    "transmission_details": "5-Speed", 
+    "vin": "5UXFB93572LN78435", 
+    "year": 2002
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": {
+      "base_url": "media.carsandbids.com", 
+      "path": "1e761baa3da69f7cde98353557648e6c4e674ceb/photos/9nVGwm2n-g-KfANbGelW.jpeg"
+    }, 
+    "username": "DFG"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-29T18:10:00.000+00:00", 
+    "bids": 2, 
+    "comments": 0, 
+    "current_bid": {
+      "amount": 777, 
+      "bidder": {
+        "photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "49e1a9d5b2d953ea65bda6aba32035a40edc76bc/photos/MRv6d_-ak.jpg"
+        }, 
+        "username": "PAGSDIII701"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 17
+  }, 
+  "status": "live", 
+  "submission_id": "KY4Zke8x", 
+  "views": 292, 
+  "watching": false
+}

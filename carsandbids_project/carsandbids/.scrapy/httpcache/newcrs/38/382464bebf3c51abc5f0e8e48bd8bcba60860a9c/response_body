@@ -1,0 +1,516 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 454, 
+      "price": 15250, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 221
+  }, 
+  "id": "rwZ4MLL5", 
+  "listing": {
+    "body_style": 2, 
+    "drive_train": 2, 
+    "engine": "0.6L Turbocharged I3", 
+    "exterior_color": "Black/Gray", 
+    "highlighted_points": [
+      "Displayed in the Petersen Automotive Museum", 
+      "Brabus-tuned 3-cylinder engine", 
+      "#736 of about 2,000 built"
+    ], 
+    "history_report": null, 
+    "history_report_pdf": null, 
+    "id": "KdpON8Qj", 
+    "interior_color": "Red/Black", 
+    "location": "Los Angeles, CA 90036", 
+    "make": "Smart", 
+    "make_slug": "smart", 
+    "mileage": 15900, 
+    "mileage_text": null, 
+    "model": "Crossblade", 
+    "model_slug": "crossblade", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 1500, 
+          "id": "301G6PeL", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-LzJ6XR5fsdP.jpg?t=164563812620", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "92bmaG6a", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-GuveNu5s2Qe.jpg?t=164563812629", 
+          "width": 2000
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 1232, 
+          "id": "KV0L8nbz", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.dZE61VMTO-(edit).jpg?t=164607438960", 
+          "width": 1848
+        }, 
+        {
+          "height": 2570, 
+          "id": "37nbYD5v", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.OUc26YaPN-(edit).jpg?t=164607458459", 
+          "width": 3856
+        }, 
+        {
+          "height": 1307, 
+          "id": "3LG0JG8X", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.3Em_fSxJB-(edit).jpg?t=164607442799", 
+          "width": 1961
+        }, 
+        {
+          "height": 1314, 
+          "id": "30xgm87p", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.xj1ZgyLa0-(edit).jpg?t=164607452757", 
+          "width": 1972
+        }, 
+        {
+          "height": 1333, 
+          "id": "3zqYo8kz", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.Wx8BC8U0v-(edit).jpg?t=164607448654", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "3olXjoNw", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-MFJ9dZidWQr.jpg?t=164563812417", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "36M4Gwyx", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-jpOb8-0qxXr.jpg?t=164563812384", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1BLzD8G", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-DCrEM0xJ2z.jpg?t=164133092587", 
+          "width": 4032
+        }, 
+        {
+          "height": 2775, 
+          "id": "92wkwnnW", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-DbpijEnbtH.jpg?t=164133092430", 
+          "width": 3700
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WM2LOXw", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-2nEc_9p-yE.jpg?t=164133091802", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmXWZx63", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-r8vJL6KxrY.jpg?t=164133090173", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "rEpLOD8K", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-TX2A5QQt7Dz.jpg?t=164563812591", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMMzQyPa", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-zMCkcEfdkB.jpg?t=164133090181", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QJbAyOY", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-eeShokCo1.jpg?t=164133091641", 
+          "width": 4032
+        }, 
+        {
+          "height": 2940, 
+          "id": "3vApM57d", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-B2Vsr6wbl9.jpg?t=164133092257", 
+          "width": 3920
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEMglW8k", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-a7M5dI5dMT.jpg?t=164133092251", 
+          "width": 4032
+        }, 
+        {
+          "height": 2910, 
+          "id": "KPdMgoGQ", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-a8VXqvfPhZ.jpg?t=164133092592", 
+          "width": 3880
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYRn4bjJ", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-DeoJsZdW95.jpg?t=164133092074", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KdlwjP8L", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-Z06ijlkkZo.jpg?t=164133091177", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9l57YW5M", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-T85bm6gvfg.jpg?t=164133090469", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "rjRzLq8N", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-dzR-9UW6gNp.jpg?t=164563812455", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "rkpDD0wN", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-oBJIDi9G9XJ.jpg?t=164563812442", 
+          "width": 2000
+        }, 
+        {
+          "height": 2637, 
+          "id": "98G7jvWe", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-xOOUK1pidO.jpg?t=164133089877", 
+          "width": 3516
+        }, 
+        {
+          "height": 2966, 
+          "id": "3y0Xbp6d", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-EFPhPu520h.jpg?t=164133092257", 
+          "width": 3955
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNqJNO55", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-rKavcpi7h0.jpg?t=164133091414", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "3gGLNJ1E", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-w_-onUEH5xM.jpg?t=164563812464", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gq5k48r", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-RH6vPhNsjB.jpg?t=164133091958", 
+          "width": 4032
+        }, 
+        {
+          "height": 2756, 
+          "id": "30x4RLPR", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-E8FlJ4EmcV.jpg?t=164133092417", 
+          "width": 3675
+        }, 
+        {
+          "height": 1500, 
+          "id": "3q2ZggD5", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-gc7J4FHIoQu.jpg?t=164563812527", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "9QBaYaBd", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-PliiTadBtww.jpg?t=164563812513", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "9XMpzZN7", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-nyVgXMKLb-J.jpg?t=164563812604", 
+          "width": 2000
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2688, 
+          "id": "rJ62GG2p", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.twlIkcflP-(edit).jpg?t=164607409654", 
+          "width": 4032
+        }, 
+        {
+          "height": 1333, 
+          "id": "9naQelb2", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.MNsuMdUBx-(edit).jpg?t=164607373335", 
+          "width": 2000
+        }, 
+        {
+          "height": 2688, 
+          "id": "9eAEwZPk", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.KIRjgrKBk-(edit).jpg?t=164607434766", 
+          "width": 4032
+        }, 
+        {
+          "height": 2624, 
+          "id": "98yQ2WzQ", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/KZQoyxMZ.mqo6By-qk-(edit).jpg?t=164607376759", 
+          "width": 3936
+        }, 
+        {
+          "height": 3024, 
+          "id": "36LJkyqn", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-TJyftZIqxy.jpg?t=164133091179", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "3Bjpdemd", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-M0Pm3qs7TTE.jpg?t=164563812561", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "35d4kqMY", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-PIDNlZZs4.jpg?t=164563812349", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "KV2yEdjz", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-7JnrfGVFz3E.jpg?t=164563812575", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BAG05oA", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-gBDrtxM_C6.jpg?t=164133092006", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDXW0POo", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-Y0Of3Ebebx.jpg?t=164133091599", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "r4B2JJaV", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-KM1mspYRUZ.jpg?t=164563812323", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "3pQGzZwK", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-w0Hiq3ZpsQt.jpg?t=164563812408", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "rN4d4eYX", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-cjudMdje-AX.jpg?t=164563812490", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkEp6P1O", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-6nA-tzLmOt.jpg?t=164133090954", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9Azb60xe", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-WuOHOb4_lq.jpg?t=164133090838", 
+          "width": 4032
+        }, 
+        {
+          "height": 2893, 
+          "id": "3pn2bWv6", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-nzDHTiWttp.jpg?t=164133090580", 
+          "width": 3858
+        }, 
+        {
+          "height": 1500, 
+          "id": "9n7lZR8v", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-NAWKV53fUa6.jpg?t=164563812550", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "r4JjXGbp", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-JBJ5bW9O4_3.jpg?t=164563812637", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "98L6elkX", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-DrGwEdqKU03.jpg?t=164563812650", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "rbLpPa8d", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-A7WZZiP-44.jpg?t=164563812305", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "3OWMQNJv", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-3oBWqdRcCfu.jpg?t=164563812513", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "rwOnMeJw", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-upbUA1Fk9PV.jpg?t=164563812398", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oRNdw2g", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-yQCyaZ4V53.jpg?t=164133090715", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "3vBl61zk", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-JPHXQvws5X0.jpg?t=164563812604", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "rG1ejpvN", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-7z4cT7WOsh.jpg?t=164133091385", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "rG5DBNWO", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-9yiFcqBQ_qu.jpg?t=164563812483", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "9aX1QPno", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-D9tdOBS6iGt.jpg?t=164563812477", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjP4Egjp", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-XGEzQ84-H.jpg?t=164133091014", 
+          "width": 4032
+        }, 
+        {
+          "height": 1500, 
+          "id": "3RZMeYOD", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-miECD4hbSm-.jpg?t=164563812431", 
+          "width": 2000
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZmDdXOQ", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/s-SJwihclP-.jpg?t=164133092058", 
+          "width": 4032
+        }, 
+        {
+          "height": 768, 
+          "id": "3ge1D2Bb", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-O7KXGPzfLC8.jpg?t=164632873827", 
+          "width": 1024
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 768, 
+          "id": "9W5YlwLQ", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-LnvGYWSS3Tm.jpg?t=164632873821", 
+          "width": 1024
+        }, 
+        {
+          "height": 1500, 
+          "id": "3LN7x1PZ", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-oo2d7-VuflC.jpg?t=164563812576", 
+          "width": 2000
+        }
+      ], 
+      "other": [
+        {
+          "height": 1500, 
+          "id": "37DX0x7R", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-6CCNU8y9f-.jpg?t=164563812317", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "Km1QDqmm", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-4a8soWPg9sI.jpg?t=164563812355", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "rMzjkedp", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-B0jSS0sWqqK.jpg?t=164563812364", 
+          "width": 2000
+        }, 
+        {
+          "height": 1500, 
+          "id": "K1DzVyZz", 
+          "link": "96a8facbbb72671ec968f7de54c861abc1da166a/photos/KZQoyxMZ-8x1zSj6gXH9.jpg?t=164563812663", 
+          "width": 2000
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "I LOVE THIS! I have always wanted to review a Crossblade, so imagine my delight when this one was submitted for sale by the Petersen Museum in Los Angeles. This car is absolutely bizarre in so many ways, and likely one of just a handful in the United States. It's actually fun to drive, and truly everyone stares at you as you go down the street; no surprise, since this thing really looks like a concept car as you're rolling around. I have no idea what you'd do with this \u2013 but I'm also simultaneously jealous of whoever ends up with it, as just a glance at puts a huge smile on your face.", 
+      "equipment": "- 16-inch wheels\n- Wind deflector\n- Waterproof upholstery\n- Folding passenger-side seat\n- Drain plugs in the seats and in the footwells\n- AM/FM radio\n- 2-speaker sound system", 
+      "highlights": "THIS... is a 2004 Smart Crossblade, finished in black and gray with a red and black interior.\n- This is a European-spec car that's sold with a bill of sale and **no title** and that has been displayed in the Petersen Automotive Museum. It's equipped with a metric instrument cluster, and its odometer displays about 25,500 kilometers, which represents around 15,900 miles.\n- Doug DeMuro recently reviewed this Smart Crossblade, and the video is viewable below.\n- Factory equipment includes 16-inch wheels, waterproof upholstery, drain plugs in the seats and in the footwells, and an AM/FM radio. The seller reports no modifications.\n- Smart unveiled the ForTwo-based Crossblade Concept at the 2001 Geneva auto show and startlingly turned it into a limited-edition production model the following year. Like the design study, the Crossblade had safety bars instead of doors, no roof, and a wind deflector; it weighed a little over 1,600 pounds and looked like nothing else on the road. Brabus squeezed more power of the ForTwo's rear-mounted engine to complement the wild design. Production was limited to 2,000 units, though fewer were ultimately built.\n- Power comes from a 599cc turbocharged 3-cylinder engine, rated at 70 horsepower and 79 lb-ft of torque. Called \"M160\" internally, it spins the rear wheels via a 6-speed automated-manual transmission.", 
+      "known_flaws": "- 2013 date code on the tires\n- Chips on the front end\n- Scratches on the front bumper\n- Loose passenger-side door mirror\n- Scratches on the wheels\n- Trim piece missing from the passenger-side seatback\n- Sagging upholstery on the dashboard\n- Button missing from the radio\n- Scratches in the footwells", 
+      "other_items": "- 1 key\n- Spare key fob battery and spare emblem", 
+      "ownership_history": "The seller purchased this Crossblade in 2018.", 
+      "recent_service_history": "The seller states that the engine oil was last changed in January 2022.", 
+      "seller_notes": "This Crossblade **does not have a title**. It will be sold with a bill of sale only. This car is not currently registered, inspected, or street-legal in the United States, and it's the **bidder's responsibility** to perform all due diligence regarding registering it **prior to placing a bid**.", 
+      "videos": [
+        "https://www.youtube.com/watch?v=JnL19B4OobE"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~15,900 Miles, Reviewed by Doug DeMuro, Limited-Edition Roofless Model", 
+    "title": "2004 Smart Crossblade", 
+    "title_status": "No Title", 
+    "transmission": 1, 
+    "transmission_details": "6-Speed", 
+    "vin": "WME01MC012H095579", 
+    "year": 2004
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": null, 
+    "username": "PeteAutoMuseum"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-28T17:20:00.000+00:00", 
+    "bids": 21, 
+    "comments": 77, 
+    "current_bid": {
+      "amount": 15000, 
+      "bidder": {
+        "photo": null, 
+        "username": "NaplesMotorsports"
+      }
+    }, 
+    "questions": 2, 
+    "watchers": 301
+  }, 
+  "status": "live", 
+  "submission_id": "KZQoyxMZ", 
+  "views": 28945, 
+  "watching": false
+}

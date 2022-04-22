@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>selenium.common.exceptions.WebDriverException: Message: unknown error: DevToolsActivePort file doesn't exist
+Stacktrace:
+#0 0x55a2292eaad3 <unknown>
+#1 0x55a22904a568 <unknown>
+#2 0x55a229070772 <unknown>
+#3 0x55a22906cc4a <unknown>
+#4 0x55a22906923a <unknown>
+#5 0x55a2290a42ba <unknown>
+#6 0x55a22909e4e3 <unknown>
+#7 0x55a229073d1a <unknown>
+#8 0x55a229074e75 <unknown>
+#9 0x55a229318efd <unknown>
+#10 0x55a22933219b <unknown>
+#11 0x55a22931ac65 <unknown>
+#12 0x55a229332ec8 <unknown>
+#13 0x55a22930e360 <unknown>
+#14 0x55a22934ea68 <unknown>
+#15 0x55a22934ebe8 <unknown>
+#16 0x55a2293687fd <unknown>
+#17 0x7f594ba09947 <unknown>
+
+ // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css">
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script>
+      var CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "UOAulR50SB3H3jKyt1Tl";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>WebDriverException</h1>
+<div class="detail">
+  <p class="errormsg">selenium.common.exceptions.WebDriverException: Message: unknown error: DevToolsActivePort file doesn&#x27;t exist
+Stacktrace:
+#0 0x55a2292eaad3 &lt;unknown&gt;
+#1 0x55a22904a568 &lt;unknown&gt;
+#2 0x55a229070772 &lt;unknown&gt;
+#3 0x55a22906cc4a &lt;unknown&gt;
+#4 0x55a22906923a &lt;unknown&gt;
+#5 0x55a2290a42ba &lt;unknown&gt;
+#6 0x55a22909e4e3 &lt;unknown&gt;
+#7 0x55a229073d1a &lt;unknown&gt;
+#8 0x55a229074e75 &lt;unknown&gt;
+#9 0x55a229318efd &lt;unknown&gt;
+#10 0x55a22933219b &lt;unknown&gt;
+#11 0x55a22931ac65 &lt;unknown&gt;
+#12 0x55a229332ec8 &lt;unknown&gt;
+#13 0x55a22930e360 &lt;unknown&gt;
+#14 0x55a22934ea68 &lt;unknown&gt;
+#15 0x55a22934ebe8 &lt;unknown&gt;
+#16 0x55a2293687fd &lt;unknown&gt;
+#17 0x7f594ba09947 &lt;unknown&gt;
+
+</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  <h3></h3>
+  <ul><li><div class="frame" id="frame-140485964651536">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">2091</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">    </span>def __call__(self, environ: dict, start_response: t.Callable) -&gt; t.Any:</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app`, which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to apply middleware.</pre>
+<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485964651984">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">2076</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569600416">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">2073</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error: t.Optional[BaseException] = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485977180976">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">1518</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(</pre>
+<pre class="line after"><span class="ws">        </span>self,</pre>
+<pre class="line after"><span class="ws">        </span>rv: t.Union[ResponseReturnValue, HTTPException],</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485977178624">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">1516</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485977180080">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py"</cite>,
+      line <em class="line">1502</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>getattr(rule, &quot;provide_automatic_options&quot;, False)</pre>
+<pre class="line before"><span class="ws">            </span>and req.method == &quot;OPTIONS&quot;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line current"><span class="ws">        </span>return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self) -&gt; Response:</pre>
+<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569555360">
+  <h4>File <cite class="filename">"/home/lubuntu/cars_project/selenium_api.py"</cite>,
+      line <em class="line">122</em>,
+      in <code class="function">page</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">    </span>return get_new_api(url)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws"></span>@app.route(&#x27;/page&#x27;,methods=[&quot;POST&quot;,&quot;GET&quot;])</pre>
+<pre class="line before"><span class="ws"></span>def page():</pre>
+<pre class="line before"><span class="ws">    </span>url = str(request.args.get(&quot;url&quot;))</pre>
+<pre class="line current"><span class="ws">    </span>return get_page(url)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>@app.route(&#x27;/past&#x27;,methods=[&quot;POST&quot;,&quot;GET&quot;])</pre>
+<pre class="line after"><span class="ws"></span>def past():</pre>
+<pre class="line after"><span class="ws">    </span>url = str(request.args.get(&quot;url&quot;))</pre>
+<pre class="line after"><span class="ws">    </span>return get_past_api(url)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569555248">
+  <h4>File <cite class="filename">"/home/lubuntu/cars_project/selenium_api.py"</cite>,
+      line <em class="line">49</em>,
+      in <code class="function">get_page</code></h4>
+  <div class="source "><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws"></span>def get_page(url,tryagain=True):</pre>
+<pre class="line before"><span class="ws">    </span># api_key = random.choice(scraper_apis)</pre>
+<pre class="line before"><span class="ws">    </span># api_url = f&#x27;http://api.scraperapi.com?api_key={api_key}&amp;url={url}&#x27;</pre>
+<pre class="line current"><span class="ws">    </span>driver = webdriver.Chrome(executable_path=&quot;/home/lubuntu/cars_project/chromedriver&quot;,options=ch_options,seleniumwire_options=options)</pre>
+<pre class="line after"><span class="ws">    </span>driver.get(url)</pre>
+<pre class="line after"><span class="ws">    </span>try:</pre>
+<pre class="line after"><span class="ws">        </span>element = WebDriverWait(driver,5).until(EC.visibility_of_element_located((By.CLASS_NAME,&quot;quick-facts&quot;)))</pre>
+<pre class="line after"><span class="ws">    </span>except:</pre>
+<pre class="line after"><span class="ws">        </span>pass</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569554800">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/seleniumwire/webdriver.py"</cite>,
+      line <em class="line">211</em>,
+      in <code class="function">__init__</code></h4>
+  <div class="source "><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>if seleniumwire_options.get(&#x27;auto_config&#x27;, True):</pre>
+<pre class="line before"><span class="ws">            </span>for key, value in config.items():</pre>
+<pre class="line before"><span class="ws">                </span>chrome_options.set_capability(key, value)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line current"><span class="ws">        </span>super().__init__(*args, **kwargs)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span>class Safari(InspectRequestsMixin, DriverCommonMixin, _Safari):</pre>
+<pre class="line after"><span class="ws">    </span>&quot;&quot;&quot;Extend the Safari webdriver to provide additional methods for inspecting requests.&quot;&quot;&quot;</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569555584">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/chrome/webdriver.py"</cite>,
+      line <em class="line">70</em>,
+      in <code class="function">__init__</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>else:</pre>
+<pre class="line before"><span class="ws">            </span>keep_alive = True</pre>
+<pre class="line before"><span class="ws">        </span>if not service:</pre>
+<pre class="line before"><span class="ws">            </span>service = Service(executable_path, port, service_args, service_log_path)</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line current"><span class="ws">        </span>super(WebDriver, self).__init__(DesiredCapabilities.CHROME[&#x27;browserName&#x27;], &quot;goog&quot;,</pre>
+<pre class="line after"><span class="ws">                                        </span>port, options,</pre>
+<pre class="line after"><span class="ws">                                        </span>service_args, desired_capabilities,</pre>
+<pre class="line after"><span class="ws">                                        </span>service_log_path, service, keep_alive)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569555136">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/chromium/webdriver.py"</cite>,
+      line <em class="line">93</em>,
+      in <code class="function">__init__</code></h4>
+  <div class="source "><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>self.service = service</pre>
+<pre class="line before"><span class="ws">        </span>self.service.start()</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line current"><span class="ws">            </span>RemoteWebDriver.__init__(</pre>
+<pre class="line after"><span class="ws">                </span>self,</pre>
+<pre class="line after"><span class="ws">                </span>command_executor=ChromiumRemoteConnection(</pre>
+<pre class="line after"><span class="ws">                    </span>remote_server_addr=self.service.service_url,</pre>
+<pre class="line after"><span class="ws">                    </span>browser_name=browser_name, vendor_prefix=vendor_prefix,</pre>
+<pre class="line after"><span class="ws">                    </span>keep_alive=keep_alive, ignore_proxy=_ignore_proxy),</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569555024">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py"</cite>,
+      line <em class="line">269</em>,
+      in <code class="function">__init__</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">        </span>self.error_handler = ErrorHandler()</pre>
+<pre class="line before"><span class="ws">        </span>self._switch_to = SwitchTo(self)</pre>
+<pre class="line before"><span class="ws">        </span>self._mobile = Mobile(self)</pre>
+<pre class="line before"><span class="ws">        </span>self.file_detector = file_detector or LocalFileDetector()</pre>
+<pre class="line before"><span class="ws">        </span>self.start_client()</pre>
+<pre class="line current"><span class="ws">        </span>self.start_session(capabilities, browser_profile)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>
+<pre class="line after"><span class="ws">        </span>return &#x27;&lt;{0.__module__}.{0.__name__} (session=&quot;{1}&quot;)&gt;&#x27;.format(</pre>
+<pre class="line after"><span class="ws">            </span>type(self), self.session_id)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569555808">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py"</cite>,
+      line <em class="line">360</em>,
+      in <code class="function">start_session</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>else:</pre>
+<pre class="line before"><span class="ws">                </span>capabilities.update({&#x27;firefox_profile&#x27;: browser_profile.encoded})</pre>
+<pre class="line before"><span class="ws">        </span>w3c_caps = _make_w3c_caps(capabilities)</pre>
+<pre class="line before"><span class="ws">        </span>parameters = {&quot;capabilities&quot;: w3c_caps,</pre>
+<pre class="line before"><span class="ws">                      </span>&quot;desiredCapabilities&quot;: capabilities}</pre>
+<pre class="line current"><span class="ws">        </span>response = self.execute(Command.NEW_SESSION, parameters)</pre>
+<pre class="line after"><span class="ws">        </span>if &#x27;sessionId&#x27; not in response:</pre>
+<pre class="line after"><span class="ws">            </span>response = response[&#x27;value&#x27;]</pre>
+<pre class="line after"><span class="ws">        </span>self.session_id = response[&#x27;sessionId&#x27;]</pre>
+<pre class="line after"><span class="ws">        </span>self.caps = response.get(&#x27;value&#x27;)</pre>
+<pre class="line after"><span class="ws"></span> </pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569556032">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py"</cite>,
+      line <em class="line">425</em>,
+      in <code class="function">execute</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">                </span>params[&#x27;sessionId&#x27;] = self.session_id</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>params = self._wrap_value(params)</pre>
+<pre class="line before"><span class="ws">        </span>response = self.command_executor.execute(driver_command, params)</pre>
+<pre class="line before"><span class="ws">        </span>if response:</pre>
+<pre class="line current"><span class="ws">            </span>self.error_handler.check_response(response)</pre>
+<pre class="line after"><span class="ws">            </span>response[&#x27;value&#x27;] = self._unwrap_value(</pre>
+<pre class="line after"><span class="ws">                </span>response.get(&#x27;value&#x27;, None))</pre>
+<pre class="line after"><span class="ws">            </span>return response</pre>
+<pre class="line after"><span class="ws">        </span># If the server doesn&#x27;t send a response, assume the command was</pre>
+<pre class="line after"><span class="ws">        </span># a success</pre></div>
+</div>
+
+<li><div class="frame" id="frame-140485569556144">
+  <h4>File <cite class="filename">"/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/errorhandler.py"</cite>,
+      line <em class="line">247</em>,
+      in <code class="function">check_response</code></h4>
+  <div class="source "><pre class="line before"><span class="ws">            </span>if &#x27;data&#x27; in value:</pre>
+<pre class="line before"><span class="ws">                </span>alert_text = value[&#x27;data&#x27;].get(&#x27;text&#x27;)</pre>
+<pre class="line before"><span class="ws">            </span>elif &#x27;alert&#x27; in value:</pre>
+<pre class="line before"><span class="ws">                </span>alert_text = value[&#x27;alert&#x27;].get(&#x27;text&#x27;)</pre>
+<pre class="line before"><span class="ws">            </span>raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here</pre>
+<pre class="line current"><span class="ws">        </span>raise exception_class(message, screen, stacktrace)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def _value_or_default(self, obj: Mapping[_KT, _VT], key: _KT, default: _VT) -&gt; _VT:</pre>
+<pre class="line after"><span class="ws">        </span>return obj[key] if key in obj else default</pre></div>
+</div>
+</ul>
+  <blockquote>selenium.common.exceptions.WebDriverException: Message: unknown error: DevToolsActivePort file doesn&#x27;t exist
+Stacktrace:
+#0 0x55a2292eaad3 &lt;unknown&gt;
+#1 0x55a22904a568 &lt;unknown&gt;
+#2 0x55a229070772 &lt;unknown&gt;
+#3 0x55a22906cc4a &lt;unknown&gt;
+#4 0x55a22906923a &lt;unknown&gt;
+#5 0x55a2290a42ba &lt;unknown&gt;
+#6 0x55a22909e4e3 &lt;unknown&gt;
+#7 0x55a229073d1a &lt;unknown&gt;
+#8 0x55a229074e75 &lt;unknown&gt;
+#9 0x55a229318efd &lt;unknown&gt;
+#10 0x55a22933219b &lt;unknown&gt;
+#11 0x55a22931ac65 &lt;unknown&gt;
+#12 0x55a229332ec8 &lt;unknown&gt;
+#13 0x55a22930e360 &lt;unknown&gt;
+#14 0x55a22934ea68 &lt;unknown&gt;
+#15 0x55a22934ebe8 &lt;unknown&gt;
+#16 0x55a2293687fd &lt;unknown&gt;
+#17 0x7f594ba09947 &lt;unknown&gt;
+
+</blockquote>
+</div>
+
+<div class="plain">
+    <p>
+      This is the Copy/Paste friendly version of the traceback.
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py&quot;, line 2091, in __call__
+    return self.wsgi_app(environ, start_response)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py&quot;, line 2076, in wsgi_app
+    response = self.handle_exception(e)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py&quot;, line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py&quot;, line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py&quot;, line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py&quot;, line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File &quot;/home/lubuntu/cars_project/selenium_api.py&quot;, line 122, in page
+    return get_page(url)
+  File &quot;/home/lubuntu/cars_project/selenium_api.py&quot;, line 49, in get_page
+    driver = webdriver.Chrome(executable_path=&quot;/home/lubuntu/cars_project/chromedriver&quot;,options=ch_options,seleniumwire_options=options)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/seleniumwire/webdriver.py&quot;, line 211, in __init__
+    super().__init__(*args, **kwargs)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/chrome/webdriver.py&quot;, line 70, in __init__
+    super(WebDriver, self).__init__(DesiredCapabilities.CHROME[&#x27;browserName&#x27;], &quot;goog&quot;,
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/chromium/webdriver.py&quot;, line 93, in __init__
+    RemoteWebDriver.__init__(
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py&quot;, line 269, in __init__
+    self.start_session(capabilities, browser_profile)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py&quot;, line 360, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py&quot;, line 425, in execute
+    self.error_handler.check_response(response)
+  File &quot;/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/errorhandler.py&quot;, line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: DevToolsActivePort file doesn&#x27;t exist
+Stacktrace:
+#0 0x55a2292eaad3 &lt;unknown&gt;
+#1 0x55a22904a568 &lt;unknown&gt;
+#2 0x55a229070772 &lt;unknown&gt;
+#3 0x55a22906cc4a &lt;unknown&gt;
+#4 0x55a22906923a &lt;unknown&gt;
+#5 0x55a2290a42ba &lt;unknown&gt;
+#6 0x55a22909e4e3 &lt;unknown&gt;
+#7 0x55a229073d1a &lt;unknown&gt;
+#8 0x55a229074e75 &lt;unknown&gt;
+#9 0x55a229318efd &lt;unknown&gt;
+#10 0x55a22933219b &lt;unknown&gt;
+#11 0x55a22931ac65 &lt;unknown&gt;
+#12 0x55a229332ec8 &lt;unknown&gt;
+#13 0x55a22930e360 &lt;unknown&gt;
+#14 0x55a22934ea68 &lt;unknown&gt;
+#15 0x55a22934ebe8 &lt;unknown&gt;
+#16 0x55a2293687fd &lt;unknown&gt;
+#17 0x7f594ba09947 &lt;unknown&gt;
+
+</textarea>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py", line 2091, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py", line 2076, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lubuntu/cars_project/selenium_api.py", line 122, in page
+    return get_page(url)
+  File "/home/lubuntu/cars_project/selenium_api.py", line 49, in get_page
+    driver = webdriver.Chrome(executable_path="/home/lubuntu/cars_project/chromedriver",options=ch_options,seleniumwire_options=options)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/seleniumwire/webdriver.py", line 211, in __init__
+    super().__init__(*args, **kwargs)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/chrome/webdriver.py", line 70, in __init__
+    super(WebDriver, self).__init__(DesiredCapabilities.CHROME['browserName'], "goog",
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/chromium/webdriver.py", line 93, in __init__
+    RemoteWebDriver.__init__(
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 269, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 360, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 425, in execute
+    self.error_handler.check_response(response)
+  File "/home/lubuntu/.local/lib/python3.9/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: DevToolsActivePort file doesn't exist
+Stacktrace:
+#0 0x55a2292eaad3 <unknown>
+#1 0x55a22904a568 <unknown>
+#2 0x55a229070772 <unknown>
+#3 0x55a22906cc4a <unknown>
+#4 0x55a22906923a <unknown>
+#5 0x55a2290a42ba <unknown>
+#6 0x55a22909e4e3 <unknown>
+#7 0x55a229073d1a <unknown>
+#8 0x55a229074e75 <unknown>
+#9 0x55a229318efd <unknown>
+#10 0x55a22933219b <unknown>
+#11 0x55a22931ac65 <unknown>
+#12 0x55a229332ec8 <unknown>
+#13 0x55a22930e360 <unknown>
+#14 0x55a22934ea68 <unknown>
+#15 0x55a22934ebe8 <unknown>
+#16 0x55a2293687fd <unknown>
+#17 0x7f594ba09947 <unknown>
+
+
+
+-->

@@ -1,0 +1,531 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 262, 
+      "price": 8600, 
+      "rate": 0.0599, 
+      "term": 36
+    }, 
+    "minimum_payment": 133
+  }, 
+  "id": "KdpMdWNQ", 
+  "listing": {
+    "body_style": 4, 
+    "drive_train": 2, 
+    "engine": "4.3L V8", 
+    "exterior_color": "Brilliant Silver Metallic", 
+    "highlighted_points": [
+      "17-inch Alzor Monoblock replica wheels", 
+      "Designo shifter", 
+      "Bose rear speakers"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-10T20:04:14.130+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=vJhafxpdyA-icwnSwLpOHg", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "rMzMevXZ", 
+    "interior_color": "Silver/Black", 
+    "location": "Boca Raton, FL 33432", 
+    "make": "Mercedes-Benz", 
+    "make_slug": "mercedes-benz", 
+    "mileage": 126000, 
+    "mileage_text": null, 
+    "model": "C43 AMG", 
+    "model_slug": "c43-amg", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3320, 
+          "id": "3OPV5R1v", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-_0_RoGn0qX.jpg?t=164995437253", 
+          "width": 2239
+        }, 
+        {
+          "height": 3320, 
+          "id": "KYjbXLPM", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n--kk2-hTPRh.jpg?t=164995437205", 
+          "width": 2226
+        }, 
+        {
+          "height": 1498, 
+          "id": "KdeOB5vQ", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-dyp9jOqpxg-(edit).jpg?t=164995742924", 
+          "width": 1168
+        }, 
+        {
+          "height": 1451, 
+          "id": "rwP5pY8x", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-8jlK7CMGlJ-(edit).jpg?t=164995752783", 
+          "width": 1170
+        }, 
+        {
+          "height": 1381, 
+          "id": "36NkaORA", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-e15fkBWDZ--(edit).jpg?t=164995747105", 
+          "width": 1168
+        }, 
+        {
+          "height": 1564, 
+          "id": "35beN50j", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-hhiFMX7OlH-(edit).jpg?t=164995733990", 
+          "width": 1168
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2307, 
+          "id": "KZRY64Mk", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-zYct5nXojt-(edit).jpg?t=164995803643", 
+          "width": 3460
+        }, 
+        {
+          "height": 2271, 
+          "id": "3oOzqWD2", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-8BkcM_wYqv-(edit).jpg?t=165004673093", 
+          "width": 3406
+        }, 
+        {
+          "height": 2096, 
+          "id": "3vMp5Zmd", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-DZ4-VywoVj-(edit).jpg?t=164995820273", 
+          "width": 3144
+        }, 
+        {
+          "height": 2195, 
+          "id": "rEYzZ2jV", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-LktWFDvE9B-(edit).jpg?t=164995814742", 
+          "width": 3293
+        }, 
+        {
+          "height": 2285, 
+          "id": "35Ra5P1Z", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-niT7L4mIjj-(edit).jpg?t=165004554471", 
+          "width": 3427
+        }, 
+        {
+          "height": 750, 
+          "id": "KmY24bGp", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-kBosG1GiC0-(edit).jpg?t=165004556807", 
+          "width": 1125
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGJDRemo", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-RmcmLzCwQYO.jpg?t=164952868361", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxXnGJPQ", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-4z9Fi6N06jD.jpg?t=164952845119", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36G80MAl", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-5cV2NBUqB2j.jpg?t=164952868333", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4zgb8dk", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-mGg9n9x6ac8.jpg?t=164952836691", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "981oWVp0", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n--Ae6fqgXKvO.jpg?t=164952836765", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmOwXYad", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-2yfSvYwZiim.jpg?t=164952836868", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XmpBlYq", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-bA2ZUP6H5CL.jpg?t=164952836463", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkeD5eyg", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-evJUa_WIQBh.jpg?t=164952867894", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zYkZljJ", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-LUvN0-zI1Uz.jpg?t=164952836459", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37lgb4Mp", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-p6yR09VJMAo.jpg?t=164952836670", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98YlZYXw", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-Mnwol2kSkJH.jpeg?t=165004470513", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4p0DEQx", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-QdPD_ahvGxi.jpeg?t=165004470474", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WvXJeDq", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-ZkGxkF3gHIm.jpg?t=164952868889", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qLRjpeN", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-0pY2qLevAn3.jpg?t=164952868857", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QAawYAk", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-oc97cAZ-CoP.jpg?t=164952868688", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3075Ea2j", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-nSLNR6OACw7.jpg?t=164952836526", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3go0wNoP", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-FEZeJhtRmYt.jpg?t=164952868894", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDOzeReE", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-s2Tbv4LYYWx.jpg?t=164952868639", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oQXXBx2", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-TVJRSBDxclw.jpg?t=164952867695", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjjzQw20", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-5OcDl1tFJsA.jpg?t=164952867938", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNaLM865", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-sYIIYYsjpPc.jpeg?t=164987158591", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkdVVWkO", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-_LpsV0zZ35C.jpeg?t=164987158804", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDwAYkWp", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-A1ZyCS20I8C.jpeg?t=164987158632", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3RzjY2dp", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-ar7HPADwFTz.jpeg?t=164987158639", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2688, 
+          "id": "3qw6Mb11", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-34fRHqEQ6D-(edit).jpg?t=164995482376", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "rbj5QBWD", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-r-VNVwB4v1-(edit).jpg?t=164995509760", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "9lYnjN52", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/r4dQgX7n-px1WfM9iZi-(edit).jpg?t=164995505894", 
+          "width": 4032
+        }, 
+        {
+          "height": 2427, 
+          "id": "3zP1qNEJ", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/r4dQgX7n-oQT1DxYu79-(edit).jpg?t=164996521932", 
+          "width": 3641
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjLyPGMl", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-wzzGWmQ0Y2.jpg?t=164952793301", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1boD8Gr", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-DQuHcKw8uOq.jpg?t=164952791407", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4dRpv5A", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-xiMpeXXcnO.jpg?t=164952792262", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPevyRbV", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-aR5MwafxgVI.jpg?t=164952791557", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zmexb6B", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-rubnhwmM_gO.jpg?t=164952791734", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3yp8dNVR", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-TDkLr5Sz9ks.jpg?t=164952791035", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9eYV0nzq", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-ID7QkEHzW47.jpg?t=164952791212", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30kDkb1P", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-M253jFKiEEY.jpg?t=164952791045", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KY5VBAGM", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-NGa78YBMtYg.jpg?t=164952790820", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QxG8Pxx", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/s-6HwKLp1cpaD.jpeg?t=164563316868", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rE7pdxoV", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-Q7PT9DRyZKG.jpg?t=164952790849", 
+          "width": 4032
+        }, 
+        {
+          "height": 1334, 
+          "id": "3RYkO4QN", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-jmcIf9GhPnP.jpeg?t=164988348804", 
+          "width": 750
+        }, 
+        {
+          "height": 3024, 
+          "id": "92yl6DM6", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-_KfmeNezFA1.jpg?t=164952791192", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3v26oJER", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-MmvivMgTsuD.jpg?t=164952790867", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pPAeOdW", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-XNytm30kBD.jpg?t=164952793066", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3Blpx7y4", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-gBu2VkNWgX.jpg?t=164952790546", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gq0MNGe", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n--wTsptNeB.jpg?t=164952790426", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDbWkvm8", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-gfsqO-yaeM.jpeg?t=164996563315", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVqnz71x", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-M0z91onuaw4.jpg?t=164952791398", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbqELRML", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-f6o919QTr1.jpg?t=164952791764", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lbYvjZ5", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-HPV23ZF8TYV.jpg?t=164952791744", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmOgZGGl", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-WJ7KMJzLCAK.jpeg?t=164997431733", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwyPZDZN", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-OFxsbgJdzQn.jpeg?t=164997431917", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36BDLLEl", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-eJgMWzTUiM0.jpeg?t=164997431779", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMknZm04", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-caP2zaktUp9.jpeg?t=164997431759", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "KmlJpgDx", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-VyycPDQ7Dl.jpg?t=164952792443", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36RmOWPy", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-1nFnJMH_d2.jpg?t=164952792816", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "r4keDwNV", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-S1ndZNdtCmU.jpeg?t=165005414659", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KZMPobAk", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-TVhe1EXFVC.jpg?t=164952790620", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "3771WZZq", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-eRtHBe5qHz.jpg?t=164952792117", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35kGOpmJ", 
+          "link": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/r4dQgX7n-yzxSecqn03.jpg?t=164952792327", 
+          "width": 4032
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The W202 C43 AMG is a fantastic performance sedan with a muscular V8, great sizing, and handsome AMG styling \u2013 and it's one of my very favorite Mercedes-Benz models of all time. This particular example has a lot of great things going for it, including a wonderful color combination with the desirable two-tone leather interior. This C43 has also been modified with some desirable upgrades like a matching two-tone steering wheel and a set of gorgeous Monoblock replica wheels. Other benefits include a recent major service, which should provide some peace of mind for the next owner.  ", 
+      "equipment": "A build sheet is provided in the photo gallery, and a partial list of notable equipment includes:\n- AMG Styling Package (front spoiler, side skirts, rear apron)\n- Xenon headlights with wipers\n- Power-operated sunroof\n- AMG Exclusive leather upholstery\n- Power-adjustable multi-contour heated front seats\n- Wood interior trim\n- Automatic climate control\n- Rain-sensing windscreen wipers\n- Cruise control", 
+      "highlights": "THIS\u2026 is a 1999 Mercedes-Benz C43 AMG, finished in Brilliant Silver Metallic with a silver and black interior. \n- The attached Carfax history report shows no mileage discrepancies in this C43\u2019s past. \n- Factory equipment includes xenon headlights with wipers, a power-operated sunroof, AMG Exclusive silver and black leather upholstery, power-adjustable and heated front seats, and more as listed below. \n- Modifications reported by the seller include a set of 17-inch Alzor Monoblock replica wheels, aftermarket wheel spacers, and an aftermarket head unit. The full list of modifications can be seen below. \n- Mercedes-Benz released the first-generation C-Class for 1994 to replace the 190 at the bottom of its range. Called W202 internally, the model received its first AMG-developed evolution for 1995 and it later gained a V8 and the C43 designation in a bid to lure enthusiasts away from the BMW M3 -- Mercedes-Benz had never put such a big engine in a small car before. Production of the W202 ended in 2000.\n- Power comes from a 4.3-liter V8, rated at 302 horsepower and 302 lb-ft of torque. Output is sent to the rear wheels via a 5-speed automatic transmission.", 
+      "known_flaws": "- The attached Carfax report shows that this C43 AMG sustained damage to the front after it was involved in an accident with another vehicle in December 1999.\n- Various chips and scratches as seen in gallery photos\n- Misaligned front bumper\n- Missing trim on lower front bumper\n- Scratch on trunk\n- Cracked and faded wood trim on dash\n- Some wear and cracks on front seats\n- Creases on rear seats\n- Headliner sagging", 
+      "modifications": "Modifications reported by the seller include:\n- 17-inch Alzor Style 803 Monoblock replica wheels\n- Front 15mm spacers\n- Rear 20mm spacers\n- Two-tone leather-wrapped steering wheel\n- Designo shifter\n- Aftermarket head unit\n- Bose rear speakers\n- Phoenix Gold amplifier\n- MTX Audio subwoofers", 
+      "other_items": "- 1 key\n- Owner's manuals", 
+      "ownership_history": "The seller is representing this C43 on behalf of the owner, who purchased it in January 2022.", 
+      "recent_service_history": "The seller states that this C43 recently had a two-tone leather-wrapped steering wheel installed along with a matching Designo shifter, and a set of 17-inch Alzor Monoblock replica wheels mounted with new Achilles ATR Sport tires (2022 date code) were fitted. Service documentation in the photo gallery indicates that the following maintenance has been performed:\n- March 2022 (125,928 miles): Transmission seal replaced, O-ring installed, hood latch repaired\n- February 2022: Radiator replaced, upper radiator hose assembly replaced, coolant flushed\n- January 2022 (125,832 miles): Valve cover gaskets replaced, right-side lifters replaced, engine oil and filter changed, transmission line replaced, transmission fluid flushed", 
+      "videos": [
+        "https://youtu.be/hkUDAPtt0JA", 
+        "https://youtu.be/LlKeGeMA5gk", 
+        "https://youtu.be/r03gOzuEJeo"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "V8 Power, Two-Tone AMG Exclusive Leather Interior, Recent Major Service", 
+    "title": "1999 Mercedes-Benz C43 AMG ", 
+    "title_status": "Clean (FL)", 
+    "transmission": 1, 
+    "transmission_details": "5-Speed", 
+    "vin": "WDBHA33E4XF782933", 
+    "year": 1999
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": {
+      "base_url": "media.carsandbids.com", 
+      "path": "cb91851d206fcaae2e2f51bc95d9a6db16bf726d/photos/rwMeJ0pN-v8vIRIXgEw1.jpeg"
+    }, 
+    "username": "slax1956"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-25T19:14:00.000+00:00", 
+    "bids": 8, 
+    "comments": 6, 
+    "current_bid": {
+      "amount": 8500, 
+      "bidder": {
+        "photo": null, 
+        "username": "WTFLLC"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 241
+  }, 
+  "status": "live", 
+  "submission_id": "r4dQgX7n", 
+  "views": 5040, 
+  "watching": false
+}

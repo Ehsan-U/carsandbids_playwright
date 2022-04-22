@@ -1,0 +1,13 @@
+Content-Length: 35
+Date: Fri, 22 Apr 2022 18:08:19 GMT
+Content-Type: application/json
+X-Frame-Options: SAMEORIGIN
+X-Cache: Error from cloudfront
+Via: 1.1 a811170f30183becd909b501e545e756.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA56-P7
+X-Amz-Cf-Id: CiaEH-nhogTqLv4ymjbYtN1Q3P1GdW50BN0WscMTIZLPUiZG_jlLmg==
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 70004dd67fd09256-FRA
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

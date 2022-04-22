@@ -1,0 +1,15 @@
+{
+  "cookies": {
+    "_dc_gtm_UA-156948307-1": "1", 
+    "_dd_s": "logs=1&id=66128c0c-79ce-4595-9d9a-96415133db80&created=1650652107826&expire=1650653007827", 
+    "_fbp": "fb.1.1650652115979.1407927509", 
+    "_ga": "GA1.2.1490030508.1650652111", 
+    "_ga_4EG9E6KND9": "GS1.1.1650652110.1.0.1650652110.60", 
+    "_gaclientid": "1490030508.1650652111", 
+    "_gahitid": "23:28:32", 
+    "_gcl_au": "1.1.1555592940.1650652110", 
+    "_gid": "GA1.2.1142224155.1650652113", 
+    "_sstk_": "\"gAAAAABiYvPMQVxHpX2m5Wa07vodJz-PpgwIkGtbbAzWnHccoSj7iox6rYWg0zaMcPWwy42L15wx-Cg1GRpbE1cezYVroofKlJ7AO_tv_ayXjG9xwnDcjZvW7gc8kXAAybJZ7Yz7ilV-mdQ1wkXf8eozygmsMqpSCf7Rjq7Fjsta4rER8vDlp_cYZYpwzUOI7FvkYGphpPnWQ5wwhb7S_dXlrsgeK6_mp8mmb5qWVQWsRfTLyeX1veIGP2wYIBZ2GxdJ647LZPLLx6aSbji_cTHFWc27_JlFVo0Crg9ngS_-DPIx4_IxWbgJYtX6F6lZiX5XC9gdal-WbQGO4uxcW4TLmyyUzWOkX2oQhrHrxzKavcMV65PsRnABmm1FCZVR9lyLcCSWBMnApnym7LHrqq7UrGMT1iqkO95QsbwkPPwUQaupONr4ep8=\""
+  }, 
+  "newapi": "https://carsandbids.com/v2/autos/auctions?limit=100&status=new&timestamp=1650652109025&signature=85858dae832557ae4caa5fba29bee5ce348b69d0"
+}

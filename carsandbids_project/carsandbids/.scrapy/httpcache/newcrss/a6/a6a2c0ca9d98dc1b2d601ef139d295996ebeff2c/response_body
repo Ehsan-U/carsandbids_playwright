@@ -1,0 +1,478 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 290, 
+      "price": 9520, 
+      "rate": 0.0599, 
+      "term": 36
+    }, 
+    "minimum_payment": 147
+  }, 
+  "id": "rN0LwmGE", 
+  "listing": {
+    "body_style": 4, 
+    "drive_train": 3, 
+    "engine": "3.0L Supercharged V6", 
+    "exterior_color": "Ice Silver Metallic", 
+    "highlighted_points": [
+      "Audi MMI Navigation Plus package", 
+      "Bang & Olufsen sound system", 
+      "Carbon Atlas interior trim"
+    ], 
+    "history_report": {
+      "expiry": "2022-05-06T21:15:30.560+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=3tjrs6IvZ6HJjvyn37a3vw", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "3oOzay4g", 
+    "interior_color": "Black", 
+    "location": "Romeoville, IL 60446", 
+    "make": "Audi", 
+    "make_slug": "audi", 
+    "mileage": 82600, 
+    "mileage_text": null, 
+    "model": "S4", 
+    "model_slug": "s4", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 888, 
+          "id": "rN0QEEkW", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/s-kD__CM25wS9.jpeg?t=164718706525", 
+          "width": 1920
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2345, 
+          "id": "3R5Zp7Vm", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-7OrM33WBCz-(edit).jpg?t=164966785513", 
+          "width": 3518
+        }, 
+        {
+          "height": 1716, 
+          "id": "9ameE7VD", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-EDdL1KHTd_-(edit).jpg?t=164966800269", 
+          "width": 2574
+        }, 
+        {
+          "height": 2369, 
+          "id": "KZG1Baoo", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-_ohMGK73qv-(edit).jpg?t=164966805726", 
+          "width": 3554
+        }, 
+        {
+          "height": 2366, 
+          "id": "9Wak1keB", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-Z6CUP8OG2F-(edit).jpg?t=164966792796", 
+          "width": 3549
+        }, 
+        {
+          "height": 1610, 
+          "id": "927k2eVY", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-cpkq0CPbbn-(edit).jpg?t=164981293173", 
+          "width": 2416
+        }, 
+        {
+          "height": 1440, 
+          "id": "rJdnZbY3", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-woAbYm7mt1C.jpeg?t=164653902239", 
+          "width": 1440
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WDWp0BR", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-KOpagAMzCm.jpeg?t=164735575653", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "9n4bjk0D", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-ONU1H3mE3.jpeg?t=164653902968", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "K1LygRg7", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/s-6sxi-Cd1E6.jpeg?t=164584194821", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "3646G58P", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-Yy_5kUOiLqB.jpeg?t=164653891990", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pBkOvwn", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-Xg7MywPaWNv.jpeg?t=164653892295", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gOwPdlR", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-vaHjH8VrcN.jpeg?t=164735575841", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkDpRxx4", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-26NXWqNVGR.jpeg?t=164735575402", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMgWbOpG", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-DHsO3D5e91s.jpeg?t=164653891284", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KPDxozML", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-UDklA8CIobp.jpeg?t=164653927069", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwA8BgW5", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-lZUH9aemK6X.jpeg?t=164653892278", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3ox6j1k1", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-MA5O2DfAS_P.jpeg?t=164653892717", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3yLVGPM7", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-5x0eNFpge2.jpeg?t=164735576771", 
+          "width": 4032
+        }, 
+        {
+          "height": 2016, 
+          "id": "3L2ZGPO0", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-ZQTF8N9yuw-(edit).jpg?t=164981214467", 
+          "width": 3024
+        }, 
+        {
+          "height": 1632, 
+          "id": "3z75Alkj", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-JzW7KujKme-(edit).jpg?t=164981225452", 
+          "width": 2448
+        }, 
+        {
+          "height": 2016, 
+          "id": "9XxVlqg9", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-jlyeykoC7A-(edit).jpg?t=164981227378", 
+          "width": 3024
+        }, 
+        {
+          "height": 2016, 
+          "id": "KmGmAEpY", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-KikuE8p1Ci-(edit).jpg?t=164981245992", 
+          "width": 3024
+        }, 
+        {
+          "height": 1273, 
+          "id": "9lENE8Lz", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-gk-8oK_Vcq-(edit).jpg?t=164981269766", 
+          "width": 1909
+        }, 
+        {
+          "height": 1828, 
+          "id": "KPxNbdLo", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-U88rCL_f-B-(edit).jpg?t=164981217285", 
+          "width": 2743
+        }, 
+        {
+          "height": 2016, 
+          "id": "rxQPLx1V", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-RZaQyvyIoy-(edit).jpg?t=164981255642", 
+          "width": 3024
+        }, 
+        {
+          "height": 1606, 
+          "id": "30O1GG71", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-J_afpz-_Aa-(edit).jpg?t=164981233308", 
+          "width": 2409
+        }, 
+        {
+          "height": 1481, 
+          "id": "37beO450", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-kWW9Ncm84E-(edit).jpg?t=164981235195", 
+          "width": 2221
+        }, 
+        {
+          "height": 1204, 
+          "id": "rMjY2654", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-v2LVDGB_CK-(edit).jpg?t=164981253208", 
+          "width": 1807
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vpxxGYO", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-h4bVUe6RvP.jpeg?t=164735576687", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rN0DbOeG", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-jvpDkNbv3vx.jpeg?t=164653929837", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lm2NWk2", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-uATSft2DGaM.jpeg?t=164653927147", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3gjGgkLP", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-sI6vDSJD6H.jpeg?t=164653931190", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rk4n2moW", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-Q1efG6e-dzk.jpeg?t=164653893276", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjgOR1A7", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-kQbWm8tSgnN.jpeg?t=164653893623", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3v825JLN", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-qnOcNlcySk.jpeg?t=164712859244", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "3Bk1NdXV", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-1bYuKp67ST.jpeg?t=164712858929", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "rEjAZMQP", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-oYhkE6WtwC.jpeg?t=164712859119", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "92XdBeEA", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-EhaupyzhW1.jpeg?t=164712859494", 
+          "width": 3024
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1676, 
+          "id": "KVaJaaNQ", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rGJpnAaj-I7cH3AWFn4-(edit).jpg?t=164981641760", 
+          "width": 2514
+        }, 
+        {
+          "height": 2016, 
+          "id": "3ONZo5e6", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-_cCPeGAqGr-(edit).jpg?t=164762823757", 
+          "width": 3024
+        }, 
+        {
+          "height": 2016, 
+          "id": "9aLEYxRm", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-TBEjzk3bkQ-(edit).jpg?t=164762862070", 
+          "width": 3024
+        }, 
+        {
+          "height": 2688, 
+          "id": "rGyXZ4aj", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/rGJpnAaj-7SkiTuRsiz-(edit).jpg?t=164762816526", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KDqkMmDR", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-85Fa1BBsHJ.jpeg?t=164735575024", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "rNv6RvRb", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-3bi5QGMeo.jpeg?t=164735574993", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QDjW5al", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-E5eidwZkN_I.jpeg?t=164712858405", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rJN1XwQg", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-HHa9UOauDl.jpeg?t=164735576850", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "9nGqg21J", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-vyAVyqtlQW.jpeg?t=164735576944", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJJZ7ALE", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-kvcsdzg0Gmt.jpeg?t=164712858612", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3BEvZPkV", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/s-gvyu3Z8medx.jpeg?t=164584182501", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "9n1mWglJ", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/s-Iod9jn5gFFj.jpeg?t=164584182442", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "rJ2PXBmE", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/s-hg6vUfnQPXY.jpeg?t=164584182339", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LnjneXR", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-5bzg9AEmCB.jpeg?t=164712859048", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4d5Eaog", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-GC02ifwWPSt.jpeg?t=164712859527", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVqJvqyP", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-eonrJI48Q3.jpeg?t=164712858989", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYYeoy5K", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-ufTWLynVPw.jpeg?t=164735576127", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KVQW2XxP", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/s-8UBTRPEB25K.jpeg?t=164584182521", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XVWZgWg", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-p-KDPyg1o.jpeg?t=164712859300", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3Ra6kqR1", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-pj_NlP_wiq.jpeg?t=164735575030", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 1440, 
+          "id": "36MgQWYl", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-N_Wq8G0mN5_.jpeg?t=164907936211", 
+          "width": 1440
+        }, 
+        {
+          "height": 1170, 
+          "id": "rwOe54al", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-VpO9e_VpOK6.jpeg?t=164907889424", 
+          "width": 2208
+        }
+      ], 
+      "other": [
+        {
+          "height": 4032, 
+          "id": "rNNlVM7r", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-UrGLQpy0WVD.jpeg?t=164885646496", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "KDDPRnNE", 
+          "link": "c37c0b803a67cb9012acfe5d72d8adc7cc1e338a/photos/rGJpnAaj-2mNVQAMS2jQ.jpeg?t=164885650750", 
+          "width": 3024
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The B8 S4 is a desirable performance sedan that boasts a potent supercharged V6 engine, Quattro all-wheel drive, and a luxurious interior with good technology. This particular example is a Prestige model that touts a classic color combination and some desirable factory equipment like a Sports rear differential, the MMI Navigation Plus package, and a Bang & Olufsen sound system. Other benefits include fine Nappa leather, heated front seats, 3-zone automatic climate control, and virtually no modifications \u2013 the factory wheels being plasti-dipped in black is the only change from stock! ", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment is shown below:\n- Prestige trim level (adaptive xenon headlights, Bang & Olufsen sound system, Audi Side Assist, Audi MMI Navigation Plus package)\n- Sports rear differential\n- S-specific sport suspension and brakes\n- Power-operated sunroof\n- LED taillights\n- Fine Nappa leather upholstery\n- Carbon Atlas interior trim\n- Power-adjustable heated front seats\n- 3-zone automatic climate control\n- Power-operated rear sunshade\n- Manual rear side sunshades\n- Cruise control", 
+      "highlights": "THIS\u2026 is a 2014 Audi S4, finished in Ice Silver Metallic with a black interior. \n- The attached Carfax history report shows no mileage discrepancies in this S4\u2019s past. \n- The included window sticker reveals that this S4 had an MSRP of $61,430. It shows that this sedan is a Prestige trim level model, which includes adaptive xenon headlights, a Bang & Olufsen sound system, the Audi MMI Navigation Plus Package, and Audi Side Assist. Additional factory equipment is detailed below. Modifications reported by the seller are limited to the 19-inch factory wheels being plasti-dipped in black. \n- Called \"B8\" internally, the 4th-generation Audi A4 made its debut for the 2009 model year, and the quicker S4 arrived for 2010 with a supercharged engine and a firmer suspension system. Audi gave both models a mid-cycle update for 2013 that brought a sharper-looking exterior design, among other changes. Production ended in 2016.\n- Power comes from a \"TFSI\" 3.0-liter supercharged V6, rated at 333 horsepower and 325 lb-ft of torque. Output is sent to all four wheels via a 7-speed dual-clutch automatic transmission and Audi's permanent Quattro all-wheel-drive system.", 
+      "known_flaws": "- The attached Carfax report shows that this S4 sustained \u201cminor damage\u201d to the front end in August 2019. No further information is available.\n- Some scratches and dings all around\n- Curb rash on wheels\n- Creases and some wear on driver seat\u2019s outer bolsters", 
+      "modifications": "- Black plasti-dipped 19-inch factory wheels ", 
+      "other_items": "- 1 key\n- Owner's manual\n- Window sticker", 
+      "ownership_history": "The seller purchased this S4 in August 2021 and has added approximately 1,000 miles since. He adds that the car is titled in his father's name. ", 
+      "recent_service_history": "The seller states that this S4 recently had an engine oil and filter change, a coolant flush, and the valve cover gaskets and PCV valve replaced. \n\nAdditional service history is detailed in the attached Carfax report.", 
+      "videos": [
+        "https://youtu.be/AP3_dvzuGPc"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "Supercharged V6, AWD, Sports Differential, Prestige Trim", 
+    "title": "2014 Audi S4", 
+    "title_status": "Clean (IL)", 
+    "transmission": 1, 
+    "transmission_details": "7-Speed", 
+    "vin": "WAUKGAFL1EA119525", 
+    "year": 2014
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "mraudi"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-26T18:10:00.000+00:00", 
+    "bids": 3, 
+    "comments": 6, 
+    "current_bid": {
+      "amount": 9420, 
+      "bidder": {
+        "photo": null, 
+        "username": "MN_Max"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 108
+  }, 
+  "status": "live", 
+  "submission_id": "rGJpnAaj", 
+  "views": 1893, 
+  "watching": false
+}

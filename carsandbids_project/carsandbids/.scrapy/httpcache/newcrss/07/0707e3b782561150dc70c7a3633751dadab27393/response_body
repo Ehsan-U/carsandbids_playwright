@@ -1,0 +1,566 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": true, 
+      "payment": 1033, 
+      "price": 35250, 
+      "rate": 0.0349, 
+      "term": 36
+    }, 
+    "minimum_payment": 485
+  }, 
+  "id": "9nBNqMn2", 
+  "listing": {
+    "body_style": 4, 
+    "drive_train": 2, 
+    "engine": "6.2L Supercharged V8", 
+    "exterior_color": "Glacier Metallic", 
+    "highlighted_points": [
+      "Carbon Fiber and Luxury packages", 
+      "Florida-owned since new", 
+      "Recaro front seats"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-06T15:50:29.614+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=r4V63ycaY0TJjvyn37a3vw", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "3LwqmMZG", 
+    "interior_color": "Jet Black", 
+    "location": "Belleville, NJ 07109", 
+    "make": "Cadillac", 
+    "make_slug": "cadillac", 
+    "mileage": 33200, 
+    "mileage_text": null, 
+    "model": "CTS-V", 
+    "model_slug": "cts-v", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 1080, 
+          "id": "r45RY7Wg", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-5nu_o3S0Zv-(edit).jpg?t=164937741545", 
+          "width": 810
+        }, 
+        {
+          "height": 1080, 
+          "id": "98PGQ7kw", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-mmyd3BuOp4-(edit).jpg?t=164937744688", 
+          "width": 810
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 1633, 
+          "id": "98B8zMb0", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-CKOTmzdOa_-(edit).jpg?t=165055948552", 
+          "width": 2450
+        }, 
+        {
+          "height": 1611, 
+          "id": "9nbgPv1N", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-3G6RtcCVcI-(edit).jpg?t=164937630087", 
+          "width": 2417
+        }, 
+        {
+          "height": 1914, 
+          "id": "KPyZge2L", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-m3iPLFoWcV-(edit).jpg?t=165055950090", 
+          "width": 2871
+        }, 
+        {
+          "height": 1590, 
+          "id": "rxbeMzlQ", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-balMVd-FA9-(edit).jpg?t=165055951721", 
+          "width": 2385
+        }, 
+        {
+          "height": 1772, 
+          "id": "rxew26DB", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-qFKrwM1kdg-(edit).jpg?t=164937643009", 
+          "width": 2659
+        }, 
+        {
+          "height": 1464, 
+          "id": "3qoLzxLN", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-aUwm3PjHDj-(edit).jpg?t=164937624657", 
+          "width": 2197
+        }, 
+        {
+          "height": 1844, 
+          "id": "9azJVaGE", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-8VVcPdWFL0-(edit).jpg?t=164937664617", 
+          "width": 2766
+        }, 
+        {
+          "height": 1525, 
+          "id": "9XN2dmWN", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-UoNdhyI6-p-(edit).jpg?t=164937637121", 
+          "width": 2288
+        }, 
+        {
+          "height": 2368, 
+          "id": "rEGJmnnb", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-NxrPPSRJjk-(edit).jpg?t=164937634468", 
+          "width": 3553
+        }, 
+        {
+          "height": 1852, 
+          "id": "36Wde54x", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-IEAELkNI74-(edit).jpg?t=164937650280", 
+          "width": 2778
+        }, 
+        {
+          "height": 3024, 
+          "id": "9A4QkjMw", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-8Wmf7oLoPVe.JPG?t=164927452471", 
+          "width": 4032
+        }, 
+        {
+          "height": 2005, 
+          "id": "92mZ7b6A", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-oqz74pQqV2-(edit).jpg?t=164937738925", 
+          "width": 3008
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjE50Nj2", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-_-gq0SQmUh.JPG?t=164937668391", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjYxnPLw", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-sNJHlnrPcpF.JPG?t=164927451193", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVDXzWW0", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-rKjsIIDu9Dx.JPG?t=164927453275", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9ngMpNB2", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-x2SsZho_cH-.JPG?t=164927453204", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkDwdlvQ", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-ksFFecI91w.JPG?t=164927453863", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9AWkjNyA", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-BYVtyMJG3-.JPG?t=164927453813", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3OnGPxYy", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-3ypRI9ICsbA.JPG?t=164927451436", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oq7zgLv", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-0Ijk5lseYEJ.JPG?t=164927452368", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KdOkMAmB", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-nT6qTrJvFV.JPG?t=164927453885", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37poPJRv", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-cQcMIprL7F.JPG?t=164927450324", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36EvbJWP", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-pJEsl3wwND.JPG?t=164927453967", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9X2yNnkj", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-SIGtgGO4UHZ.JPG?t=164927453436", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbgk8gmJ", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-nkjmgnxzA.JPG?t=164927450323", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36PRz0jy", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-H75urgWXtZq.JPG?t=164927452623", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KdbqPEY5", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-RadvBg-sc5C.JPG?t=164927452549", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37bOeea0", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-Hl0hazeq9gu.JPG?t=164927453518", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3z7wxdbj", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-QLssBaO0r_C.JPG?t=164927453387", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPxXaJEo", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-zKIU_MwDdYl.JPG?t=164927453345", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbmqRPJL", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-8vKsA3y1hRH.JPG?t=164927452367", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2688, 
+          "id": "KYVGkpEv", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-cxYhWBm4GF-(edit).jpg?t=164937685327", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "36gRqVny", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/9XBQaov7-ThkuD50V9j-(edit).jpg?t=165054108056", 
+          "width": 4032
+        }, 
+        {
+          "height": 2466, 
+          "id": "3vpAMPBR", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-HLRBtvyT8c-(edit).jpg?t=164937691726", 
+          "width": 3699
+        }, 
+        {
+          "height": 2114, 
+          "id": "3yLz1lnL", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9XBQaov7-aZivkQJAf6-(edit).jpg?t=164937698465", 
+          "width": 3172
+        }, 
+        {
+          "height": 3024, 
+          "id": "rE1qBJXV", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-NdWx3wPGtjm.JPG?t=164927451846", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92qNb0b6", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-ZLmGa2k8VLe.JPG?t=164927451970", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxQgB0vV", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-h-EMOz9DBM.JPG?t=164927453689", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9aVMgJAQ", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-Nk9Tx2U7JSG.JPG?t=164927452922", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPmqvjDQ", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-LSNxBTBffrZ.JPG?t=164927452217", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lawaJ7g", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-s4rky8LQRES.JPG?t=164927452273", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98zpPmLw", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-fFTdiDc3IQ.JPG?t=164927453536", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3Lq4MZYV", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-CLqLBKpiX8I.JPG?t=164927451751", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVWlXyZl", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-4CupdggnIcE.JPG?t=164927451714", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkVJ5onl", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-d5fry7G50s3.JPG?t=164927452825", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30OEBD11", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-f6PeDIbZHP.JPG?t=164927453471", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rN1zWnyW", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-OsPCIyTQlED.JPG?t=164927452701", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3R2g8mgm", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-KwnWE3YBUMy.JPG?t=164927452750", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3g54M4xo", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-JHeGIuYfraY.JPG?t=164927452876", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36ko287n", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-h-VIEYQHm4.JPG?t=164927450798", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nEE4W6X", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-4HPGj_zM91h.JPG?t=164927451601", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BqVY2zA", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-3S7ZZoyhcOF.JPG?t=164927451666", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMjAejz4", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-RrZpRZJaaL.JPG?t=164927453634", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WZjyQ7R", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-aS5Xc_3p06s.JPG?t=164927452835", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98wZyGm6", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-mt-8ILQ_cee.JPG?t=164927452090", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4yAd1ln", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-M2dH86I-w56.JPG?t=164927452072", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qlNpzpE", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-iBzaecwp3Yr.JPG?t=164927451546", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmN4bPRx", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-hzbkBPBs14v.JPG?t=164927452519", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lEvbwZz", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-FvVaTSQnK4.JPG?t=164927453720", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30GJ55oR", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-oqhEQx3cYNI.JPG?t=164927451964", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9Xqqxzez", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-qY8ylTkboqk.JPG?t=164927451954", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r40Z6zVx", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-myfeShlTdU.JPG?t=164927453535", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYl8qD5P", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-nD-B18QMoWP.JPG?t=164927453030", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vLJg7xN", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-bdVgxX-iYx_.JPG?t=164927453091", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZP4wGxo", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-_J12NvC1Pm6.JPG?t=164927452945", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3Rz5zGjp", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-wsb3PdQb5tA.JPG?t=164927451012", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3o00ZLZg", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-kaxGRDtffT9.JPG?t=164927450991", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmpzpzkY", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-iwIsP5HxHO.JPG?t=164927453613", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9llZJOJG", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-VHHWzzUQH8P.JPG?t=164927450322", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "rJvxQN8E", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-VwxK1ytA4sb.JPG?t=164927453178", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3OPlXExz", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-f8ZlOQKxffL.JPG?t=164927453048", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9edJPRWj", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-PhP4bFORzVp.JPG?t=164927453260", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3yyYdn0o", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-nfFyvNoRRd_.JPG?t=164927453108", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3o68l4vm", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-qiGByb16LK.JPG?t=164927453754", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "KDz5NNva", 
+          "link": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9XBQaov7-dtAF5cARXc6.JPG?t=164937686372", 
+          "width": 4032
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The third-generation Cadillac CTS-V is a SERIOUSLY exciting sedan that boasts a 6.2-liter supercharged V8 rated at a muscular 640 horsepower (!!!), an elegant exterior design, and an interior that's nicer than many give it credit for. This is the rare Glacier Metallic Edition model, which was limited to 115 units and boasts Glacier Metallic paint, a lot of carbon fiber parts, AND a long list of equipment \u2013 it's one of the most desirable CTS-V models! This car is also unmodified, touting reasonable mileage, and warm-weather Florida ownership since new. And, it's offered with no reserve, which further enhances this CTS-V's appeal!", 
+      "equipment": "- Carbon Fiber Package (carbon fiber hood vent, front splitter, rear spoiler, rear diffuser)\n- Luxury Package (3-zone climate control, split-folding rear seats with armrest, heated rear seats, power rear window sunshade, manual side window sunshades, rear camera mirror, 110-volt power outlet)\n- Cadillac User Experience technology (cloud-based driver preferences, predictive navigation with available real-time traffic, collections application suite)\n- 19-inch wheels with Midnight Silver painted pockets\n- Electronic limited-slip differential\n- Cadillac PTM system with launch control\n- Performance suspension system with Magnetic Ride Control\n- Stainless-steel exhaust system with quad outlets\n- Adaptive HID headlamps\n- Red Brembo brake calipers\n- Sunroof\n- Leather upholstery\n- Heated and power-adjustable Recaro front seats\n- Heated steering wheel\n- Suede-upholstered headliner\n- 12.3-inch reconfigurable HD gauge cluster\n- 13-speaker Bose audio system\n- Performance data and video recorder\n- Head-up display\n- Parking assist technology", 
+      "highlights": "THIS\u2026 is a 2018 Cadillac CTS-V, finished in Glacier Metallic with a Jet Black interior.\n- The odometer on this CTS-V indicates approximately 33,200 miles.\n- The attached Carfax history report lists no mileage inconsistencies in this sedan's past. It also shows that this Cadillac is a two-owner car that has been Florida-owned since new.\n- Factory equipment includes the Carbon Fiber and Luxury packages, 19-inch wheels, the Magnetic Ride Control suspension system, a stainless-steel exhaust system, Brembo brake calipers, a sunroof, heated and power-adjustable Recaro front seats, a heated steering wheel, a 13-speaker Bose audio system, and the performance data and video recorder. The selling dealer reports no modifications.\n- In 2016, Cadillac plugged the supercharged \"LT4\" V8 into its midsized CTS sedan, and the third-generation CTS-V was born. Presented as the most powerful Cadillac ever produced, the third and final CTS-V sported a long list of advanced tech and safety features, though it was more commonly known as the \"four-door Corvette\" for its ability to sprint from zero-to-60 mph in under four seconds on the way to a claimed 200 mph top speed.\n- Cadillac built 115 Glacier Metallic Edition CTS-V models in 2018 to celebrate its 115th anniversary; this is number 29, according to the certificate of authenticity pictured in the photo gallery.\n- Power comes from a 6.2-liter supercharged V8, rated at 640 horsepower and 630 lb-ft of torque. Output is sent to the rear wheels via an 8-speed automatic transmission.", 
+      "known_flaws": "- The attached Carfax history report shows that damage to the front of this CTS-V was reported due to an accident in October 2018. The report also shows that damage to the right rear of this CTS-V was reported due to an accident in April 2019. It also shows that \"minor damage\" to the left front, front, and right front of this CTS-V was reported in December 2019.\n- Chips on front bumper\n- Chips on passenger-side quarter panel\n- Chip on rear spoiler\n- Creases on front seat bolsters\n- Crack in center console cup holder\n- Tear on driver's door jamb trim\n- Wear on driver's and front passenger's door panel", 
+      "other_items": "- 1 set of keys\n- Certificate of authenticity", 
+      "ownership_history": "The selling dealer has added minimal miles since acquiring the car earlier in 2022.", 
+      "recent_service_history": "The attached Carfax history report shows that the following services have been performed:\n- April 2021 (26,258 miles): Maintenance inspection completed, brake fluid flushed/changed, decals/letters/name plates replaced, oil and filter changed, anti-theft/keyless remote(s) replaced, tire(s) balanced, tire(s) mounted\n- September 2020 (22,199 miles): Maintenance inspection completed, oil and filter changed, anti-theft/keyless remote(s) replaced\n- February 2020 (19,882 miles): Maintenance inspection completed, front brake caliper(s) replaced, rear brake caliper(s) replaced, strut(s) replaced, alignment performed\n- December 2019 (18,738 miles): Four wheel alignment performed\n- October 2019 (17,959 miles): Maintenance inspection completed, oil and filter changed, tires rotated, tire(s) replaced\n- July 2019 (15,101 miles): Radio replaced\n- April 2019 (12,486 miles): Fluids checked, oil and filter changed, four wheel alignment performed\n\nThe seller reports that the following services have been performed:\n- April 2022: Oil and filter changed", 
+      "videos": [
+        "https://www.youtube.com/watch?v=Lknv2eX_6eI", 
+        "https://www.youtube.com/watch?v=9xxds6wiGo0", 
+        "https://www.youtube.com/watch?v=YBtk-pIeCqE"
+      ]
+    }, 
+    "seller_type": 2, 
+    "seller_type_details": null, 
+    "sub_title": "~33,200 Miles, 640-hp Supercharged V8, Rare Glacier Metallic Edition", 
+    "title": "2018 Cadillac CTS-V", 
+    "title_status": "Clean (FL)", 
+    "transmission": 1, 
+    "transmission_details": "8-Speed", 
+    "vin": "1G6A15S61J0117509", 
+    "year": 2018
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": {
+      "base_url": "media.carsandbids.com", 
+      "path": "974d4a0f3070f74c2a52ab83c52d1097020ba9fe/photos/9Woo2A5V-v3vSRIw91Q.jpg"
+    }, 
+    "username": "PREMIERCARSNJ"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-28T19:54:00.000+00:00", 
+    "bids": 7, 
+    "comments": 15, 
+    "current_bid": {
+      "amount": 35000, 
+      "bidder": {
+        "photo": null, 
+        "username": "austin410"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 157
+  }, 
+  "status": "live", 
+  "submission_id": "9XBQaov7", 
+  "views": 2444, 
+  "watching": false
+}

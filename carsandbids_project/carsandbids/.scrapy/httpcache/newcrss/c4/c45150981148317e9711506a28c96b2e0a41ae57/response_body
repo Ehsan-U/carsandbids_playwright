@@ -1,0 +1,494 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 2975, 
+      "price": 100000, 
+      "rate": 0.0449, 
+      "term": 36
+    }
+  }, 
+  "id": "3p750D8e", 
+  "listing": {
+    "body_style": 6, 
+    "drive_train": 3, 
+    "engine": "Quad Electric Motors", 
+    "exterior_color": "Rivian Blue", 
+    "highlighted_points": [
+      "Rivian Blue exterior", 
+      "835 horsepower", 
+      "Large battery pack"
+    ], 
+    "history_report": null, 
+    "history_report_pdf": null, 
+    "id": "rxgYRgWz", 
+    "interior_color": "Black Mountain", 
+    "location": "Flossmoor, IL 60422", 
+    "make": "Rivian", 
+    "make_slug": "rivian", 
+    "mileage": 200, 
+    "mileage_text": null, 
+    "model": "R1T", 
+    "model_slug": "r1t", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3024, 
+          "id": "KZNdaGwb", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-dUkIXIsrkmz.jpeg?t=164928439854", 
+          "width": 4032
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 1201, 
+          "id": "rkGEjOWl", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-nN9P0OOqef-jezMrcdP1-.jpg?t=164998175426", 
+          "width": 1801
+        }, 
+        {
+          "height": 1057, 
+          "id": "Kd6824np", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-Mn6Z8ma2C-kYjTb_6yAR.jpg?t=164998176387", 
+          "width": 1585
+        }, 
+        {
+          "height": 1162, 
+          "id": "rjB1XEJX", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-DNnyx7fghGE-3xA3LNs3z2.jpg?t=164998176137", 
+          "width": 1743
+        }, 
+        {
+          "height": 1241, 
+          "id": "rGWB1neX", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-rhRRfVVhj-lC8ZQcHCYL.jpg?t=164998176477", 
+          "width": 1862
+        }, 
+        {
+          "height": 1106, 
+          "id": "365aZeQy", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-LQ0Vv4ehe-5pK39alZz2.jpg?t=164998176474", 
+          "width": 1659
+        }, 
+        {
+          "height": 3262, 
+          "id": "3o0OnJl2", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-97sWo-K01g.JPG?t=164910695229", 
+          "width": 4998
+        }, 
+        {
+          "height": 3214, 
+          "id": "9QVMBaRn", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-LPBdc-P5uE8.JPG?t=164910661094", 
+          "width": 5478
+        }, 
+        {
+          "height": 3289, 
+          "id": "9WnG7Mwv", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-DNnyx7fghGE.JPG?t=164910662302", 
+          "width": 5187
+        }, 
+        {
+          "height": 3574, 
+          "id": "KDnbbwAp", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-Ajp3Db1jnWx.JPG?t=164910660323", 
+          "width": 5416
+        }, 
+        {
+          "height": 3627, 
+          "id": "35GgA4vN", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-fWbhkfGHwgl.JPG?t=164910696639", 
+          "width": 6000
+        }, 
+        {
+          "height": 2943, 
+          "id": "3LwzNWMo", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-ZPDIH8zJgs-(edit).jpg?t=164979724402", 
+          "width": 4414
+        }, 
+        {
+          "height": 3627, 
+          "id": "rwMOmWjN", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-4Hnd7boVo.JPG?t=164910698231", 
+          "width": 6000
+        }, 
+        {
+          "height": 3612, 
+          "id": "rGPdxN74", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-QibEIY6z3-E.JPG?t=164910658983", 
+          "width": 5962
+        }, 
+        {
+          "height": 3427, 
+          "id": "rjNZpNRl", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-rdv56IZ9lnE.jpg?t=164910656848", 
+          "width": 5638
+        }, 
+        {
+          "height": 3460, 
+          "id": "30AweBOV", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-bG8rosgsS.JPG?t=164910672984", 
+          "width": 6000
+        }, 
+        {
+          "height": 3567, 
+          "id": "K1gJOyqn", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-Ae8m5q6Q1n.JPG?t=164910674807", 
+          "width": 6000
+        }, 
+        {
+          "height": 2338, 
+          "id": "9a4Z2GEP", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-5Zi2_MdzE.JPG?t=164910683203", 
+          "width": 4826
+        }, 
+        {
+          "height": 3521, 
+          "id": "925y8GaE", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-nbpWXQ38M4.JPG?t=164910673230", 
+          "width": 5787
+        }, 
+        {
+          "height": 3506, 
+          "id": "37D6o1MD", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-2ZJ189krgG.JPG?t=164910678404", 
+          "width": 5970
+        }, 
+        {
+          "height": 3567, 
+          "id": "rMzWdDok", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-J9He3cZuh.JPG?t=164910680206", 
+          "width": 6000
+        }, 
+        {
+          "height": 3529, 
+          "id": "3znbwBjd", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-vAjNDs-CMV.JPG?t=164910676636", 
+          "width": 6000
+        }, 
+        {
+          "height": 3103, 
+          "id": "rbLN7GOl", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-Ww3dPyZUhk.JPG?t=164910678175", 
+          "width": 6000
+        }, 
+        {
+          "height": 3605, 
+          "id": "KPA5lMd2", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-cvVNRcz0OL.JPG?t=164910676525", 
+          "width": 6000
+        }, 
+        {
+          "height": 1365, 
+          "id": "36BaMeex", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-17bruY-d0U2-iyzUjOkDX2.jpg?t=164998326802", 
+          "width": 2048
+        }, 
+        {
+          "height": 1365, 
+          "id": "rGNBNVVO", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-EHKMoPGhep2-65FdNfJLCb.jpg?t=164998326824", 
+          "width": 2048
+        }, 
+        {
+          "height": 1365, 
+          "id": "Kdj8k4NQ", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-KrcIVI4yuu2-X92jI1A2dK.jpg?t=164998326768", 
+          "width": 2048
+        }, 
+        {
+          "height": 1365, 
+          "id": "rN42DkbX", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-q259fwguggF2-174I8X5Snp.jpg?t=164998326955", 
+          "width": 2048
+        }
+      ], 
+      "interior": [
+        {
+          "height": 3572, 
+          "id": "KPZw41WL", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-9sq5iukUDE-(edit).jpg?t=164973778523", 
+          "width": 5358
+        }, 
+        {
+          "height": 2016, 
+          "id": "3LDJaovR", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-bnYpSquJNv-(edit).jpg?t=164988957643", 
+          "width": 3024
+        }, 
+        {
+          "height": 3561, 
+          "id": "rxRNBgOj", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-XGuym0cPl5-(edit).jpg?t=164973783390", 
+          "width": 5341
+        }, 
+        {
+          "height": 3239, 
+          "id": "rbPjyMYg", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-pUc7EMDW_Q-(edit).jpg?t=164973791810", 
+          "width": 4859
+        }, 
+        {
+          "height": 3584, 
+          "id": "9lz5bRAE", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-f7v0amPYX.JPG?t=164910719320", 
+          "width": 6000
+        }, 
+        {
+          "height": 3612, 
+          "id": "3gyWa8O8", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-qi0ybRw71S5.JPG?t=164910664637", 
+          "width": 6000
+        }, 
+        {
+          "height": 4032, 
+          "id": "Kdz5ewkb", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-oK4bjlUlAY5.jpeg?t=164988656124", 
+          "width": 3024
+        }, 
+        {
+          "height": 3635, 
+          "id": "3BjmYzxB", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-5xxFAYPeUSg.JPG?t=164910687151", 
+          "width": 6000
+        }, 
+        {
+          "height": 3567, 
+          "id": "KVpdJzm6", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-FjWG-GfoL.JPG?t=164910674777", 
+          "width": 6000
+        }, 
+        {
+          "height": 3620, 
+          "id": "rN4vD8Qb", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-vQnctEDdM.JPG?t=164910684804", 
+          "width": 5475
+        }, 
+        {
+          "height": 3643, 
+          "id": "rGNqWamj", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-QC9SNcGU8Q.JPG?t=164910684388", 
+          "width": 5567
+        }, 
+        {
+          "height": 4000, 
+          "id": "rEQ4w6Qk", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-LC6t5S28qBi.JPG?t=164910670715", 
+          "width": 6000
+        }, 
+        {
+          "height": 3620, 
+          "id": "3v7DXv0M", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-hoQqly46fZ.JPG?t=164910670723", 
+          "width": 6000
+        }, 
+        {
+          "height": 3081, 
+          "id": "3o6QljN2", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-g4Clx_jQHa-(edit).jpg?t=164973798930", 
+          "width": 5668
+        }, 
+        {
+          "height": 3605, 
+          "id": "9XMQRzvq", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-HKOqV7jxw2F.JPG?t=164910689900", 
+          "width": 6000
+        }, 
+        {
+          "height": 3597, 
+          "id": "3B0dDe6b", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-6AZo30spm66.JPG?t=164910665164", 
+          "width": 6000
+        }, 
+        {
+          "height": 3276, 
+          "id": "rEvLYJGa", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-HkYfeM9yDIP.JPG?t=164910688831", 
+          "width": 5918
+        }, 
+        {
+          "height": 3582, 
+          "id": "9QBv52qE", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-U_kQUx2xokn.JPG?t=164910686141", 
+          "width": 6000
+        }, 
+        {
+          "height": 3624, 
+          "id": "KV2wQP7P", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-X1CgT4A71gm.JPG?t=164910687992", 
+          "width": 6000
+        }, 
+        {
+          "height": 3412, 
+          "id": "301zlMR2", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-2P-5XMkn5oC.JPG?t=164910690308", 
+          "width": 5253
+        }, 
+        {
+          "height": 3584, 
+          "id": "r46opJ1L", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-gBHMkT2AOL.JPG?t=164910717737", 
+          "width": 6000
+        }, 
+        {
+          "height": 3582, 
+          "id": "3oy6ZExv", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-SMyY2pLIBw2.JPG?t=164910681809", 
+          "width": 6000
+        }, 
+        {
+          "height": 3612, 
+          "id": "3pEaYJnK", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-wvn5GuiwvRK.JPG?t=164910681750", 
+          "width": 5521
+        }, 
+        {
+          "height": 3605, 
+          "id": "3OWePzw6", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-uhqHFaVLSe.JPG?t=164910685604", 
+          "width": 5521
+        }, 
+        {
+          "height": 3578, 
+          "id": "37wB4x47", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-PThuH1_QBsc.JPG?t=164910717569", 
+          "width": 6000
+        }, 
+        {
+          "height": 3595, 
+          "id": "3zWEdwE4", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-sU268kKtP2S.JPG?t=164910715759", 
+          "width": 6000
+        }, 
+        {
+          "height": 3567, 
+          "id": "9XBgvn7o", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-kfvgBp1wjNU.JPG?t=164910716049", 
+          "width": 6000
+        }, 
+        {
+          "height": 3555, 
+          "id": "rxq4n7J8", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-mDMw141jV.JPG?t=164910719278", 
+          "width": 5163
+        }, 
+        {
+          "height": 3529, 
+          "id": "30xRPo6G", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-7OfKh8TKWB-.JPG?t=164910716368", 
+          "width": 6000
+        }, 
+        {
+          "height": 3597, 
+          "id": "rJYgV5Yw", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-5HPTooynWWI.JPG?t=164910713682", 
+          "width": 5954
+        }, 
+        {
+          "height": 3620, 
+          "id": "3RyekePx", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-_h99lySvr4.JPG?t=164910682788", 
+          "width": 5567
+        }, 
+        {
+          "height": 3363, 
+          "id": "9eM5Wb5A", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-eHbMwUamAk.JPG?t=164910674450", 
+          "width": 5270
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPJNxM2k", 
+          "link": "171ab1e538119e13fa98382f268326fc825fdc20/photos/rb02AeAy-aVXEZ612Qn-(edit).jpg?t=164988962277", 
+          "width": 3024
+        }, 
+        {
+          "height": 3570, 
+          "id": "9l4bJaDN", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-zKKVYiCxfK.JPG?t=164910677144", 
+          "width": 5249
+        }, 
+        {
+          "height": 3589, 
+          "id": "rwO87Opp", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-4crpo2JiZQz.JPG?t=164910680778", 
+          "width": 6000
+        }, 
+        {
+          "height": 3597, 
+          "id": "KmoakeZe", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-V15r-wxdgW.JPG?t=164910680045", 
+          "width": 6000
+        }
+      ], 
+      "mechanical": [], 
+      "other": [
+        {
+          "height": 3551, 
+          "id": "r4BaOBRn", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-K5mInHCyLe.JPG?t=164910678692", 
+          "width": 5833
+        }, 
+        {
+          "height": 3589, 
+          "id": "3yg16wpr", 
+          "link": "22cf23a1a1de80c6589c095ad37716e11a685a97/photos/rb02AeAy-oRtfLmNykA.JPG?t=164910672620", 
+          "width": 5985
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "I absolutely love the Rivian R1T, as it totally reinvents what a vehicle can be, combining the capability of an off-roader pickup truck with the performance of a supercar AND the comfort and interior space of a luxury vehicle. This particular example offers numerous benefits, namely its gorgeous exterior color, extensive factory equipment, and \u2014 of course \u2014 its very low mileage. This is a fantastically impressive truck \u2014 and while R1Ts are starting to arrive with customers, getting one of these is still a challenge given the demand. So, if you don't want to wait, here's a chance to jump the line.", 
+      "equipment": "A window sticker is pictured in the gallery, and a partial list of notable equipment includes:\n- Large battery pack\n- 22-inch Sport Bright wheels\n- Air suspension system\n- Power-operated tonneau cover\n- Air compressor in the cargo box\n- Natural-grained ash wood interior trim\n- Vegan leather upholstery\n- Compass Yellow interior accents\n- Power-adjustable heated and ventilated front seats\n- Heated and ventilated rear seats\n- Heated steering wheel\n- 12.3-inch digital instrument cluster\n- 16-inch touchscreen for the infotainment system\n- Rivian Elevation by Meridian sound system\n- Removable Bluetooth-compatible speaker in the center console\n- Kinetic roll control system\n- Adaptive cruise control\n- Forward collision warning system\n- Lane-keeping assist\n- Blind-spot monitoring system", 
+      "highlights": "THIS... is a 2022 Rivian R1T, finished in Rivian Blue with a Black Mountain interior.\n- The window sticker pictured in the gallery shows that this R1T cost $76,575 new. It's equipped with 22-inch Sport Bright wheels, an air suspension system, a power-operated tonneau cover, an air compressor in the cargo box, wood interior trim, Compass Yellow interior accents, heated, ventilated, and power-adjustable front seats, a 16-inch touchscreen for the infotainment system, and a Rivian Elevation by Meridian sound system, among other features. The seller reports no modifications.\n- Released for 2022, the R1T has a lot of firsts on its resume. It's notably the first model released by Rivian and the first modern electric pickup to enter production. It was developed on a blank sheet of paper with the outdoors in mind, so it offers several clever features like a Gear Tunnel located between the cargo box and the cab. It's still available new, but the Launch Edition model, such as this one, is sold out.\n- Power comes from four electric motors, which draw electricity from a 135-kilowatt-hour lithium-ion battery pack to zap the four wheels with 835 horsepower and 908 lb-ft of torque. The R1T earned a maximum driving range rating of 314 miles from the EPA.", 
+      "other_items": "- 2 key cards, 1 key fob, and 1 wristband key\n- Window sticker", 
+      "ownership_history": "The seller purchased this Rivian new in March 2022.", 
+      "recent_service_history": "The seller states that this R1T has not required service due to its low mileage.", 
+      "seller_notes": "There is a loan on this vehicle. Sale proceeds will be used to satisfy the loan and allow the seller to transfer the title to the winning bidder. **Please contact the seller directly** with any questions.", 
+      "videos": [
+        "https://youtu.be/ojzhPMig4hA", 
+        "https://youtu.be/XBGOLZP3M-Q", 
+        "https://youtu.be/P6wMYme1JWk"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "Quad-Motor AWD, Rivian Blue, Large Battery Pack", 
+    "title": "2022 Rivian R1T Launch Edition", 
+    "title_status": "Clean (IL)", 
+    "transmission": 1, 
+    "transmission_details": null, 
+    "vin": "7FCTGAAL5NN003522", 
+    "year": 2022
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "RivianBlue"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-22T19:38:00.000+00:00", 
+    "bids": 9, 
+    "comments": 107, 
+    "current_bid": {
+      "amount": 124420, 
+      "bidder": {
+        "photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "dc6256f9995af59a74e1f193f224a205bc6f420f/photos/3qW7bLNA-C9otuv_JLS9.png"
+        }, 
+        "username": "ColoradoHyperion"
+      }
+    }, 
+    "questions": 2, 
+    "watchers": 615
+  }, 
+  "status": "live", 
+  "submission_id": "rb02AeAy", 
+  "views": 21834, 
+  "watching": false
+}

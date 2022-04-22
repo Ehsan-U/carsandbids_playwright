@@ -1,0 +1,673 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 900, 
+      "price": 30250, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 431
+  }, 
+  "id": "r4k806zP", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "6.2L V8", 
+    "exterior_color": "Sterling Blue Metallic", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Carbon Fiber Visible Package", 
+      "Unmodified"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-12T22:28:23.246+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=dHktiFV2rnhvgIfDI_2F2g", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "9az0pRAP", 
+    "interior_color": "Gray", 
+    "location": "Clermont, FL 34711", 
+    "make": "Chevrolet", 
+    "make_slug": "chevrolet", 
+    "mileage": 13000, 
+    "mileage_text": null, 
+    "model": "Corvette", 
+    "model_slug": "corvette", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 4000, 
+          "id": "3LGP614y", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-gYuf5L2JFG.jpg?t=164986805839", 
+          "width": 6000
+        }, 
+        {
+          "height": 1650, 
+          "id": "9eYqNpN9", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-suPnmo2xmX-(edit).jpg?t=165048115947", 
+          "width": 1275
+        }, 
+        {
+          "height": 1650, 
+          "id": "KV4wJ0XL", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-Rb5XXEqlkK-(edit).jpg?t=165048118879", 
+          "width": 1275
+        }, 
+        {
+          "height": 1650, 
+          "id": "KPGmPp0q", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-q6DK5NlUnf-(edit).jpg?t=165048126688", 
+          "width": 1275
+        }, 
+        {
+          "height": 1650, 
+          "id": "3gvze7Vb", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-MZho_zZoz6.jpg?t=165048111931", 
+          "width": 1275
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 3040, 
+          "id": "KDnQqX09", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-W8uuNqrdiV-(edit).jpg?t=164994471419", 
+          "width": 4560
+        }, 
+        {
+          "height": 2658, 
+          "id": "rjLDvJ6x", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-s892sB5_OW-(edit).jpg?t=164994404217", 
+          "width": 3987
+        }, 
+        {
+          "height": 3429, 
+          "id": "9QM1dw8n", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-zxoZIKUg5p-(edit).jpg?t=164994481853", 
+          "width": 5144
+        }, 
+        {
+          "height": 3456, 
+          "id": "3ybpJlpp", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-aoqmSpsfeS-(edit).jpg?t=164994511586", 
+          "width": 5184
+        }, 
+        {
+          "height": 3233, 
+          "id": "rklLd4mR", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-xbZ8DQPyNd-(edit).jpg?t=164994254063", 
+          "width": 4850
+        }, 
+        {
+          "height": 4000, 
+          "id": "92b6EkOA", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-cXLhnjbVbs.jpg?t=164986740015", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rwWzDNvl", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-w6VUlmescZ.jpg?t=164986780106", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9QJjLlw7", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-2BlZ3XNPsS.jpg?t=164986765869", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rxq2MWPV", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-FRkRQEwr61.jpg?t=164986879951", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9AbbzZ83", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-E3j0PPX8Io.jpg?t=164986886038", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rbx4a2jw", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-MRq-cSuhMs.jpg?t=164986752094", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "30ngyxBj", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-o0AeEUBPeR.jpg?t=164986769252", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "r4o8qGpV", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-39THE0kxAx.jpg?t=164986815092", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3oR2eJk1", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-EUbYD-JgZh.jpg?t=164986762657", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9eG8p62y", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-JEnbZwByls.jpg?t=164986740558", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9le7Qa0O", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-LxuLuc8ljC.jpg?t=164986821848", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3qnwMeq1", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-ECdHCSCzHv.jpg?t=164986766093", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3pYonQ1e", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-SpzSVvlt1F.jpg?t=164986823046", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "92wn545Y", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-zbMqG3ftCP.jpg?t=164986769276", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3ODPWNez", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-5KBdVjgD4h.jpg?t=164986874126", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9AlgDOkw", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-MiuLLG4fH1.jpg?t=164986856109", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9namY6AN", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Lkzz_SErcu.jpg?t=164986802101", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3yYj411y", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-wYrXYGTRwe.jpg?t=164986800777", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KVmWD46Q", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-pC7R5-oFS5.jpg?t=164986805762", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9QVepA7d", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-IhCKoZQS0v.jpg?t=164986840717", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3pneY4El", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-BiwU6A6AuQ.jpg?t=164986762597", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3qJzAvb5", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-MPgeBtaLuB.jpg?t=164986840749", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KZAAkDAA", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Ie3gA2bZ96.jpg?t=164986844172", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rjq4NMkY", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-9vD-ITpgDz.jpg?t=164986887634", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "98Z7VlW2", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-c-L6KQ0S7q.jpg?t=164986815198", 
+          "width": 6000
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1386, 
+          "id": "KVbDGP8x", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-E9CpRWq7zF-(edit).jpg?t=164994447278", 
+          "width": 2079
+        }, 
+        {
+          "height": 1253, 
+          "id": "rJZ1zVE2", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-4BgHYpxUkw-(edit).jpg?t=164994440327", 
+          "width": 1879
+        }, 
+        {
+          "height": 1092, 
+          "id": "9nXL0MQp", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-Z1whf1r422-(edit).jpg?t=164994442614", 
+          "width": 1638
+        }, 
+        {
+          "height": 1144, 
+          "id": "3vNxNRZR", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KPe8JZBa-bczwoJKXQf-(edit).jpg?t=164994438096", 
+          "width": 1716
+        }, 
+        {
+          "height": 4000, 
+          "id": "rbonXaQL", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-HEfVNwV_cV.jpg?t=164986853526", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3O7PDN0k", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-NEiVX1XZaB.jpg?t=164986795416", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KZDLYQgG", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-_V1ATJnRYV.jpg?t=164986794372", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rxPdEwxW", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-FrlRhoKTTa.jpg?t=164986851131", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNd8La87", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-kbHqBaYb-O.jpg?t=164986782221", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rJA2yyLO", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-i8KDBESX9T.jpg?t=164986847436", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "35GyQQNk", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-W6P4qzBP8j.jpg?t=164986755521", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9Wda41Zd", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-_xzJba6diN.jpg?t=164986789420", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3RpEBYk1", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-cO_thOK1ur.jpg?t=164986867062", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9aYO6xY8", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-qkqtYfcXep.jpg?t=164986791756", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3pNoLQbl", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-buYNxtjXTt.jpg?t=164986883832", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KDnnAGOM", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-nBE_-ClGGw.jpg?t=164986836199", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3g4ZLJLP", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-fCMOhI7bSJ.jpg?t=164986791752", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "36XZ27Br", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-p_-EbzQsKo.jpg?t=164986759097", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "304nDBQg", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-lwRtHHK1z2.jpg?t=164986812277", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KZaLDQao", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-lY8BFdveYr.jpg?t=164986872869", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KV0WW4xP", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-8upKpPAQdk.jpg?t=164986875917", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rMYzYMPp", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-H0FzTWptNV.jpg?t=164986819658", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3vQoY2dm", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-bsvMPKsQpP.jpg?t=164986798903", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rkEVj0Pl", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-PQbq7EdIoC.jpg?t=164986867109", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNAJg55X", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-zpBTeHmA8B.jpg?t=164986835706", 
+          "width": 6000
+        }, 
+        {
+          "height": 3712, 
+          "id": "KYMO7Njv", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Hm8Kq5W5n7.jpg?t=164986844250", 
+          "width": 5568
+        }, 
+        {
+          "height": 4000, 
+          "id": "3ojdbmBE", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-qBrzGyOH7e.jpg?t=164986772331", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rbznBv0D", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-5BSkMU1sCc.jpg?t=164986772049", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KmYy12yb", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-yGdKYcViAf.jpg?t=164986757489", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "35W21q1B", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-gGd2A6O5zM.jpg?t=164986775025", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "36gqmx4z", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-cLN2bY7yI4.jpg?t=164986860652", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "r4ZkY0oy", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-1XokLExJyu.jpg?t=164986755294", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "Km1OqX5m", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-u3vLJOb83r.jpg?t=164986817891", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9eDa0JE6", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-jJVdoXlvEF.jpg?t=164986804973", 
+          "width": 6000
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 4000, 
+          "id": "KPZByZqN", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-pZD4_pvT_9.jpg?t=164986809537", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KdRM7lq1", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-arGqSzmca9.jpg?t=164986777803", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3zqye4OA", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-lNSKnI158G.jpg?t=164986811136", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KmPzzNd3", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-MyNLVPP4eq.jpg?t=164986775356", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rkVpaRpQ", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-SfBQE-8w1D.jpg?t=164986887303", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KdZw4k8Q", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-ObjKukph8e.jpg?t=164986831381", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9lz7EaMz", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Qwde4IV23D.jpg?t=164986881893", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "36Yq7x2W", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-79r_x8rOU6.jpg?t=164986779315", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rG54QlvO", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-2JWfcBa3YG.jpg?t=164986832114", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rjN4BbjN", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-DEWDuwJVr_.jpg?t=164986829044", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3qBwxVQE", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-E5Z4Ilrr8m.jpg?t=164986847382", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNk88aDb", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-79-izr2rs5.jpg?t=164986863587", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9AdbqbxJ", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-q0gsy5eMo4.jpg?t=164986826122", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rwMzaelM", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-z5WjxGJA4u.jpg?t=164986862964", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rkbpJRkN", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-KvCqxRGxAu.jpg?t=164986828551", 
+          "width": 6000
+        }
+      ], 
+      "other": [
+        {
+          "height": 4000, 
+          "id": "3L5P51p0", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-QObvzTAR6j.jpg?t=164986876198", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KmROAXaY", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Dkg4C4kcyU.jpg?t=164986878656", 
+          "width": 6000
+        }, 
+        {
+          "height": 6000, 
+          "id": "35G2lqQE", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-_Ih1XtsN2O.jpg?t=164994589796", 
+          "width": 4000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9aBODPGQ", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-kGBlZETmo0.jpg?t=164986870618", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rML8xkpG", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-k8IZoMuCpX.jpg?t=164986759080", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rJ6PDYVX", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Fue3645BlI.jpg?t=164986802073", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rx12VWa0", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-Q-5NdEPCTH.jpg?t=164986819677", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3ojNMA1m", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-iyDJ29xqfQ.jpg?t=164986884884", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3g6ZYJ5o", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-kpJTBHWrhf.jpg?t=164986870483", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9W7aJZmR", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-EjGz8CJxWE.jpg?t=164986868849", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3o0dmmev", 
+          "link": "46df3b46f19ead4f5a7494d5b83693f866de386c/photos/KPe8JZBa-VcEek0OSrJ.jpg?t=164986854673", 
+          "width": 6000
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The C7 Corvette is truly amazing sports car, offering great styling, potent V8 performance, and a much nicer interior than previous versions. This particular example is a Grand Sport model that boasts really low mileage, a gorgeous (and rare!) Sterling Blue Metallic color, and some great options, like the Carbon Fiber Visible Package, an exposed carbon fiber rear spoiler, and an attractive set of chrome Grand Sport wheels. It's also unmodified \u2013 and it benefits from a clean, accident-free Carfax report, showing Florida ownership from new.", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment includes:\n- Grand Sport Performance Package (model-specific suspension tuning, Magnetic Ride Control suspension, slotted brake rotors, electronic limited-slip differential, rear differential cooler, multi-mode performance exhaust, performance gear ratios, dry sump oil system)\n- Carbon Fiber Visible Package\n- Grand Sport 19-inch front and 20-inch rear wheels\n- Exposed carbon fiber rear spoiler\n- Removable roof panel\n- Leather-trimmed GT bucket seats\n- Chevrolet MyLink\n- Bose audio system\n- Remote vehicle start", 
+      "highlights": "THIS... is a 2017 Chevrolet Corvette Grand Sport Coupe, finished in Sterling Blue Metallic with a gray interior.\n- The odometer on this Corvette indicates approximately 13,000 miles.\n- The attached Carfax history report lists no accidents or mileage discrepancies; it also lists registrations in Florida from new. \n- A window sticker is provided in the photo gallery showing that this Corvette carried an MSRP of $77,765 when new. A partial list of notable equipment includes the Grand Sport Performance Package, which includes Magnetic Ride Control suspension, an electronic limited-slip differential, a multi-mode performance exhaust, and more. Additional equipment includes the Carbon Fiber Visible Package, Grand Sport 19-inch front and 20-inch rear wheels, an exposed carbon fiber rear spoiler, a removable roof panel, and more listed below.\n- Chevrolet launched the seventh-generation \"C7\" Corvette for the 2014 model year. It offered a more user-friendly interior, a sharper-looking exterior design, and, significantly, the then-new \"LT1\" small-block V8. Released for 2017, the Grand Sport was a track-bred model positioned near the middle of the range. It offered enthusiasts Z06-like wide body panels, a naturally-aspirated V8 shared with the Stingray, and performance upgrades like an electronic limited-slip differential.\n- Power for this Corvette comes from a 6.2-liter \"LT1\" V8, rated at 460 horsepower and 465 lb-ft of torque. Output is sent to the rear wheels via an 8-speed automatic transmission", 
+      "known_flaws": "- Scratch on passenger\u2019s side rear quarter panel\n- Crack on front splitter", 
+      "other_items": "- 2 key fobs\n- Owner\u2019s manual\n- Window sticker", 
+      "ownership_history": "The seller reports that he leased this Corvette new in December 2017, and purchased it after the lease ended in March 2021.", 
+      "recent_service_history": "Service documentation in the photo gallery indicates that the following maintenance has been performed:\n- April 2022 (12,990 miles): Engine oil and filter changed\n- January 2021 (10,594 miles): Engine oil and filter changed, anti-theft/keyless remote battery replaced\n- September 2019 (7,596 miles): Engine oil and filter changed\n- September 2018 (5,221 miles): Engine oil and filter changed, tire patched, alignment performed", 
+      "seller_notes": "The seller states that a ceramic coating was applied to the exterior in March 2022.", 
+      "videos": [
+        "https://youtu.be/Lko6HVv4IoI", 
+        "https://youtu.be/YBydUGCWOM4", 
+        "https://youtu.be/LCKq4tJWCtg", 
+        "https://youtu.be/lfpIQRUg9yY"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~13,000 Miles, Florida-Owned, 6.2L V8 Power, Sterling Blue Metallic", 
+    "title": "2017 Chevrolet Corvette Grand Sport Coupe", 
+    "title_status": "Clean (FL)", 
+    "transmission": 1, 
+    "transmission_details": "8-Speed", 
+    "vin": "1G1YW2D76H5106643", 
+    "year": 2017
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "Gary_G"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-27T18:58:00.000+00:00", 
+    "bids": 13, 
+    "comments": 16, 
+    "current_bid": {
+      "amount": 30000, 
+      "bidder": {
+        "photo": null, 
+        "username": "Pender64"
+      }
+    }, 
+    "questions": 1, 
+    "watchers": 211
+  }, 
+  "status": "live", 
+  "submission_id": "KPe8JZBa", 
+  "views": 2659, 
+  "watching": false
+}

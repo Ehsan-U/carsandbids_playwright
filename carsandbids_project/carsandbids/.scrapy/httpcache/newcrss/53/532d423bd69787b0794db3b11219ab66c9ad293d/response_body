@@ -1,0 +1,447 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 316, 
+      "price": 10600, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 154
+  }, 
+  "id": "K17L8dlG", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "5.0L Supercharged V8", 
+    "exterior_color": "Lightning Blue", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "1 of 40 produced in 2017", 
+      "GT Performance Package"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-13T21:43:01.263+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=pbCo3szvCvashW_JmZWhwA", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "3L7O5b2G", 
+    "interior_color": "Ebony", 
+    "location": "Crofton, MD 21114", 
+    "make": "Ford", 
+    "make_slug": "ford", 
+    "mileage": 15000, 
+    "mileage_text": null, 
+    "model": "Mustang", 
+    "model_slug": "mustang", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 4016, 
+          "id": "rkgpVdLW", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-wd4fNX-KXNS.JPG?t=165003250399", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "3Rv6Y1Yx", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-bUmrI8GPMUF.JPG?t=165003250383", 
+          "width": 6016
+        }, 
+        {
+          "height": 1917, 
+          "id": "K1w8MLxz", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/s-xoWc7n_MzN.jpg?t=164883631235", 
+          "width": 3052
+        }, 
+        {
+          "height": 1200, 
+          "id": "rjP1eEe0", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-uYI0nOPeVIO.jpg?t=164997780821", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "rkEE1dgg", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv--JHK1T2Cyzn.jpg?t=164997780821", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "9Azq1glv", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-zPRQ3Hikemp.jpg?t=164997780818", 
+          "width": 1600
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 3274, 
+          "id": "rMp7NeW8", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv--aMgap6bQQ-(edit).jpg?t=165013430079", 
+          "width": 4911
+        }, 
+        {
+          "height": 2957, 
+          "id": "rb1RdpJw", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-InBcluEj7R-(edit).jpg?t=165033005595", 
+          "width": 4436
+        }, 
+        {
+          "height": 3752, 
+          "id": "36PgADwy", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-1WCgIJ1Roj-(edit).jpg?t=165013434731", 
+          "width": 5628
+        }, 
+        {
+          "height": 3425, 
+          "id": "rwNebe5M", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-qTSI1ZG_eo-(edit).jpg?t=165013440591", 
+          "width": 5138
+        }, 
+        {
+          "height": 3682, 
+          "id": "rJ5Ql5jz", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-HoqmnzP_zC-(edit).jpg?t=165038637029", 
+          "width": 5524
+        }, 
+        {
+          "height": 2214, 
+          "id": "36db8jjP", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-wRajqt_xQl-(edit).jpg?t=165033043286", 
+          "width": 3437
+        }, 
+        {
+          "height": 3032, 
+          "id": "r4WJLA0y", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-4pEYMq8sI5-(edit).jpg?t=165033020963", 
+          "width": 4548
+        }, 
+        {
+          "height": 2659, 
+          "id": "356Q8Q2l", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-db-UuWDJm6-(edit).jpg?t=165033026068", 
+          "width": 4226
+        }, 
+        {
+          "height": 1200, 
+          "id": "r45eDVPp", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-W7ctm6pHv.jpg?t=164996239781", 
+          "width": 1600
+        }, 
+        {
+          "height": 3097, 
+          "id": "37gyoo6D", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-K4OndvCFyw-(edit).jpg?t=165033011695", 
+          "width": 4645
+        }, 
+        {
+          "height": 4016, 
+          "id": "3z2Z6LYJ", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-nj_OLl8F6.JPG?t=164997776307", 
+          "width": 6016
+        }, 
+        {
+          "height": 3802, 
+          "id": "KmqLB4Rb", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-reQd8rNIxx-(edit).jpg?t=165033032603", 
+          "width": 6016
+        }, 
+        {
+          "height": 3524, 
+          "id": "rMaldkGk", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-ZGHmzEzmk0-(edit).jpg?t=165033038627", 
+          "width": 5286
+        }, 
+        {
+          "height": 1200, 
+          "id": "Kmpmz1op", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-MHBtSLE8k2g.jpg?t=164996239991", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "9AA1agYe", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-t7N4TjotTIB.jpg?t=164996239965", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "KPDNRpya", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-CTk-KSwDjYT.jpg?t=164996239879", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "rxgG8L5z", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-D4-8yi-1dyN.jpg?t=164996239886", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "9lYQw6NM", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-ohqQyIPgmck.jpg?t=164996239903", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "3oYnxm7r", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-TKCJMI7Qh78.jpg?t=164996239932", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "rbjgVdbJ", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-4JRwB2UK824.jpg?t=164996239930", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "36qk7e6n", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-Yfl3gb75yYo.jpg?t=164996240024", 
+          "width": 1600
+        }, 
+        {
+          "height": 4016, 
+          "id": "9l51n6y2", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-T6WRE-7PHC.JPG?t=164997777613", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "30X4LNJ2", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-nVQiUVxRb.JPG?t=164997776568", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "r4Z4PvXg", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-LN0EEEQaN.JPG?t=164997776834", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "37BJEGOp", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-sEStLfmBJ.JPG?t=164997776758", 
+          "width": 6016
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1066, 
+          "id": "rwXB7Exp", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9AyOQwkv-177rBEADso-(edit).jpg?t=165033053350", 
+          "width": 1600
+        }, 
+        {
+          "height": 4010, 
+          "id": "3g512J7o", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-FcTj_uEGmL-(edit).jpg?t=165013491725", 
+          "width": 6016
+        }, 
+        {
+          "height": 1066, 
+          "id": "rjqRqq4X", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-h9hIny_Xiz-(edit).jpg?t=165013486868", 
+          "width": 1600
+        }, 
+        {
+          "height": 1066, 
+          "id": "3R28NXbm", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-kHq_Rjc5K7-(edit).jpg?t=165013472461", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "rkwGdmYR", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-BxtAwk_Tuw.jpg?t=164995995140", 
+          "width": 1600
+        }, 
+        {
+          "height": 4016, 
+          "id": "3qLeVjmE", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-4AfIXHGDd.JPG?t=165038590183", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "98GR5wg0", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-olmpyuLLo.JPG?t=164997777122", 
+          "width": 6016
+        }, 
+        {
+          "height": 4010, 
+          "id": "rkyAm5zl", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/9AyOQwkv-dZIal_yO2V-(edit).jpg?t=165013477107", 
+          "width": 6016
+        }, 
+        {
+          "height": 1200, 
+          "id": "rGxAywM2", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-gmzk37b8Ok.jpg?t=164995995241", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "9ndzYLbX", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-MWmblIJHEq.jpg?t=164996240282", 
+          "width": 1600
+        }, 
+        {
+          "height": 4016, 
+          "id": "KVxDvBBM", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-_rY0pVXm-6.JPG?t=164997776009", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "KDRdyxpR", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-LC826jFGnOc.JPG?t=165003250375", 
+          "width": 6016
+        }, 
+        {
+          "height": 1200, 
+          "id": "36NnB1vl", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-kqX23MAnIc.jpg?t=164995995203", 
+          "width": 1600
+        }, 
+        {
+          "height": 4016, 
+          "id": "3OAWAX1R", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-IIViUNoG6Ig.JPG?t=165003250985", 
+          "width": 6016
+        }, 
+        {
+          "height": 1200, 
+          "id": "rN0WLkW5", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-JUFE98SjIZa.jpg?t=164996240068", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "KVyzaEal", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-SEADAPRG_W.jpg?t=164996240319", 
+          "width": 1600
+        }, 
+        {
+          "height": 4016, 
+          "id": "KmOznXd9", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-L84k88AFhy.JPG?t=164997777362", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "3LEplE6R", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-2zEBJkxVV9.JPG?t=164997776014", 
+          "width": 6016
+        }, 
+        {
+          "height": 1200, 
+          "id": "KDwEVLEE", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-H94Ec18n4l.jpg?t=164995995258", 
+          "width": 1600
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 1200, 
+          "id": "rxBqJ4LQ", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-vT0AL4TBZ.jpg?t=164995995026", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "rNaMkAxG", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-nUW_KU4Hps.jpg?t=164995995248", 
+          "width": 1600
+        }, 
+        {
+          "height": 1200, 
+          "id": "rMLeORmK", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-eqM0LeQb3M.jpg?t=164995995017", 
+          "width": 1600
+        }, 
+        {
+          "height": 4016, 
+          "id": "3gnwdnaG", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-0DY0ebuFWRL.JPG?t=165003250587", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "9WxWnXkM", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-atoCddFHZYW.JPG?t=165003250583", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "KZeBlZMb", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-5L5gVnjm6bj.JPG?t=165003250802", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "9aNW46kP", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-WtR8GESkkq_.JPG?t=165003250739", 
+          "width": 6016
+        }, 
+        {
+          "height": 4016, 
+          "id": "KYZdlgw5", 
+          "link": "6a922144e6f8a1722470e4ababa8f942547d1781/photos/9AyOQwkv-lnoIXOrhAMJ.JPG?t=165003250966", 
+          "width": 6016
+        }
+      ], 
+      "other": []
+    }, 
+    "sections": {
+      "doug": "Now this is a really special Mustang! It's one of only 40 Roush Warrior Mustangs that were exclusively offered to members of the U.S. military, and it boasts a Roush-supercharged 5.0-liter V8 that's good for 670 horsepower! Additional Warrior-specific features include a Roush exhaust system, upgraded half-shafts, an upgraded body kit, and unique graphics and badges. It's also equipped with a 6-speed manual transmission, and it's finished in a gorgeous Lightning Blue \u2013 plus, it touts just 15,000 miles from new. This Mustang is also offered with a clean, accident-free Carfax report that shows just one owner, which should provide some added peace of mind. ", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment includes:\n- GT Performance Package (19-inch black alloy wheels, Brembo 6-piston front brake calipers, additional chassis bracing, Torsen limited-slip differential, 3.73:1 gear ratio, model-specific suspension and chassis tuning, front splitter, spoiler delete, oil pressure and vacuum gauges)\n- Equipment Group 401A (Shaker Pro audio system with HD radio and 12 speakers)\n- 6-speed manual transmission\n- HID headlights\n- \"Pony\" projection puddle lamps\n- Heated sideview mirrors with integrated turn signal indicators\n- Leather upholstery\n- Power-operated, heated, and ventilated front seats\n- Dual-zone automatic climate control\n- SYNC3 voice-activated infotainment system with 8-inch touchscreen display\n- Navigation system\n- Selectable drive modes\n- Rearview camera\n- Blind spot monitoring system with cross-traffic alert\n- Keyless entry with push-button start", 
+      "highlights": "THIS... is a 2017 Ford Mustang GT Roush Warrior Coupe, finished in Lightning Blue with an Ebony interior.\n- This Mustang is equipped with the desirable 6-speed manual transmission, and the odometer currently indicates approximately 15,000 miles.\n- The attached Carfax history report lists no accidents or mileage inconsistencies; it also shows that this Mustang is a one-owner car.\n- Roush partnered with Military AutoSource to produce 40 Warrior Mustangs in 2017, available exclusively to members of the U.S. military. This is number 9, according to a plaque on the dashboard. It is powered by a Roush-supercharged 5.0-liter V8 rated at 670 horsepower, a 235-horsepower increase over a non-modified Mustang GT. Other Warrior-specific features include a Roush exhaust system, upgraded half-shafts, an upgraded body kit, Roush exterior badges, Roush-embroidered seats and floor mats, and more as detailed below.\n- According to the window stickers shown in the gallery, this premium-trim Mustang carried an original MSRP of $43,405, and the Roush Warrior package brought that total to $66,722. Factory equipment includes the GT Performance Package, Equipment Group 401A, leather upholstery, power-operated, heated, and ventilated front seats, a SYNC3 infotainment system, blind spot monitoring, and more as detailed below.\n- The sixth-generation \u201cS550\u201d Mustang was originally introduced in December 2015, featuring a wider and lower body than its predecessor. More importantly, the S550 was the first Mustang to feature an independent rear suspension across the whole model range, which improved significantly the handling and dynamics of the iconic model.\n- Power comes from a \"Coyote\" 5.0-liter V8, rated at 435 horsepower and 400 lb-ft of torque in stock form. Roush claims that the Warrior Package upgrades increase those figures to 670 and 545, respectively. Output is sent to the rear wheels via a 6-speed manual transmission.", 
+      "known_flaws": "- Chips on front bumper\n- Chips on side mirrors\n- Driver's door manual lock cover replaced with unpainted unit\n- Scratch on right rear quarter panel\n- Scratch on front right fender\n- Curb rash on front left wheel\n- Scratch on rear right wheel", 
+      "modifications": "Roush Warrior Package:\n- Roush 2.3L TVSS Supercharger\n- Roush exhaust system with quad tips\n- Upgraded extreme-duty half shafts\n- Upgraded body kit with front splitter and rear spoiler\n- Hood and side scoops\n- Roush front windshield banner\n- Roush Warrior exterior graphics package with fender badges\n- Rear blackout panel with Roush badging\n- Roush-embroidered seats and floor mats\n- Roush Warrior plaque on dash\n- Roush billet pedals", 
+      "other_items": "- 2 sets of keys\n- Owner's manual\n- Ford and Roush window stickers", 
+      "ownership_history": "The seller purchased this Mustang when new in 2017.", 
+      "recent_service_history": "The seller reports that the following services have been performed. Service logs kept by the seller are provided in the photo gallery:\n- March 2022 (14,885 miles): Oil and filter changed\n- July 2021 (14,700 miles): Oil and filter changed\n- November 2020 (14,632 miles): Oil and filter changed\n- July 2020 (14,378 miles): Oil and filter changed\n- December 2019 (12,094 miles): Oil and filter changed\n- July 2019 (9,041 miles): Oil and filter changed\n- March 2019 (6,453 miles): Oil and filter changed", 
+      "videos": [
+        "https://youtu.be/WVTOhlZVVB4"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~15,000 Miles, 1 Owner, 670-hp Supercharged V8, 6-Speed Manual", 
+    "title": "2017 Ford Mustang GT Roush Warrior Coupe", 
+    "title_status": "Clean (MD)", 
+    "transmission": 2, 
+    "transmission_details": "6-Speed", 
+    "vin": "1FA6P8CF1H5253790", 
+    "year": 2017
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "CarJason"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-28T19:06:00.000+00:00", 
+    "bids": 6, 
+    "comments": 9, 
+    "current_bid": {
+      "amount": 10500, 
+      "bidder": {
+        "photo": null, 
+        "username": "bobbya55"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 113
+  }, 
+  "status": "live", 
+  "submission_id": "9AyOQwkv", 
+  "views": 1262, 
+  "watching": false
+}

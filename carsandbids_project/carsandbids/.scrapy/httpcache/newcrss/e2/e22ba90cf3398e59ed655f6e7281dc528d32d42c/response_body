@@ -1,0 +1,494 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 331, 
+      "price": 11100, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 161
+  }, 
+  "id": "KPQQAx47", 
+  "listing": {
+    "body_style": 4, 
+    "drive_train": 2, 
+    "engine": "3.0L V6", 
+    "exterior_color": "Seafrost", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "3.0-liter 236-hp V6", 
+      "Seafrost exterior with Ivory interior"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-04T17:43:02.948+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=5NUiR7DMd0mcvm77EieZSQ", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "9AMDlB8w", 
+    "interior_color": "Ivory", 
+    "location": "Gonzales, LA 70737", 
+    "make": "Jaguar", 
+    "make_slug": "jaguar", 
+    "mileage": 18800, 
+    "mileage_text": null, 
+    "model": "S-Type", 
+    "model_slug": "s-type", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3024, 
+          "id": "9XNgYeJO", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-CyFxlxqR9KI.jpeg?t=164944391086", 
+          "width": 4032
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2355, 
+          "id": "9lYV4GEN", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-BoFNjPZj7Q-(edit).jpg?t=164944435797", 
+          "width": 3532
+        }, 
+        {
+          "height": 1903, 
+          "id": "3qoX8wVA", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-upVoWRDeVS-(edit).jpg?t=164944429054", 
+          "width": 2854
+        }, 
+        {
+          "height": 2630, 
+          "id": "3ozy76wm", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-gbTWL4HK7l-(edit).jpg?t=164944441925", 
+          "width": 3946
+        }, 
+        {
+          "height": 2688, 
+          "id": "3p5QzgYg", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-ZSiVJU4smD-(edit).jpg?t=164944682057", 
+          "width": 4032
+        }, 
+        {
+          "height": 2286, 
+          "id": "KmejyVvd", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-DoURiHhpiC-(edit).jpg?t=164944679466", 
+          "width": 3429
+        }, 
+        {
+          "height": 2642, 
+          "id": "rbAJbO8w", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-zb2mCNBvDn-(edit).jpg?t=164944438158", 
+          "width": 3964
+        }, 
+        {
+          "height": 2480, 
+          "id": "3BgnVG7V", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-mmUr-XVMkR-(edit).jpg?t=164944432628", 
+          "width": 3720
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4pP82mA", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-y_twj1-n8eg.jpeg?t=164995344023", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98Ya6bGY", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-TYnfl5yYWC-.jpeg?t=164995344266", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmN2WVBx", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-LKCqOnPshAs.jpeg?t=164995344425", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30nxvLXP", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-alsVIcirl0M.jpeg?t=164995343680", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4qQmAng", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-64ucQ-kE8Dh.jpeg?t=164902371295", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BmPWN5B", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-4dQb7fvpN1z.jpeg?t=164902370134", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEAQykqa", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-WuvIYZf1bOB.jpeg?t=164902370350", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30w7gyaj", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-MOAioouYrjk.jpeg?t=164902370608", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYRL5v5r", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-fk6feI0SoUl.jpeg?t=164902370315", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lR6Gkx5", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-lBs0aBDopAt.jpeg?t=164995344622", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XBPZjez", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-fQLy1TueC2q.jpeg?t=164995343663", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGO8BZ5E", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-gBnlCvn8__-.jpeg?t=164902369736", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pR1bknW", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-HNjGG7wQ-o-.jpeg?t=164995344797", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3o0og0BV", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-3lFl5eexxVG.jpeg?t=164995344797", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkJYOQqW", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-8Ht57SyjPe-.jpeg?t=164902369527", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZdM1l6R", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-ko1toovdPaT.jpeg?t=164902370220", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMpL84V8", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-gf4F-iJCNQ0.jpeg?t=164995344441", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rx2qxb6O", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-5FsDWNETRLD.jpeg?t=164995344443", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BOvj4XK", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-T3Ld034DCz-(edit).jpg?t=164944693885", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "36WZYlmz", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-pNdWDfLE1sQ.jpeg?t=164902369675", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KdojbMEj", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-4e2u5_BeIRs.jpeg?t=164902369640", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9AMoqpJP", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-8K3bu_0mg9B.jpeg?t=164902369491", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjzZBkm7", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-NI0ZEanC63-.jpeg?t=164902369537", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9ngg7l72", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-pzcuKWWjB8s.jpeg?t=165063755272", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2548, 
+          "id": "92llLpWb", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-1q8BcCQpeO-(edit).jpg?t=164944226068", 
+          "width": 3823
+        }, 
+        {
+          "height": 2688, 
+          "id": "3LjXgkjy", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-kN9oEqZvhI-(edit).jpg?t=164944275740", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "rE67eEo7", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-E9Pq6LLi4O-(edit).jpg?t=164944284865", 
+          "width": 4032
+        }, 
+        {
+          "height": 2266, 
+          "id": "3vM4Q4eO", 
+          "link": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-BBlkGPQ_wY-(edit).jpg?t=164944221905", 
+          "width": 3399
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nbyYYxn", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-ibi6qgaBjZJ.jpeg?t=164902367915", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJnkgEdz", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-RJSq18R1nB2.jpeg?t=164902367912", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37QZ8bpZ", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-ukd_F1C0PjE.jpeg?t=164995343723", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9e6m2old", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-JovaihjKj2O.jpeg?t=164902370727", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMX5YqQk", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-Ujc7YRO8_X5.jpeg?t=164902369148", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98l2VMQ6", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-Bpm6mA9D_QU.jpeg?t=164902369061", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92Qy02Ab", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-P6-IFy6RJWF.jpeg?t=164902370721", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDyGZeRR", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-snGCft3QCRe.jpeg?t=164902369813", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WDJEdjR", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-HWwvDdzLG--.jpeg?t=164902370013", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QaLpZQE", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-Nm5lj9rHDmS.jpeg?t=164902369915", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVNdoNYP", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-QPxVUchqLlP.jpeg?t=164902370867", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KP05W7nL", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-dRBhWCyHNLy.jpeg?t=164902370938", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbbzEpzD", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-gz1qtLRRHqI.jpeg?t=164902371139", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVyxDMe6", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-dLFG5Z_tKBT.jpeg?t=164902368350", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KP4xyAR2", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-lhRvsfc25QS.jpeg?t=164902368620", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3z84dqRP", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-g06OtoXvxjx.jpeg?t=164902368629", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pmRPGBn", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-jYnLPb8-Ks8.jpeg?t=164902369353", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNvmgzmb", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-M8X-Ct4iFEZ.jpeg?t=164902369775", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kmv8DBMb", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-ICw3Addkx_3.jpeg?t=164902369145", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "rxnVnzbq", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-aA0GpKKObUv.jpeg?t=164902369179", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9elyjxay", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-O3k1ftZ5lkm.jpeg?t=164902368336", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4kpJwEy", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-6kZDFHzRggE.jpeg?t=164902369013", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30lyPpqV", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-OaIUAC1egpF.jpeg?t=164902368852", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XJRJzko", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-y6O7uDQe6UL.jpeg?t=165013063578", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30xXyMDG", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-fjvdf0TLJ2W.jpeg?t=165013063884", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37wkLm17", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-3d9A_PFDM3R.jpeg?t=165013071049", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r46XM06L", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/9lzDaw8m-rt-4IuW6GqR.jpeg?t=165013071159", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "3yL6eVB7", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-wL6bBqp3FQo.jpeg?t=164902370529", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "370BlAvD", 
+          "link": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/s-E7MPEwGtYXz.jpeg?t=164902368876", 
+          "width": 4032
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The Jaguar S-Type is an interesting alternative to its German rivals, touting elegant styling and a variety of engines. This particular example boasts VERY low mileage at just under 19,000 miles, which is an extremely rare sight these days. Other benefits include an eye-catching color combination and no modifications \u2014 plus a clean, accident-free Carfax report showing warm-weather Southern ownership with two owners from new, for added peace of mind. The seller is also offering this one with no reserve, which should make for an exciting auction conclusion.", 
+      "equipment": "- 18-inch wheels\n- Leather upholstery\n- Wood interior trim\n- Sunroof\n- Dual-zone automatic climate control\n- Power windows, locks, and mirrors\n- Cruise control\n- Parking sensors", 
+      "highlights": "THIS... is a 2008 Jaguar S-Type, finished in Seafrost with an Ivory interior.\n- This S-Type's odometer currently indicates approximately 18,800 miles.\n- The attached Carfax history report indicates no accidents or mileage discrepancies; it also shows ownership in Louisiana and Florida.\n- Equipment on this S-Type includes 18-inch wheels, leather upholstery, wood interior trim, dual-zone automatic climate control, cruise control, and more as detailed below. The seller reports no modifications.\n- Jaguar introduced the rebooted S-Type nameplate in 1999 after a 30-plus year absence, with the new iteration striking a deft balance between luxury and sport. Offered with a range of six- or eight-cylinder engines (and one turbodiesel V6), the new model arrived with modern technology, performance, and safety features to compete against its German and Japanese rivals.\n- Power comes from a 3.0-liter V6, rated at 235 horsepower and 216 lb-ft of torque. Output is sent to the rear wheels through a 6-speed automatic transmission.", 
+      "known_flaws": "- Some scratches and dings around vehicle's exterior; some scratches on the front bumper\n- Paint chip above driver's door handle\n- Some curb rash on driver-side rear wheel\n- Stains on driver's seat bolsters", 
+      "other_items": "- 2 keys\n- Owner's manuals\n- Spare tire, jack, and tools", 
+      "ownership_history": "The seller purchased this S-Type in February 2022 and has added approximately 50 miles since.", 
+      "recent_service_history": "The seller claims that this S-Type received an oil change and safety inspection upon his purchase of the vehicle in February 2022, though no documentation is available.", 
+      "videos": [
+        "https://www.youtube.com/watch?v=K3_BIhigBtI", 
+        "https://www.youtube.com/watch?v=EM897iyrVPY", 
+        "https://www.youtube.com/watch?v=4p8pSdr8rss"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~18,800 Miles, Southern-Owned, Unmodified", 
+    "title": "2008 Jaguar S-Type", 
+    "title_status": "Clean (LA)", 
+    "transmission": 1, 
+    "transmission_details": "6-Speed", 
+    "vin": "SAJWA01A48FN85612", 
+    "year": 2008
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": {
+      "base_url": "media.carsandbids.com", 
+      "path": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/3y2aEkJp-PXLkvHRrZtS.jpg"
+    }, 
+    "username": "Poolefamily05"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-22T19:30:00.000+00:00", 
+    "bids": 19, 
+    "comments": 26, 
+    "current_bid": {
+      "amount": 11000, 
+      "bidder": {
+        "photo": null, 
+        "username": "kjoconnor007"
+      }
+    }, 
+    "questions": 4, 
+    "watchers": 154
+  }, 
+  "status": "live", 
+  "submission_id": "9lzDaw8m", 
+  "views": 4673, 
+  "watching": false
+}

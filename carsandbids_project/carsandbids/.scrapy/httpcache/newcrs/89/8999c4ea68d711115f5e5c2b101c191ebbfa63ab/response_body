@@ -1,0 +1,522 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 265, 
+      "price": 8700, 
+      "rate": 0.0599, 
+      "term": 36
+    }, 
+    "minimum_payment": 135
+  }, 
+  "id": "rkgZAWlN", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "1.0L I3", 
+    "exterior_color": "Green", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Exoskeleton roll cage", 
+      "Front-mounted winch"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-04T23:59:31.272+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=7ipjbaHN1VNsCGB2zDfUBA", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "r4Gvmn2g", 
+    "interior_color": "Black", 
+    "location": "Las Vegas, NV 89102", 
+    "make": "Smart", 
+    "make_slug": "smart", 
+    "mileage": null, 
+    "mileage_text": "36,800 shown", 
+    "model": "Fortwo", 
+    "model_slug": "fortwo", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [], 
+      "exterior": [
+        {
+          "height": 1012, 
+          "id": "3qYok1ln", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-GqmCvdV9xo-lYYx9Ga1X-.jpg?t=164989973060", 
+          "width": 1519
+        }, 
+        {
+          "height": 1109, 
+          "id": "rJ6aNm7g", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-hFOzHmdJv4-W5jieoR2xw.jpg?t=164989973096", 
+          "width": 1663
+        }, 
+        {
+          "height": 1021, 
+          "id": "3LG0xXMR", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-gjB1OnqMEr.jpg?t=164989979840", 
+          "width": 1531
+        }, 
+        {
+          "height": 996, 
+          "id": "3BA2dpqB", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-WfLtjMSBTx-qhoiCHoqCo.jpg?t=164989973388", 
+          "width": 1494
+        }, 
+        {
+          "height": 1015, 
+          "id": "9QXQYe4E", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-IPeFkz8iWzt-T6-2TkTSx7.jpg?t=164989972739", 
+          "width": 1523
+        }, 
+        {
+          "height": 3721, 
+          "id": "3Lk1dVQ7", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-6TWKmCSPv.jpg?t=164911262612", 
+          "width": 5581
+        }, 
+        {
+          "height": 4000, 
+          "id": "rbgMwE1l", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-gN_oAWbgTX7.jpg?t=164911264533", 
+          "width": 6000
+        }, 
+        {
+          "height": 3834, 
+          "id": "rxB0jmdq", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-m3XwXO7uPxr.jpg?t=164911264111", 
+          "width": 5751
+        }, 
+        {
+          "height": 3938, 
+          "id": "3RaJq7y8", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-q02ipdVlD3.jpg?t=164911258194", 
+          "width": 5907
+        }, 
+        {
+          "height": 3783, 
+          "id": "3gOBjPky", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Aly1fcltKx.jpg?t=164911259124", 
+          "width": 5674
+        }, 
+        {
+          "height": 4000, 
+          "id": "rMjWeazZ", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Em-nQ_U3smf.jpg?t=164911256417", 
+          "width": 6000
+        }, 
+        {
+          "height": 3843, 
+          "id": "305oaXkV", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-jA0Ipb_j3al.jpg?t=164911262833", 
+          "width": 5764
+        }, 
+        {
+          "height": 3579, 
+          "id": "9lMPPLWN", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-jdoc8-HrJhz.jpg?t=164911264191", 
+          "width": 5368
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNvqRE4r", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-dyUrkwj5Nk.jpg?t=164911259996", 
+          "width": 6000
+        }, 
+        {
+          "height": 3779, 
+          "id": "rGlqyWZ4", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-GqmCvdV9xo.jpg?t=164911259473", 
+          "width": 5668
+        }, 
+        {
+          "height": 4000, 
+          "id": "KmGaGZx6", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-sLsVzhkEjOQ.jpg?t=164911256358", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3o16yzv7", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-L2vP37ER_s.jpg?t=164911258129", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "36W6OpmZ", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-YgwJlinjsEW.jpg?t=164911257197", 
+          "width": 6000
+        }, 
+        {
+          "height": 3633, 
+          "id": "35ngmmZl", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-F4zWaTzWb9F.jpg?t=164911264830", 
+          "width": 5449
+        }, 
+        {
+          "height": 3945, 
+          "id": "3g1GywJR", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Wa0uQa0sKpt.jpg?t=164911266575", 
+          "width": 5917
+        }, 
+        {
+          "height": 3629, 
+          "id": "rxAXG6Dj", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-FhVPnRkhNW.jpg?t=164911268738", 
+          "width": 5443
+        }, 
+        {
+          "height": 3821, 
+          "id": "9n0nAvVJ", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-DCV3alBVyD7.jpg?t=164911267383", 
+          "width": 5732
+        }, 
+        {
+          "height": 3959, 
+          "id": "rjEO0gjp", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-sdNzlGjIRK.jpg?t=164911259072", 
+          "width": 5938
+        }, 
+        {
+          "height": 4000, 
+          "id": "KDwpPV1R", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-RZBV62N0qZ7.jpg?t=164911265740", 
+          "width": 6000
+        }, 
+        {
+          "height": 3715, 
+          "id": "KZngQAkR", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-R82OD4xb6Ni.jpg?t=164911266644", 
+          "width": 5572
+        }, 
+        {
+          "height": 3749, 
+          "id": "KPaPe02r", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-A-OvBLq0e1F.jpg?t=164911263709", 
+          "width": 5623
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNaD1Vwb", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-JBQy5h0qt4I.jpg?t=164911265496", 
+          "width": 6000
+        }, 
+        {
+          "height": 3893, 
+          "id": "rwEO4MPp", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-VtpYnXfCGKT.jpg?t=164911265491", 
+          "width": 5839
+        }, 
+        {
+          "height": 3299, 
+          "id": "r40a66Vp", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-yyCt4bhzC7.jpg?t=164911254764", 
+          "width": 4948
+        }, 
+        {
+          "height": 3855, 
+          "id": "rkOYlAe4", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-RyJpL46iWGf.jpg?t=164911266140", 
+          "width": 5783
+        }, 
+        {
+          "height": 4000, 
+          "id": "3RDRaxl1", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-iRPja4o8Cx0.jpg?t=164911266093", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "98MYobZ6", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-GCjdGaGIU0m.jpg?t=164911263358", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3vGQyooO", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-gYissFit5KT.jpg?t=164911266975", 
+          "width": 6000
+        }, 
+        {
+          "height": 3618, 
+          "id": "3OnjgM66", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-v4RyrQH-16U.jpg?t=164911266961", 
+          "width": 5427
+        }, 
+        {
+          "height": 3798, 
+          "id": "9XDXJmWg", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Jq7ptE_jSeh.jpg?t=164911268210", 
+          "width": 5697
+        }, 
+        {
+          "height": 4000, 
+          "id": "3LqGY4XR", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-QigPLK1xJ04.jpg?t=164911267714", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KdeyN24j", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Kq6Gfu6guqJ.jpg?t=164911265133", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KmV8xaJe", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-gkxUJ339FRH.jpg?t=164911264851", 
+          "width": 6000
+        }, 
+        {
+          "height": 3531, 
+          "id": "r4eoD7og", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-oHT2ZO8YRy.jpg?t=164911268491", 
+          "width": 5296
+        }, 
+        {
+          "height": 3726, 
+          "id": "9eXvDXod", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-IIKtDNQ3-bK.jpg?t=164911267390", 
+          "width": 5589
+        }, 
+        {
+          "height": 3698, 
+          "id": "rMg5jV2L", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-t9S3qDPUiJ.jpg?t=164911268728", 
+          "width": 5547
+        }, 
+        {
+          "height": 4000, 
+          "id": "3pGNEDwB", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Mv3BvzsZ6N.jpg?t=164911269002", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9QWvVDnn", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-zzoFTK3cdt.jpg?t=164911260763", 
+          "width": 6000
+        }, 
+        {
+          "height": 3668, 
+          "id": "3BzmgDeb", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-vG9Te-Sgjl.jpg?t=164911262063", 
+          "width": 5502
+        }, 
+        {
+          "height": 3849, 
+          "id": "r4qxQeny", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-kWCFiSEFPY-.jpg?t=164911263043", 
+          "width": 5774
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1186, 
+          "id": "KdZOggov", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-l_uc0-3W51-btT1dIZE5N.jpg?t=164990103773", 
+          "width": 1780
+        }, 
+        {
+          "height": 1122, 
+          "id": "36bWxz8l", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-20jh7IC0KZs-4lNiFfqEzM.jpg?t=164990103855", 
+          "width": 1682
+        }, 
+        {
+          "height": 1130, 
+          "id": "KmmMLXgl", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-2Dh4NVL9_VI-B6KkMFjzTI.jpg?t=164990103691", 
+          "width": 1695
+        }, 
+        {
+          "height": 1287, 
+          "id": "rwR5zyON", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/3yAZ7BOw-GTkPheE1G3-ANPPkMwGuo.jpg?t=164990103915", 
+          "width": 1931
+        }, 
+        {
+          "height": 3723, 
+          "id": "9Wqbka0R", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-9y-jUBFdr0N.jpg?t=164911266334", 
+          "width": 5585
+        }, 
+        {
+          "height": 4000, 
+          "id": "30GRpmD2", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-xdZr1viJjl.jpg?t=164911268344", 
+          "width": 6000
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJBAzBVv", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-109dTpMYFuz.jpeg?t=164929073623", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XpDjLwp", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-fPvgx28QHGP.jpeg?t=164929073951", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVznV5MQ", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-FNz8WRvozoJ.jpeg?t=164929073737", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "925BW4B4", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-bD2R5dvHv4k.jpeg?t=164929074190", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4JRbkpD", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-aGIyTMFkH70.jpeg?t=164929074220", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "30AdE4QM", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-b1Lp0-fhSMu.jpeg?t=164929073951", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3B0MvP1X", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-JISH-Fcf3I.jpeg?t=164929073720", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9n7gVyqN", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-ACcOK1ioY-E.jpeg?t=164929073651", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rE0AvReK", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-8jBy_te_ss.jpeg?t=164929073802", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPYEZbYN", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-PqzjlLiBE81.jpeg?t=164929074489", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98LyYgWd", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-vtObWUs0UqA.jpeg?t=164929074242", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxyj7vaB", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-G_lesM10qi8.jpeg?t=164929074517", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LYx2R4G", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Eo_cJ9Q0nK.jpeg?t=164929073750", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1DlpQM0", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-fAaj1_e1dO0.jpeg?t=164929074389", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vBJEP8m", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-MTyVAfujU.jpeg?t=164929073862", 
+          "width": 4032
+        }, 
+        {
+          "height": 4000, 
+          "id": "35bLv7bJ", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-gp-fWXY4bo.jpg?t=164911254768", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KPaqvx8L", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-Rg7AEM3VGIq.jpg?t=164911267992", 
+          "width": 6000
+        }
+      ], 
+      "other": [
+        {
+          "height": 4000, 
+          "id": "37b6e8dq", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-6HbrmoXJHs.jpg?t=164911254426", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KVWVbwyP", 
+          "link": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3yAZ7BOw-4cep9ty7XYM.jpg?t=164911267690", 
+          "width": 6000
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "Well, here it is: quite possibly my favorite car we've ever offered on Cars & Bids. I've seen some wild safari builds, but nothing quite like this \u2013 a Smart Fortwo originally conceived as a city commuter car that's been transformed into a capable off-road machine! It's still powered by a 3-cylinder engine good for 70 horsepower, but nearly everything else about this build screams mini monster truck. An exoskeleton roll cage, over-sized BFGoodrich tires, wide-track suspension with an 8-inch lift, and a front winch are just a few of the great modifications on display here. This fantastic machine is also offered with under 37,000 miles from new along with an accident-free Carfax report, dry-climate ownership history, and the added thrill of no reserve!", 
+      "equipment": "- Cloth upholstery\n- Hand-crank windows\n- Air conditioning", 
+      "highlights": "THIS... is a 2012 Smart Fortwo, finished in green with a black interior.\n- The attached Carfax history report shows a few reporting gaps, though it indicates no accidents for the given time period.\n- Equipment includes cloth upholstery, hand-crank windows, and air conditioning.\n- A partial list of modifications reported by the seller includes a set of 15-inch steel wheels with over-sized BFGoodrich tires, a wide-track suspension with 8-inch lift, adjustable coilovers, an exoskeleton roll cage, front-mounted winch, 3 LED light bars, and rear fender flares. \n- Originally conceived as a joint venture between Swatch and Volkswagen, the Smart project eventually landed under the guidance of Daimler-Benz and began production in 1998. It featured staggered seating for two, a rear-mounted engine, a small cargo area behind the seats, and a length of just over eight feet. Though U.S sales ended in 2019, it's still available in 2022 in other markets.\n- Power comes from a 1.0-liter inline-3, rated at approximately 70 horsepower and 68 lb-ft of torque. Output is sent to the rear wheels through a 5-speed automatic transmission. ", 
+      "known_flaws": "- The attached Carfax history report shows a mileage inconsistency in December 2016. It adds that the report could be the result of a clerical error. \n- Some stone chips on the front end and around the lower body\n- Some scratches in the cargo area and on the tailgate", 
+      "modifications": "A partial list of modifications reported by the seller includes the following:\n- 15-inch steel wheels\n- 30-inch BFGoodrich Baja T/A tires\n- Wide-track suspension with 8-inch lift\n- Adjustable coilovers\n- Exoskeleton roll cage\n- Exterior color change to green\n- Exterior decals\n- Cut front fenders and lower front fascia\n- Front-mounted winch (4,000 lb. capacity) with remote operation\n- Front skid plate\n- 3 LED light bars\n- Rear fender flares\n- Off-road jack and shovel mounted to roof rack\n- Spare tire carrier, auxiliary fuel can, and fire extinguisher mounted to rear cage\n- 9-inch touchscreen monitor", 
+      "other_items": "- 1 key\n- Extra axle\n- Extra fuel tank\n- Gotham Garage memorabilia", 
+      "ownership_history": "The seller reports that this Smart Fortwo was built by Gotham Garage and was featured on the Netflix show \"Car Masters: Rust to Riches.\" He adds that he purchased the car from the shop in December 2021.", 
+      "recent_service_history": "The seller reports that the most recent service included the following, though service records are not available:\n- Engine oil, filter, and air filter changed\n- New spark plugs installed\n- Set of four new tires installed", 
+      "videos": [
+        "https://www.youtube.com/watch?v=qCVPdCP83wE"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "Extensive Modifications, Featured on Netflix's \"Car Masters: Rust to Riches\"", 
+    "title": "2012 Smart Fortwo", 
+    "title_status": "Clean (NV)", 
+    "transmission": 1, 
+    "transmission_details": "5-Speed", 
+    "vin": "WMEEJ3BA5CK529545", 
+    "year": 2012
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": {
+      "base_url": "media.carsandbids.com", 
+      "path": "2ec23b95d18e46d9a646094c5c053bbbd2fe0c5c/photos/3pyG7jml-D8u0KvUDkRd.jpeg"
+    }, 
+    "username": "LuckyLopez"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-25T17:38:00.000+00:00", 
+    "bids": 18, 
+    "comments": 88, 
+    "current_bid": {
+      "amount": 8600, 
+      "bidder": {
+        "photo": null, 
+        "username": "mliu48"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 315
+  }, 
+  "status": "live", 
+  "submission_id": "3yAZ7BOw", 
+  "views": 21829, 
+  "watching": false
+}

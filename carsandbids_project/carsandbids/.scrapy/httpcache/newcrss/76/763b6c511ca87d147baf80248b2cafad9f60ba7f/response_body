@@ -1,0 +1,454 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 301, 
+      "price": 10100, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 147
+  }, 
+  "id": "3z8yn0wz", 
+  "listing": {
+    "body_style": 5, 
+    "drive_train": 3, 
+    "engine": "3.6L V6", 
+    "exterior_color": "Black", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Sport S Package 24S", 
+      "Factory hard top"
+    ], 
+    "history_report": {
+      "expiry": "2022-05-28T22:44:13.467+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=IMEVneobhKUf3azJzRHuaw", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "9nGxZBNB", 
+    "interior_color": "Black", 
+    "location": "San Jose, CA 95125", 
+    "make": "Jeep", 
+    "make_slug": "jeep", 
+    "mileage": 92000, 
+    "mileage_text": null, 
+    "model": "Wrangler", 
+    "model_slug": "wrangler", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3300, 
+          "id": "rMNobVp9", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-XhuSBuNn4Q.jpg?t=164965744056", 
+          "width": 5100
+        }, 
+        {
+          "height": 1920, 
+          "id": "3LoJWkbR", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-9GyfFjfjvk-(edit).jpg?t=164996506931", 
+          "width": 1440
+        }, 
+        {
+          "height": 2048, 
+          "id": "9eJANMmd", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-EabzqEPhO8-(edit).jpg?t=164996503422", 
+          "width": 1536
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkVDZ084", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-6nLx7WHUHX.jpg?t=164943420793", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjqzMNz7", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-9_-_fZJIU.jpg?t=164937832586", 
+          "width": 4032
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2688, 
+          "id": "9amJEaom", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-beA2sOXBj2-(edit).jpg?t=164937786305", 
+          "width": 4032
+        }, 
+        {
+          "height": 2126, 
+          "id": "3gjQqpqb", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-vfOC5w2dkJ-(edit).jpg?t=164937782932", 
+          "width": 3190
+        }, 
+        {
+          "height": 2304, 
+          "id": "rJn8jZyw", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-EVXL5QPBKM-(edit).jpg?t=164937792418", 
+          "width": 3456
+        }, 
+        {
+          "height": 2013, 
+          "id": "9Wax1qzQ", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-SMFkZius-G-(edit).jpg?t=164937775819", 
+          "width": 3019
+        }, 
+        {
+          "height": 2447, 
+          "id": "36qdd5YB", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-h09_r0HRGZ-(edit).jpg?t=164937760845", 
+          "width": 3671
+        }, 
+        {
+          "height": 3024, 
+          "id": "304ankaP", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-HF_xayR7gV.jpeg?t=164851540550", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMeJE64a", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-iJxDdW5tDxs.JPG?t=164814618066", 
+          "width": 4032
+        }, 
+        {
+          "height": 1710, 
+          "id": "rjzpYJdx", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-h-bhZFQOyS-(edit).jpg?t=164937814604", 
+          "width": 2566
+        }, 
+        {
+          "height": 3024, 
+          "id": "3On8yRAa", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-3E82E70KQ-.jpeg?t=164886144526", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rklvleqO", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-3ExIrHV1jYS.JPG?t=164814618457", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zZeQP4L", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-rTFRMnOknpa.JPG?t=164814617755", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98BGkVle", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-JyHkX4RmOJp.JPG?t=164814618026", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37vza1Wk", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-XZTUFUhT_r.jpeg?t=164851404999", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3656Z2On", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-N45DfiIRQE.jpeg?t=164927093457", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9Anl2aRe", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-8-ukJSZmgxi.JPG?t=164814618439", 
+          "width": 4032
+        }, 
+        {
+          "height": 2097, 
+          "id": "9AMmv2Rj", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-MxIPS5YWqC-(edit).jpg?t=164937806780", 
+          "width": 3146
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nEAvzgN", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-Ec49Acm8Fz.jpeg?t=164886145607", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3ojXVnZv", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-NlW6Xo3kt.jpg?t=164825512932", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9llMlq5m", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-8zj4iR7V2q.jpg?t=164825532984", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVDNAdZP", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-zxMDz2ni6S.jpg?t=164825523039", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMPkMBYm", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-ChGyUvqJnW.jpeg?t=164886139567", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwEDL6gX", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-CJEgT3pyu2.jpeg?t=164886141604", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3g18o2k1", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-9ActhhJgHm.jpeg?t=164886143613", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rkGwj77O", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-LKPt38Kphi.jpeg?t=164927093201", 
+          "width": 3024
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2016, 
+          "id": "KVNl1eRQ", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-djBU71GxZ4-(edit).jpg?t=164937824703", 
+          "width": 3024
+        }, 
+        {
+          "height": 2292, 
+          "id": "9QDN1dNd", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-NSFFQcMkWg-(edit).jpg?t=164937828756", 
+          "width": 3438
+        }, 
+        {
+          "height": 2268, 
+          "id": "Kme6BOBm", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-ezzEfSkXCG-(edit).jpg?t=164965692823", 
+          "width": 4032
+        }, 
+        {
+          "height": 2016, 
+          "id": "98X5keYv", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/3Lj1MeRW-ZrHC-hmBE1-(edit).jpg?t=164965674505", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "KmJZeoxd", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-WKlvPvTKt9.jpeg?t=164886139504", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "36kZyOmW", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-gmYME2Ysmf.jpeg?t=164886139701", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "rbjmapVQ", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-7LE3cIU77o.jpeg?t=165004891528", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lYzmVbG", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-MgW9aoJLe.jpeg?t=165004891263", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmAJ8YO6", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-F5F8SdJi0GH.JPG?t=164814618050", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rx4wZJez", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-8ilq6FmqVcs.JPG?t=164814618144", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9X720lPl", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-wZ59P6jI4MF.JPG?t=164814617770", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3O7L6vJj", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-XNjSwVVBex.jpeg?t=164946307009", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "37W1m4Wv", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-Q8s9320xZDH.JPG?t=164814617923", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3qWvepoN", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-GqEYLkV1zY.jpeg?t=164886145337", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGjx48Q2", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-zi16G-eJ7w.jpeg?t=164886144208", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNkGd7n7", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-i02e18JuFX.jpeg?t=164886144211", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pzv6X0g", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-0RwtDN_Vxy.jpeg?t=164886141754", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPMvpljZ", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/s-CkhXl-vSqgw.JPG?t=164814617613", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3La0LnWG", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-J5BASVvfvh.jpeg?t=164851404407", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNYdelVW", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-XwJlJwL_A.jpg?t=164825653721", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPdemMja", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-p0fZ_T4Lx.jpeg?t=164851404462", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "3gdLZJqo", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-SfJaGMgVX.jpg?t=164825634698", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGlD6NqX", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-vKZ13SSbas.jpg?t=164825639556", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9a2eDBRD", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-KYPRjAdeQN.jpg?t=164825636266", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJM6PWqp", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-ePUt7kedzd.jpeg?t=164946307163", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qXkbO59", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-hyQyYagS95.jpeg?t=164946307070", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QXNGpBx", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-fztDsjihDV.jpeg?t=164946307029", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 2778, 
+          "id": "9aQQVynE", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-D6VoKMpsP.png?t=164946306768", 
+          "width": 1284
+        }, 
+        {
+          "height": 2778, 
+          "id": "rGa5EDNg", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-V-U2CkGEhG.png?t=164946306772", 
+          "width": 1284
+        }, 
+        {
+          "height": 2778, 
+          "id": "rNJZgQgE", 
+          "link": "97f60cc3f8b678de5f9c207244e6574b7c9c58f8/photos/3Lj1MeRW-reUix_-GSv.png?t=164946306787", 
+          "width": 1284
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The JK Wrangler is an impressive off-roader with iconic styling and vast aftermarket support. This particular example boasts 4-wheel drive and the desirable 4-door Unlimited body style, along with some nice factory equipment, like the Sport S Package, the Connectivity Group, and a Freedom Top removable hardtop. It also features some nice modifications, including an aFe Power cat-back exhaust, a Barricade roof rack, and an aftermarket sound system. Plus, it comes with a clean, accident-free Carfax report, for added peace of mind.", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment includes:\n- Sport S Package 24S (17-inch wheels, chrome and leather-wrapped shift knob, leather-wrapped steering wheel, deep tint sunscreen windows, power windows, power door locks, remote keyless entry, power heated mirrors, auto-dimming mirror with reading lamps, security alarm)\n- Connectivity Group (tire pressure monitoring display, Uconnect with Bluetooth, electronic vehicle information center)\n- Command-Trac 4WD system with 2-speed transfer case\n- Dana front and rear axles\n- Transfer case and fuel tank skid plates\n- Front and rear tow hooks\n- Freedom Top 3-piece hardtop\n- Full metal doors\n- Rear window wiper and defroster\n- Black cloth upholstery\n- Split-folding rear seats\n- Air conditioning\n- Cruise control\n- Hill Descent Control", 
+      "highlights": "THIS\u2026 is a 2017 Jeep Wrangler Unlimited Sport, finished in black with a black removable hardtop and a black interior.\n- The attached Carfax history report shows no accidents or mileage discrepancies in this Jeep's past.\n- According to the window sticker pictured in the photo gallery, this Jeep carried an original MSRP of $35,400, and it came equipped with the Sport S Package 24S, which adds 17-inch wheels, a chrome and leather-wrapped shift knob, leather-wrapped steering wheel, and deep tint sunscreen windows, among other features, the Connectivity Group, a Command-Trac 4WD system, a Freedom Top 3-piece hardtop, full metal doors, black cloth upholstery, air conditioning, and more as detailed below.\n- Modifications reported by the seller include an aFe Power cat-back exhaust system, a K&N air filter, a Barricade roof rack, Tyger Auto running boards, an aftermarket head unit, ApolloIntech auxiliary switches, red interior accents and trim, and more as detailed below.\n- The JK Wrangler was introduced for the 2007 model year, and a 2011 update came with a newly redesigned dash. In 2012, it would be updated again, gaining the desirable 3.6-liter V6. The four-door Unlimited version provides seating for five while retaining the model's rugged off-road capabilities.\n- Power comes from a 3.6-liter \u201cPentastar\u201d V6, rated at 285 horsepower and 260 lb-ft of torque. Output is sent to the rear wheels or all four wheels via a 5-speed automatic transmission and 2-speed transfer case.", 
+      "known_flaws": "- Dent on front bumper\n- Chips on front grille\n- Chips on roof rack\n- Trunk door bent\n- Roof rack lights not wired\n- Chips and discoloration on wheels\n- Wear on dashboard and glove compartment\n- Wear on rear door panels\n- Some rust on underbody", 
+      "modifications": "- aFe Power cat-back exhaust system\n- K&N air filter\n- Bolt hood lock\n- Barricade roof rack\n- Roof rack lights\n- Tyger Auto running boards\n- Aftermarket steel rear bumper\n- Painted wheels and center caps\n- Red exterior accents and trim\n- Aftermarket head unit\n- Aftermarket speakers\n- ApolloIntech auxiliary switches\n- Mingli door entry guards\n- Red interior accents and trim", 
+      "other_items": "- 2 keys\n- Owner's manual\n- Factory radio\n- WeatherTech floor mats", 
+      "ownership_history": "Although the Carfax shows that this Wrangler has two owners in its past, the seller reports that he purchased this Jeep new in late 2016, and that he has been its sole owner since. The original purchase order is included in the Docs section of the photo gallery.", 
+      "recent_service_history": "The seller reports that the he performed most of the maintenance on this Jeep during his ownership. Recent service includes:\n- Engine oil changed\n- Air filter replaced\n- Differential fluid changed\n\nSome additional service information is detailed in the attached Carfax report.", 
+      "videos": [
+        "https://youtu.be/r0QP6gbV9WI"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "Pentastar V6 Power, 4WD, Some Modifications", 
+    "title": "2017 Jeep Wrangler Unlimited Sport 4x4", 
+    "title_status": "Clean (CA)", 
+    "transmission": 1, 
+    "transmission_details": "5-Speed", 
+    "vin": "1C4BJWDG5HL536713", 
+    "year": 2017
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "MadZach"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-26T18:18:00.000+00:00", 
+    "bids": 4, 
+    "comments": 8, 
+    "current_bid": {
+      "amount": 10000, 
+      "bidder": {
+        "photo": null, 
+        "username": "94cobra"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 67
+  }, 
+  "status": "live", 
+  "submission_id": "3Lj1MeRW", 
+  "views": 1133, 
+  "watching": false
+}

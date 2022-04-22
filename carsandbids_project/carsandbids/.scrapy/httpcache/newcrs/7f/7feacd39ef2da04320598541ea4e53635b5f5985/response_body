@@ -1,0 +1,541 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 153, 
+      "price": 5000, 
+      "rate": 0.0599, 
+      "term": 36
+    }
+  }, 
+  "id": "Kd5Wzg5r", 
+  "listing": {
+    "body_style": 6, 
+    "drive_train": 2, 
+    "engine": "5.2L V8", 
+    "exterior_color": "Exotic Red", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "California- and Arizona-owned", 
+      "Unmodified"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-06T22:38:47.232+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=V3eriYiRC5Low_LyIooNPg", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "KYpqZxj0", 
+    "interior_color": "Red/Gray", 
+    "location": "San Diego, CA 92154", 
+    "make": "Dodge", 
+    "make_slug": "dodge", 
+    "mileage": 189500, 
+    "mileage_text": null, 
+    "model": "Dakota", 
+    "model_slug": "dakota", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 4032, 
+          "id": "rEV21pjR", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-yoQAYWs_b4.jpg?t=164659965849", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "3yZR47GE", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-sHwAjqRUDU.jpg?t=164659968394", 
+          "width": 2268
+        }, 
+        {
+          "height": 2268, 
+          "id": "3vMjYmmv", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-9dYeS9WYu.jpg?t=164659966340", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3z7LW8g1", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-qbyjuQ_R4T.jpg?t=164659973062", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "KVaPGplM", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-71V9ZpZSAQ.jpg?t=164659971888", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "K1wODxD4", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-lZXvMCGDRb.jpg?t=164659972411", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "KPxjLlkk", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-ZIxvIiU1NC.jpg?t=164659972809", 
+          "width": 2268
+        }, 
+        {
+          "height": 2268, 
+          "id": "KYlZBpPE", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-bZzaYFtjUIM.jpg?t=164968228997", 
+          "width": 4032
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 839, 
+          "id": "rG1BgnYo", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/9AbLbene-JymD05ZO7Ie2-OSa2toJcrV.jpg?t=164997805677", 
+          "width": 1259
+        }, 
+        {
+          "height": 1404, 
+          "id": "3R6yqgx1", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-sOJHzVAkIL-(edit).jpg?t=164978436665", 
+          "width": 2107
+        }, 
+        {
+          "height": 2005, 
+          "id": "rNQQ5Q2w", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-0U7YnHdbzb-(edit).jpg?t=164978458241", 
+          "width": 3007
+        }, 
+        {
+          "height": 2268, 
+          "id": "9eOebOn8", 
+          "link": "99542a9ce1910cd5161b2d5439f54f7c91bf58b3/photos/9AbLbene-rX4cA0uYyG-(edit).jpg?t=164937127916", 
+          "width": 3402
+        }, 
+        {
+          "height": 1675, 
+          "id": "KZA6LBDo", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-1f-rV7o6-P-(edit).jpg?t=164978439190", 
+          "width": 2513
+        }, 
+        {
+          "height": 2268, 
+          "id": "K1eWRl4G", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-CfakCwsOGCZ.jpg?t=164659902865", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "KDzbJ6My", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-fvrA0aUTDvq.jpg?t=164659952614", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "Kden2mv5", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-dngYKtkaJq.jpg?t=164659918350", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9WG4WDQ9", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-oXMpunAnHj.jpg?t=164659957290", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9AO46ZBw", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-IbPTkI3s8lw.jpg?t=164659910798", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3BgdxYxE", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-0M9bvv-vlK.jpg?t=164659960700", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9Q2qbjX7", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-mrkNWJt6l0A.jpg?t=164659956644", 
+          "width": 4032
+        }, 
+        {
+          "height": 1747, 
+          "id": "rJy8M2Wv", 
+          "link": "99542a9ce1910cd5161b2d5439f54f7c91bf58b3/photos/9AbLbene-xmb3meAnw1-(edit).jpg?t=164937123894", 
+          "width": 2621
+        }, 
+        {
+          "height": 2268, 
+          "id": "98jxa0wK", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-zGx-zOqHxK.jpg?t=164659938897", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rkD742bO", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-QNKcmBmVli.jpg?t=164659869799", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rwEBn78M", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-rlX0VzbkVj.jpg?t=164659922269", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rND7l2jk", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-C4ZEw5q5Nk.jpg?t=164659950918", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KVVExoeM", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-CeNLxxQMd8.jpg?t=164972058707", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "rJZ5dOng", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-xbssIi2Wfe.jpg?t=164972058355", 
+          "width": 2268
+        }, 
+        {
+          "height": 2268, 
+          "id": "98MqNq5Y", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-dNaXkGo1wrI.jpg?t=164659899532", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "KYG10EmP", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-7X41LYICi1.jpg?t=164659932985", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "9QlEBmNE", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-4z8jcjBpsn.jpg?t=164972058086", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "3BwXDmBB", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-h9le3j0AgS.jpg?t=164972058642", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "3LDjnMGR", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-aAHmqNWCOP.jpg?t=164972058817", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "3ve25GeN", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-pAae0lE5uW.jpg?t=164972059011", 
+          "width": 2268
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2268, 
+          "id": "3oyDpvOm", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-Y5hjrYzcVJ-(edit).jpg?t=164978447808", 
+          "width": 3402
+        }, 
+        {
+          "height": 2268, 
+          "id": "3yMa8Wo7", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-esg9zqUPBX-(edit).jpg?t=164978445455", 
+          "width": 3402
+        }, 
+        {
+          "height": 2268, 
+          "id": "3657ZW5B", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-auSB5ciy66-(edit).jpg?t=164978453099", 
+          "width": 3402
+        }, 
+        {
+          "height": 2268, 
+          "id": "rjBnXWlY", 
+          "link": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/9AbLbene-UhAho9A5Nv-(edit).jpg?t=164978450160", 
+          "width": 3402
+        }, 
+        {
+          "height": 2268, 
+          "id": "rNa10qBW", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-i6FwypxJ4q.jpg?t=164659925600", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "r4qw8jen", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-pqS_SdT5WWa.jpg?t=164659896260", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3o111P6g", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-Tt_m1GYfQ.jpg?t=164659869636", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3qwnZoAz", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-ZYYeByPcQ.jpg?t=164659956887", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "927zGQe6", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-aNisVlt3pGA.jpg?t=164659895514", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rkdaEdql", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-pc-9uB4qSd.jpg?t=164659929335", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9lMJGdQg", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-ofbn7Icv5iD.jpg?t=164659907034", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9Xa5kdqz", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-zqbJRQkw7_C.jpg?t=164659891230", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "37MvdNNx", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-fbyVi9g0CE.jpg?t=164659938842", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rwxJN5qZ", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-q59l7UrEE.jpg?t=164659868621", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rGll0d6N", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-WrpRL65ylV.jpg?t=164659871327", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3pZLAAVY", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-QPRSBRhsXd.jpg?t=164659869474", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3RamyNwp", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-mL2CNxr0AX.jpg?t=164659869646", 
+          "width": 2268
+        }, 
+        {
+          "height": 4032, 
+          "id": "rNbdgJ5r", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-F57tKKcOB6.jpg?t=164659871407", 
+          "width": 2268
+        }, 
+        {
+          "height": 2268, 
+          "id": "9a2qj2pA", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-Xw_7jOS-O_.jpg?t=164659871239", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "9QWyEglY", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-xCCarQXevr.jpg?t=164659872322", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "KPDV1jQK", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-gjIQKjMWqTP.jpg?t=164659903337", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "KVNweObl", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-t1dspzmf9a.jpg?t=164659883939", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 2268, 
+          "id": "KmVB1xMx", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene--SKJ_k_QDmS.jpg?t=164659918322", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "36k5kNRy", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-OLkbgq3PQxb.jpg?t=164659918453", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3LkAVQmV", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-mBii-RdtdAS.jpg?t=164659887939", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rbg0aR7L", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-TG00WHv6iWt.jpg?t=164659910708", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3OnpqmRz", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-jpSRxA-gVr.jpg?t=164659933080", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rxBaxOzW", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-Po5ehy3eQCr.jpg?t=164659903347", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3BzmblQA", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-D6WdXLnrTG.jpg?t=164659880556", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rJldEgXO", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-Q5jJys6rQ.jpg?t=164659880359", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rEWM55VV", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-C1G0nmWlV2E.jpg?t=164659887951", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3OMexJLy", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-rbYCq_-wOh.jpg?t=164659871905", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3vEqZ5Xd", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-Ec6I2tQpJJX.jpg?t=164659888218", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "305zvZER", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-dbXJVZ2T5SF.jpg?t=164659895385", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 2268, 
+          "id": "3q1Gq1Y1", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-c0u4POQeHi.jpg?t=164972058331", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "rjE8DOQw", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-rprevPKel7.jpg?t=164659870661", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3RDleMDm", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-tMS_c8A9AM.jpg?t=164659925782", 
+          "width": 4032
+        }, 
+        {
+          "height": 2268, 
+          "id": "3gOzn0y8", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-qalczioHWb.jpg?t=164659870697", 
+          "width": 4032
+        }, 
+        {
+          "height": 601, 
+          "id": "KPdGdwz7", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/9AbLbene-wIP2meYHaF-(edit).jpg?t=164997858821", 
+          "width": 1080
+        }, 
+        {
+          "height": 1906, 
+          "id": "9lzn4mwO", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/9AbLbene-Qe-7llyqNp-(edit).jpg?t=164997861137", 
+          "width": 1080
+        }, 
+        {
+          "height": 4032, 
+          "id": "9nqpXjxD", 
+          "link": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9AbLbene-TQyULDrFJ6.jpg?t=164972058416", 
+          "width": 2268
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "Now THIS is cool! The Dodge Dakota is a neat truck in its own right, but the Shelby variant is even cooler than most. Boasting big Shelby V8 power, a special body kit, and a limited-slip differential, the Shelby Dakota was a really unique performance truck for its time. Other benefits of this particular example include its \"Exotic Red\" paint scheme and its relative rarity \u2014 plus, it appears to be in good condition given its age and mileage (just look at that underbody video). The Carfax report also shows Southwestern ownership since new, adding even further peace of mind. This is a really cool, special truck, and I'm thrilled to see it here on Cars & Bids.", 
+      "equipment": "- 15-inch wheels\n- Limited-slip differential\n- Anti-lock brakes\n- Bosch auxiliary lights\n- Leather-wrapped Shelby steering wheel\n- Air conditioning\n- AM/FM radio with tape deck", 
+      "highlights": "THIS... is a 1989 Dodge Shelby Dakota, finished in Exotic Red with a red and gray interior.\n- The attached Carfax history report shows a gap from 1991 until 1999 and from 2004 until 2020, but it reports no accidents in this Dakota's past. It also shows registration entries in California and Arizona during that time.\n- Factory equipment on this unmodified Shelby Dakota includes a limited-slip differential, anti-lock brakes, air conditioning, a tape deck, Bosch auxiliary lights, and more. The seller reports no modifications.\n- The Shelby Dakota was the first pickup truck to receive the Shelby treatment and the first Shelby-branded V8, rear-wheel-drive vehicle in many years. On top of the engine upgrade, the Shelby model had a unique appearance package, a limited-slip differential, anti-lock brakes, and a custom interior. Production was limited to 1,500 units; 995 of which were red.\n- Power comes from an \"LA\" 5.2-liter V8, rated at 175 horsepower and 270 lb-ft of torque. Output is sent to the rear wheels via a 4-speed automatic transmission.", 
+      "known_flaws": "- Sagging driver-side corner of rear bumper\n- Scuffs on wheels\n- Wear on Shelby sill plates\n- Wear on steering wheel", 
+      "other_items": "- 2 sets of keys\n- Owner's manual\n- Service manuals\n- Magazine and brochures (pictured in the gallery)\n- Receipts and service records (pictured in the gallery)\n- Bosch fog light covers\n- Fiberglass cowl hood\n- One new OEM hood graphic", 
+      "ownership_history": "The seller bought this Shelby Dakota in May 2021 and has added about 500 miles since.", 
+      "recent_service_history": "The seller reports that the following services have been performed:\n- August 2021: Body repainted, new OEM graphics applied\n\nHe further reports that the following components have been replaced since 2020:\n\n**Gaskets and seals:**\n- Valve guide seals\n- Intake gaskets\n- Timing set gaskets\n- Top engine gaskets\n- Injector O-rings\n- Transmission gasket and seal\n- Rear pinion seal\n\n**Accessories:**\n- Lifters\n- Throttle body rebuilt\n- Timing set\n- Brake lines\n- Alternator\n- Power steering pump\n- Water pump\n- Air conditioning compressor\n- Drive belt\n- Accessory belt\n- Radiator\n- Hoses\n- Thermostat and housing\n- Vacuum lines\n- Ignition coil\n- Spark plugs and wires\n- Distributor cap and rotor\n- Reluctor and pickup\n- Fuel injectors\n- Idle control motor assembly\n- EGR valve\n- Brake booster and master cylinder\n- Harmonic balancer\n- Neutral switch\n- Rear-end speed pickup\n- Electric fans\n- Transmission filter\n- Battery\n- EVAP/smog system\n\n**Suspension:**\n- Shocks\n\n**Sensors:**\n- All engine sensors\n- Oxygen sensor\n- Throttle body sensors\n- Vehicle speed sensors\n\n**Body:**\n- Windshield and trim", 
+      "videos": [
+        "https://youtu.be/hshfbR9fl1Q", 
+        "https://youtu.be/3ZMl3o4vNBE", 
+        "https://youtu.be/LL7jebCGS44"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "#1,101 of 1,500, 5.2-Liter \"LA\" V8 Power, Exotic Red", 
+    "title": "1989 Dodge Shelby Dakota", 
+    "title_status": "Clean (CA)", 
+    "transmission": 1, 
+    "transmission_details": "4-Speed", 
+    "vin": "1B7FL96Y6KS114904", 
+    "year": 1989
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": {
+      "base_url": "media.carsandbids.com", 
+      "path": "01c8936ab33d646acb193455a4966b6c501444a2/photos/9ngP1J8p-iMXsOTzST59.jpg"
+    }, 
+    "username": "shelbydakota"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-29T17:30:00.000+00:00", 
+    "bids": 0, 
+    "comments": 4, 
+    "current_bid": null, 
+    "questions": 0, 
+    "watchers": 25
+  }, 
+  "status": "live", 
+  "submission_id": "9AbLbene", 
+  "views": 504, 
+  "watching": false
+}

@@ -1,0 +1,399 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 751, 
+      "price": 25250, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 360
+  }, 
+  "id": "3ozN0zqg", 
+  "listing": {
+    "body_style": 2, 
+    "drive_train": 2, 
+    "engine": "2.0L I4", 
+    "exterior_color": "Racing Orange", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "RoadsterSport SuperStreet exhaust", 
+      "17-inch Rays forged wheels"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-04T15:51:30.845+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=5NUiR7DMd0mCT-2TxOgYsg", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "35Lkybzk", 
+    "interior_color": "Black", 
+    "location": "Louisville, CO 80027", 
+    "make": "Mazda", 
+    "make_slug": "mazda", 
+    "mileage": 7200, 
+    "mileage_text": null, 
+    "model": "MX-5 Miata", 
+    "model_slug": "mx-5-miata", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [], 
+      "exterior": [
+        {
+          "height": 2288, 
+          "id": "KZYjxNkO", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-8cSWfKAhmQ-(edit).jpg?t=165003880410", 
+          "width": 3433
+        }, 
+        {
+          "height": 1118, 
+          "id": "r4VvZMoL", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-PrwBBRvd3M-(edit).jpg?t=165003898347", 
+          "width": 1677
+        }, 
+        {
+          "height": 1956, 
+          "id": "rxqzeE09", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-AEsphnFI4D-(edit).jpg?t=165003910587", 
+          "width": 2934
+        }, 
+        {
+          "height": 1471, 
+          "id": "365nqVkA", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-Z0blaXljJG-(edit).jpg?t=165003922757", 
+          "width": 2207
+        }, 
+        {
+          "height": 1550, 
+          "id": "Kd67RMJy", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-XUiBaqsU9A-(edit).jpg?t=165003917055", 
+          "width": 2325
+        }, 
+        {
+          "height": 2048, 
+          "id": "36BgMVdl", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-T8ro-khrrN.jpeg?t=164897714146", 
+          "width": 2730
+        }, 
+        {
+          "height": 2048, 
+          "id": "KDnlvea8", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-RmQwl7Ztsu.jpeg?t=164897714333", 
+          "width": 2731
+        }, 
+        {
+          "height": 3024, 
+          "id": "304mqlw2", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-gQ7sYdXXF3E.jpeg?t=164897712674", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNJ0g0qb", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-kn_RBh1pwW.jpeg?t=164897589356", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3g4WaD4R", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-Shmfbzjb4y.jpeg?t=164897588843", 
+          "width": 4032
+        }, 
+        {
+          "height": 2048, 
+          "id": "3R0V5Z2N", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-EIf61aqLT7.jpeg?t=164897714481", 
+          "width": 2730
+        }, 
+        {
+          "height": 2048, 
+          "id": "rk6mb1JQ", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN--TkUo_yu0k.jpeg?t=164897714511", 
+          "width": 2730
+        }, 
+        {
+          "height": 2048, 
+          "id": "KdZGkMgv", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-hcIf2xyA7X.jpeg?t=164897714142", 
+          "width": 2730
+        }, 
+        {
+          "height": 2048, 
+          "id": "3LjL7VQY", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-S-EObOa35Z.jpeg?t=164826350294", 
+          "width": 2730
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lep7P42", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-wjU1LN8h9XC.jpeg?t=164897713443", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rx1xzzkj", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN--8I_QfVf2_T.jpeg?t=164897713438", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XNOQjZ7", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-QGhWZM7WSq.jpeg?t=164826350682", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPJyWggL", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-R0oMl6p0B2C.jpeg?t=164897713154", 
+          "width": 4032
+        }, 
+        {
+          "height": 2048, 
+          "id": "rNAvDX0G", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-4bwClXONLp.jpeg?t=164897714315", 
+          "width": 2730
+        }, 
+        {
+          "height": 1080, 
+          "id": "9lRnwGxM", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-D7bNhUTWkX.png?t=165004058221", 
+          "width": 1920
+        }, 
+        {
+          "height": 917, 
+          "id": "3vWM8QJb", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-WQTBMONFrZ-(edit).jpg?t=165004028498", 
+          "width": 1376
+        }, 
+        {
+          "height": 3024, 
+          "id": "98yz8ye0", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-uVWZ9Mz1hrS.jpeg?t=164897712919", 
+          "width": 4032
+        }, 
+        {
+          "height": 1200, 
+          "id": "KVGkDZYx", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-keXfu2wxK.jpeg?t=164826350273", 
+          "width": 1600
+        }, 
+        {
+          "height": 1080, 
+          "id": "3z2g6lQN", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-tFiSYdx2lA.png?t=165004058109", 
+          "width": 1920
+        }, 
+        {
+          "height": 2048, 
+          "id": "rkJBOvLl", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-QsKyZ0h6to.jpeg?t=164826351593", 
+          "width": 2730
+        }, 
+        {
+          "height": 2048, 
+          "id": "KP4JyyVV", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-R438bF4SL9.jpeg?t=164826350307", 
+          "width": 2730
+        }, 
+        {
+          "height": 1080, 
+          "id": "35W61W2R", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-UYvMrg-w2F.png?t=165004071897", 
+          "width": 1920
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kmv1pmdx", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-Boy5uZMICm.jpeg?t=164826351206", 
+          "width": 4032
+        }, 
+        {
+          "height": 1080, 
+          "id": "37GLE4Vk", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-eLQrs74AK4.png?t=165004071011", 
+          "width": 1920
+        }, 
+        {
+          "height": 3024, 
+          "id": "rj0eBGM7", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-wU9kd_npS3.jpeg?t=164897588684", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oPqx8qv", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-OTfcYx1NiW.jpeg?t=164897588307", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkQlJ7V4", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-dCJnh2_7Ys6.jpeg?t=164897588514", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3Rjv0d8x", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-M5LOz0ONyEw.jpeg?t=164897588489", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2317, 
+          "id": "3vNxAJAN", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-Lb1YQfVCpS-(edit).jpg?t=165003858947", 
+          "width": 3476
+        }, 
+        {
+          "height": 2229, 
+          "id": "3L62E7QR", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-1g6zLnS2Gh-(edit).jpg?t=165003805995", 
+          "width": 3343
+        }, 
+        {
+          "height": 1486, 
+          "id": "3BGWZ8gB", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-b7cHli294M-(edit).jpg?t=165003793085", 
+          "width": 2230
+        }, 
+        {
+          "height": 2688, 
+          "id": "KVpjzLPM", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/3qx2z8wN-SuX2_9qzfh-(edit).jpg?t=165003799505", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "r4kDpenA", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-K3RsXVz5HI.jpeg?t=164826350917", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "K11ejVl7", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-HL2RaLNujvM.jpeg?t=164897713141", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "98lmVbZX", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-zSjStbSzuR.jpeg?t=164826350935", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJMlPEJg", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-xvnCMRJT_i.jpeg?t=164897589789", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3ol6Wpy2", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-KrTbgpuMY6.jpeg?t=164897713734", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vNEwAnN", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-FBmJkAbPN.jpeg?t=164897712276", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pmqPaXW", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/s-37inVAIIWV.jpeg?t=164826351456", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmmWy7Ol", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-gb34ItrL9j.jpeg?t=164897714036", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35PMMk0N", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-L2ny0ehiZJ.jpeg?t=164897713993", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BGZW14B", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-kelOl2kP41.jpeg?t=164897589857", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVmdJjqM", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-LVyudGb1oW.jpeg?t=164897590064", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qYVADvn", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-2BNUe8j7IH.jpeg?t=164897589676", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "rGazQOwj", 
+          "link": "759cecc3b213a2f4d9ba4daf21ef34e3366bc957/photos/3qx2z8wN-X8eRYzaXOR.jpeg?t=164897589142", 
+          "width": 4032
+        }
+      ], 
+      "other": []
+    }, 
+    "sections": {
+      "doug": "The ND Miata is a fantastic roadster with small sizing, handsome styling, and exciting handling, courtesy of its lightweight construction. This particular example is even more desirable as it\u2019s a limited 30th Anniversary Edition finished in bright Racing Orange and equipped with all the features you could possibly want, including Bilstein dampers, Brembo brakes, and those fantastic Recaro seats. This ND also touts very low mileage, a clean, accident-free Carfax report, and some nice upgrades to further enhance the appeal.", 
+      "equipment": "- 17-inch Rays forged wheels\n- Bilstein dampers\n- Brembo front brakes\n- Orange-painted front and rear brake calipers\n- Adaptive LED headlights\n- LED taillights\n- Power-retractable hard top\n- Leather and Alcantara upholstery\n- Heated Recaro sport seats\n- Navigation system\n- Apple CarPlay and Android Auto compatibility\n- 7-inch touchscreen display\n- Bose sound system\n- Automatic climate control\n- Wind deflector\n- Rain-sensing windscreen wipers\n- Cruise control", 
+      "highlights": "THIS\u2026 is a 2019 Mazda MX-5 RF 30th Anniversary Edition, finished in Racing Orange with a black interior.\n- This MX-5 is fitted with the desirable 6-speed manual transmission, and the odometer displays approximately 7,200 miles.\n- The attached Carfax history report shows no accidents or mileage discrepancies in this Miata\u2019s past. It also confirms that this is a 1-owner car. \n- Factory equipment includes a power-retractable hard top, 17-inch Rays forged wheels, Bilstein dampers, Brembo front brakes, LED headlights and taillights, heated Recaro sport seats, a Bose sound system, and more as listed below. \n- Modifications reported by the seller include MazdaSpeed front lip, side skirts and rear valance, XPEL paint protection film applied to the whole body but the roof, Progress Technology front and rear sway bars, shock tower braces front and rear, a GuardianDesigns Corsa 330 Alcantara steering wheel, a black vinyl wrap for the roof panel, and more as detailed below.\n- The \"Retractable Fastback\" or \"RF\" version of the \"ND\" Miata debuted in 2016 with a power-operated hardtop panel that disappears into the trunk area, as well as distinctive flying buttresses that alter the car's side profile. The \"ND2\" model debuted for the 2019 model year and included revisions to the engine with more power and a higher redline, a telescoping steering column, revised seat controls, a new cupholder, reverse camera, and a redesigned door handle mechanism.\n- The 30th Anniversary Edition differentiates itself from other trim levels with a distinct Racing Orange hue, Rays forged wheels, Racing Orange-painted brake calipers, and orange accents throughout the interior, as well as a few other unique features. Only 3,000 were produced.\n- Power comes from a 2.0-liter inline-4, rated at 181 horsepower and 151 lb-ft of torque. Output is sent to the rear wheels via a 6-speed manual transmission.", 
+      "modifications": "Modifications reported by the seller include:\n- RoadsterSport SuperStreet TwinTip exhaust\n- Sound tube delete\n- Verus Engineering throttle pedal spacer\n- Progress Technology front and rear sway bars\n- Aftermarket shock tower braces front and rear (factory parts included with the sale)\n- MazdaSpeed gloss black front lip, side skirts, rear valance\n- Black vinyl wrap on the roof panel\n- Ceramic tinted windows\n- XPEL paint protection film applied to the body, excluding the roof \n- Matte black exterior badges, including custom 30th Anniversary badge (factory badge included with the sale)\n- GuardianDesigns Corsa 330 Alcantara steering wheel (factory wheel included with the sale)\n- LED interior and trunk light bulbs", 
+      "other_items": "- 2 keys\n- Owner's manual\n- Flat tire repair kit\n- Wheel lock key\n- Factory steering wheel, sound tube, shock tower brace, chrome badges", 
+      "ownership_history": "The seller purchased this Miata new in February 2020.", 
+      "recent_service_history": "The attached Carfax history report shows that the following services have been performed:\n- March 2022 (7,101 miles): Engine oil and filter changed, 4-wheel alignment performed, maintenance inspection completed\n- June 2021 (6,109 miles): Tire pressure and condition checked\n- February 2021 (5,006 miles): Engine oil and filter changed, tire condition and pressure checked, maintenance inspection completed\n\nAdditional service history is detailed in the attached Carfax report.", 
+      "seller_notes": "There is a loan on this vehicle. Sale proceeds will be used to satisfy the loan and allow the seller to transfer the title to the winning bidder. **Please contact the seller directly** with any questions.\n", 
+      "videos": [
+        "https://youtu.be/UCYKdPU2IlU", 
+        "https://youtu.be/9waoepSW1ek"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~7,200 Miles, 6-Speed Manual, Heated Recaro Seats", 
+    "title": "2019 Mazda MX-5 Miata RF 30th Anniversary Edition", 
+    "title_status": "Clean (CO)", 
+    "transmission": 2, 
+    "transmission_details": "6-Speed", 
+    "vin": "JM1NDAJ73K0400729", 
+    "year": 2019
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "fastestcar"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-27T17:54:00.000+00:00", 
+    "bids": 10, 
+    "comments": 15, 
+    "current_bid": {
+      "amount": 25000, 
+      "bidder": {
+        "photo": null, 
+        "username": "OlmedaT"
+      }
+    }, 
+    "questions": 1, 
+    "watchers": 211
+  }, 
+  "status": "live", 
+  "submission_id": "3qx2z8wN", 
+  "views": 2916, 
+  "watching": false
+}

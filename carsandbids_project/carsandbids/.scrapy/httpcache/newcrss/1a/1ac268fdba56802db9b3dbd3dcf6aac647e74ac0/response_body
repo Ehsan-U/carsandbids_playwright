@@ -1,0 +1,619 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 153, 
+      "price": 5000, 
+      "rate": 0.0599, 
+      "term": 36
+    }
+  }, 
+  "id": "KV4v1PO0", 
+  "listing": {
+    "body_style": 6, 
+    "drive_train": 3, 
+    "engine": "5.3L V8", 
+    "exterior_color": "Black", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Z71 Off-Road Package", 
+      "22-inch Black Widow wheels"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-12T20:20:13.377+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=dHktiFV2rnjaopn1Hf_XfQ", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "rNNGkJB7", 
+    "interior_color": "Black", 
+    "location": "Dallas, TX 75229", 
+    "make": "Chevrolet", 
+    "make_slug": "chevrolet", 
+    "mileage": 9500, 
+    "mileage_text": null, 
+    "model": "Silverado", 
+    "model_slug": "silverado", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3024, 
+          "id": "KmmEpzRm", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/9WnnZ0eQ-ePRGrKovI.jpeg?t=165056888580", 
+          "width": 4032
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 3368, 
+          "id": "rN4geG04", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9WnnZ0eQ-NjAOITMeXE-(edit).jpg?t=165053049606", 
+          "width": 5052
+        }, 
+        {
+          "height": 3697, 
+          "id": "r4do5Nlk", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/9WnnZ0eQ-03COyf4X2u-(edit).jpg?t=165046146981", 
+          "width": 5546
+        }, 
+        {
+          "height": 3496, 
+          "id": "37yxyJeD", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9WnnZ0eQ-nxfiemITNi-(edit).jpg?t=165053056426", 
+          "width": 5245
+        }, 
+        {
+          "height": 2744, 
+          "id": "rMWGAmVL", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/9WnnZ0eQ-cNOeMaXBJQ-(edit).jpg?t=165046166783", 
+          "width": 4116
+        }, 
+        {
+          "height": 2583, 
+          "id": "KmldApEd", 
+          "link": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/9WnnZ0eQ-UEv66oO2VE-(edit).jpg?t=165046162882", 
+          "width": 3875
+        }, 
+        {
+          "height": 4000, 
+          "id": "rkEjOd7L", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-a37Uaod1MRQ.JPG?t=164919159972", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3RpJew1m", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s--TYDdt758-B.JPG?t=164919159571", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KPdxNVL2", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-7zhgaxXARI4.JPG?t=164919169033", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KP7gE1xV", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-kv9iyV_1AbO.JPG?t=164919153497", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3652wdQO", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-SqsQavtV5t.JPG?t=164919145660", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "98dNqWZd", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-YOvwDpLfsR.JPG?t=164919143111", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9QJgYm1n", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-B8HUM11D9h7.JPG?t=164919163268", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rMYG6n6L", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-EfBJyGgFLu.JPG?t=164919179869", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3ODXQmym", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-Bk5A6Yji3fX.JPG?t=164919162676", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KDEq8j4v", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-9reFI7mgz54.JPG?t=164919147036", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "r4VVDPgD", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-S9MYaBPuv_.JPG?t=164919142741", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KZDky7XR", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-wdTBvfQVxM.JPG?t=164919174999", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNqaQdD4", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-6iFWrC52dQr.JPG?t=164919162444", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "92LOG5R6", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-IpSsSwhvWbZ.JPG?t=164919151803", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "30nEjZzP", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-pCx8KChQwKi.JPG?t=164919151419", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9aYq7AaD", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-SXeVWM8zcUx.JPG?t=164919161371", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rG1MBn24", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-7rDIkZ21-oI.JPG?t=164919161799", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9aQDmyqP", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-LVwZoPVDZd.JPG?t=164919174858", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "Km1EM5Rl", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-MgAdftNcBu.JPG?t=164919179639", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3qBYzlWe", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-vJskOYTU_96.JPG?t=164919147951", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KmX8LGpb", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-kMyjlkulnsy.JPG?t=164919171220", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3g62e7wy", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-WfHagmwweMP.JPG?t=164919160406", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3y8kDvMR", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-ymA4K2DTVIx.JPG?t=164919150980", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3gy64qQR", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-mc5wd-OMhs.JPG?t=164919174259", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9WnbqW2M", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-1eFU13dx2D.JPG?t=164919174123", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "r4BVzPyg", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-nIDEarNwaG.JPG?t=164919179413", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rk6gebp4", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-qnvYUBbNHe.JPG?t=164919173534", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rEv45eaV", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-DgMfL3dmuiu.JPG?t=164919150219", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3RjRX8Lx", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-L72oTf7xzae.JPG?t=164919173071", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KDLJggyR", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-v4JTSOtccBU.JPG?t=164919172784", 
+          "width": 6000
+        }
+      ], 
+      "interior": [
+        {
+          "height": 4000, 
+          "id": "9lz2OYkN", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-GpWKHpTU6iE.JPG?t=164919169538", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "35Wn6NjJ", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-Den_dcG2M0b.JPG?t=164919155806", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3gVBReYE", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-8Hm0iy2_bP4.JPG?t=164919148240", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "r46MXOYy", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-x0VnpRiRby9.JPG?t=164919167669", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rN4pmgRP", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-Hb8XxJ1871Y.JPG?t=164919146329", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rGN727ed", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-JP9ollBVMPK.JPG?t=164919146036", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rb2lElDl", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-_4LO-GpeN1q.JPG?t=164919170151", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KYogNYoM", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-SW5iI4kI0bk.JPG?t=164919149711", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KZqxv8k3", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-ri8BwytF2Kc.JPG?t=164919148936", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KdRPgyGj", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-Ko7JTG4qN_O.JPG?t=164919171677", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rNjDEpek", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-WJ0fU4EXnWo.JPG?t=164919172334", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3Bve1wO4", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-_WQ8ay9Kly9.JPG?t=164919148881", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rjPOL40l", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-y4J0Agti9rT.JPG?t=164919160376", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3vJwaOVR", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-0elim3WiMDp.JPG?t=164919150234", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KVpVMnMM", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-3OtPS-96X2.JPG?t=164919177476", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rMMDkvjZ", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-zRh84wx_Y7H.JPG?t=164919156853", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rxqZDnEq", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-y_v2psn3GS0.JPG?t=164919169511", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "Kma1nyxK", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-6tO_ih0iUAl.JPG?t=164919156546", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "98ZYeRYQ", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-xXACShyp16d.JPG?t=164919168185", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3pjYx1XY", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-AS3VN6H3Yd.JPG?t=164919144334", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "36g6kb8y", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-VRMwhYGWgyA.JPG?t=164919157379", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rx4b866r", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-EI9xylWM8v.JPG?t=164919144034", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rxYb7Apj", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-TKK_WwURX.JPG?t=164919180480", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "35OYBn8l", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-8ezVyodP2am.JPG?t=164919170921", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9A5XvjA9", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s--8DrHwR9Tio.JPG?t=164919170560", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3owO72e7", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-EiyUm554bn0.JPG?t=164919158999", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rwRMzDqp", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-oG5_GnyH8UB.JPG?t=164919172055", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "K1BxV1En", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-OkpvF2iYDD3.JPG?t=164919168557", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KPAqLOak", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-UC5dRNAiW1.JPG?t=164919178472", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3L6v2G1R", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-sK2ZnlWnyk.JPG?t=164919178026", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3pnkGwMW", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-Gh8KTIWUWtm.JPG?t=164919158387", 
+          "width": 6000
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 4000, 
+          "id": "3z2MdMZL", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-nddf8v0yY5j.JPG?t=164919153653", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "37Bm4GPq", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-JGTQWVPGAhJ.JPG?t=164919154842", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "92w01L8E", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-G1vvfDDqr5-.JPG?t=164919167363", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3LvvN6jG", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-0ernEwXQR9.JPG?t=164919141055", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9lRvYd15", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-d4SMN7BMg9g.JPG?t=164919154202", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rbovLMeQ", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s--m4ZDc8m-mq.JPG?t=164919154409", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rJMQqGRg", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-zIm1RaclcZ.JPG?t=164919176682", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "30xj6gnV", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-mDJquRWSf6h.JPG?t=164919166991", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3vAQmGqM", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-tY_ADj9n87k.JPG?t=164919166329", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "K1lkMlnj", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-__CH4XZ7wWx.JPG?t=164919152856", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KVxRdkyx", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-Yr9_fAjfnJ9.JPG?t=164919152279", 
+          "width": 6000
+        }
+      ], 
+      "other": [
+        {
+          "height": 4000, 
+          "id": "KV0wmoA0", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-hz_yYMOJrbA.JPG?t=164919165362", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "3BARdEab", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-pOfeN36zS0E.JPG?t=164919164844", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9ndLj02K", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-CvjrOuKTIP_.JPG?t=164919164541", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "KYYX5xM5", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-AmZltyWzIv.JPG?t=164919175353", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "rJ6yNxWz", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-YOGSZU4uyIX.JPG?t=165052866692", 
+          "width": 6000
+        }, 
+        {
+          "height": 4000, 
+          "id": "9ekzjQ8q", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s--gTjdsNFmmZ.JPG?t=164919152221", 
+          "width": 6000
+        }, 
+        {
+          "height": 6000, 
+          "id": "3O8A1w26", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-ajQ6Yf8C_m.JPG?t=164919175567", 
+          "width": 4000
+        }, 
+        {
+          "height": 6000, 
+          "id": "3v7BAnyO", 
+          "link": "d709594735e1c6a5a75dab77b94a7503fd4aeecc/photos/s-GTZr2Ct9Ha.JPG?t=164919175899", 
+          "width": 4000
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The Chevy Silverado RST is a seriously cool truck, but this particular \u201cBlack Widow\u201d edition is even cooler, thanks to a 6-inch suspension lift, 22-inch wheels with 35-inch tires, and a set of awesome fender flares. This truck also boasts a 5.3-liter V8, the desirable Z71 Off-Road package, and a Bose sound system. Other benefits include a clean, accident-free Carfax showing one owner in warm-climate Texas, and very low mileage. The seller has also decided to offer this truck with the thrill of no reserve, which should make for an exciting auction finish!", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment includes:\n- Z71 Off-Road package (Electronic Hill Descent Control, dual-speed transfer case, locking rear differential, front skid plates, and heavy-duty air filter)\n- LED headlights, fog lights, and taillights\n- Power-operated sunroof\n- Leather upholstery\n- Power-adjustable heated front seats\n- Heated steering wheel\n- Infotainment system with an 8-inch touchscreen display\n- Apple CarPlay and Android Auto connectivity\n- Bose sound system\n- Dual-zone automatic climate control\n- Cruise control", 
+      "highlights": "THIS\u2026 is a 2020 Chevrolet Silverado 1500 Crew Cab RST Black Widow, finished in black with a black interior. \n- The odometer currently displays approximately 9,500 miles. \n- The attached Carfax history report shows no accidents or mileage discrepancies in this Silverado\u2019s past. It also confirms that this is a 1-owner truck registered in Texas from new. \n- SCA Performance offers the \"Black Widow\" special edition package for the Silverado 1500 model through selected GM and Chevrolet dealers. This truck features many upgrades over a standard 1500, including a 6-inch suspension lift, 22-inch Black Widow wheels with 35-inch Mickey Thompson Baja Boss tires, fender flares, hood vents, 5-inch wheel-to-wheel side steps, gloss black painted interior trim, and more as detailed below. Modifications aside from this package are limited to tinted windows.\n- The included window sticker shows that this Silverado is also equipped with the Z71 Off-Road package, a power-operated sunroof, leather upholstery, power-adjustable heated front seats, a heated steering wheel, a Bose sound system, and more as listed below.\n- Chevrolet launched the fourth-generation Silverado 1500 for 2019, featuring a bigger footprint and reduced weight by up to 450 pounds thanks to the increased use of lightweight materials. Chevrolet offered three bodystyles (Regular Cab, Double Cab, Crew Cab), eight trims, three bed sizes, and four engine options to choose from. \n- Power comes from a 5.3-liter V8 engine rated at 355 horsepower and 383 lb-ft of torque. Output is sent to all four wheels via an 8-speed automatic transmission and a dual-speed transfer case. ", 
+      "known_flaws": "- Some curb rash on driver-side front wheel", 
+      "modifications": "- Black Widow Package by SCA Performance (22-inch Black Widow wheels, 35-inch Mickey Thompson Baja Boss tires, 6-inch suspension lift, fender flares, hood vents, performance exhaust with black tips, LED puddle projector lights, 5-inch wheel-to-wheel side steps, Black Widow badges, Black Widow stitched headrests, Black Widow gauge faces, SCA Performance speedometer calibration)\n- Tinted windows", 
+      "other_items": "- 2 keys\n- Owner's manuals\n- Wheel lock key\n- Speedometer calibrator module\n- Available service records", 
+      "ownership_history": "The seller purchased this Silverado new. ", 
+      "recent_service_history": "The seller states that this Silverado had an engine oil and filter change, a tire rotation, and a 21-point inspection performed in April 2022. The attached Carfax history report shows that the following services have been performed:\n- August 2020 (2,887 miles): Maintenance inspection completed, brakes checked, tire condition and pressure checked, battery/charging system checked, engine/powertrain computer/module checked", 
+      "seller_notes": "There is a loan on this vehicle. Sale proceeds will be used to satisfy the loan and allow the seller to transfer the title to the winning bidder. **Please contact the seller directly** with any questions.\n", 
+      "videos": [
+        "https://youtu.be/l6SdcMyrOVs"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~9,500 Miles, V8 Power, 4WD, 6-Inch Suspension Lift, Texas-Owned", 
+    "title": "2020 Chevrolet Silverado 1500 RST Black Widow 4x4", 
+    "title_status": "Clean (TX)", 
+    "transmission": 1, 
+    "transmission_details": "8-Speed", 
+    "vin": "3GCUYEED3LG219540", 
+    "year": 2020
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": null, 
+    "username": "AndreD"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-29T18:42:00.000+00:00", 
+    "bids": 1, 
+    "comments": 0, 
+    "current_bid": {
+      "amount": 100, 
+      "bidder": {
+        "photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "49e1a9d5b2d953ea65bda6aba32035a40edc76bc/photos/MRv6d_-ak.jpg"
+        }, 
+        "username": "PAGSDIII701"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 7
+  }, 
+  "status": "live", 
+  "submission_id": "9WnnZ0eQ", 
+  "views": 97, 
+  "watching": false
+}

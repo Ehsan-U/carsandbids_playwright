@@ -1,0 +1,1197 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 405, 
+      "price": 13600, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 197
+  }, 
+  "id": "KDbAxqQM", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "5.8L Supercharged V8", 
+    "exterior_color": "Black", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "SVT Track Package", 
+      "Owned in Arizona from new"
+    ], 
+    "history_report": {
+      "expiry": "2022-05-21T18:35:14.416+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=GRZ7PLkvul6zehs6hM78jQ", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "3RDwqZ28", 
+    "interior_color": "Black", 
+    "location": "Kachina Village, AZ 86005", 
+    "make": "Ford", 
+    "make_slug": "ford", 
+    "mileage": 30100, 
+    "mileage_text": null, 
+    "model": "Mustang", 
+    "model_slug": "mustang", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3456, 
+          "id": "KdOxDGe1", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-_M4tEgLUT5.JPG?t=164784562352", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "36E6Dkxl", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-QygZpjo1lOq.JPG?t=164784562906", 
+          "width": 4608
+        }, 
+        {
+          "height": 4032, 
+          "id": "r4WbRWkk", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-0iAatg6q8_w.JPG?t=164963077047", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "305Wapq2", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-Gs6IPqsXhTi.jpg?t=164981462762", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "r4GkLwEg", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-GAxoBpELBF_.jpg?t=164981462892", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "92gnzYxA", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-bqmw09n3tiM.jpg?t=164981462884", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "3vEdnAxN", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-8OrORikTgvP.jpg?t=164981462390", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "9XalLeJg", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-WKvC5IyLYin.jpg?t=164981462399", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "rEWja0NP", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-Jj_5SsqY_l_.jpg?t=164981462254", 
+          "width": 3024
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 1323, 
+          "id": "37DZnER7", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/KmvBe8k6-Es0MNVOdA402-zblCreb2YT.jpg?t=164990123117", 
+          "width": 1985
+        }, 
+        {
+          "height": 1993, 
+          "id": "KZD2MEPR", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-gS0gsYmgv9-(edit).jpg?t=164972868979", 
+          "width": 2990
+        }, 
+        {
+          "height": 2566, 
+          "id": "KYMpYj85", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-PARlTsj74M-(edit).jpg?t=164972874114", 
+          "width": 3850
+        }, 
+        {
+          "height": 2227, 
+          "id": "rk6dyVg4", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-CSrLRWW5uD-(edit).jpg?t=164972857106", 
+          "width": 3341
+        }, 
+        {
+          "height": 2163, 
+          "id": "9aQedagP", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-lW_mgQmbZY-(edit).jpg?t=164972862833", 
+          "width": 3245
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pe6wVQg", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-qarFRfHOmRY.JPG?t=164963077935", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oYwGx12", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-byLN4Xo9J-k.JPG?t=164963077979", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qM1aOkN", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-Mwu5-qqHGA.JPG?t=164963079256", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmqN6Qpd", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-4EpH7PkPdBg.JPG?t=164963077110", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkRzkQRK", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-9DciN5RmOAR.JPG?t=164963078386", 
+          "width": 4032
+        }, 
+        {
+          "height": 3456, 
+          "id": "98nYzxw2", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-cEk3LQTYNep.JPG?t=164781871308", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "r4zxWBYD", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-Y_LIK2LzB.JPG?t=164781870872", 
+          "width": 4608
+        }, 
+        {
+          "height": 3024, 
+          "id": "9Ax2PRW5", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-2JJWC9sZl-g.JPG?t=164972734885", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35pVQbjZ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-fxeuT7cEmRs.JPG?t=164972735931", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9X6Gg7M7", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-rYM-UcCjlcT.JPG?t=164972729311", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kd6azyox", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-hfHAKw_cu2U.JPG?t=164972736083", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QL884dd", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-3u8ccpLr8WU.JPG?t=164972725474", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qNGLx2e", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-eH4sUu0iPVO.JPG?t=164972725509", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oyQplm7", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-xtMf13WL4y5.JPG?t=164972734829", 
+          "width": 4032
+        }, 
+        {
+          "height": 3456, 
+          "id": "Km2n2e70", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-MUyI7Q_6PVq.JPG?t=164781871309", 
+          "width": 4608
+        }, 
+        {
+          "height": 3024, 
+          "id": "356W5m8B", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-DAf-yeWPCMH.JPG?t=164963077096", 
+          "width": 4032
+        }, 
+        {
+          "height": 3456, 
+          "id": "92xxEwNW", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-2pWBhpbGXKF.JPG?t=164781879684", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3B5R4Zdd", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-aMuVD2yq-lG.JPG?t=164781874033", 
+          "width": 4608
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nX6NQqN", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-nuakwSy6qD.JPG?t=164963079448", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJ2zLzRX", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-iY5TQ2nTRN.JPG?t=164963079415", 
+          "width": 4032
+        }, 
+        {
+          "height": 3456, 
+          "id": "9eNYdjo6", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-a4HsDZEB6C.JPG?t=164781870022", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3qLQ6X5e", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-L3mht6v6162.JPG?t=164781873634", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9WxwaOod", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-FXPVQG1pZ7O.JPG?t=164781868040", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rJ5Q1OVO", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-pJ53sX8HUw.JPG?t=164781878667", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3ylRqplM", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-FrkMb2DP9U.JPG?t=164781868976", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3pqNe086", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-cQ6zqYdcex.JPG?t=164781877264", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rJavYWxX", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-z9dGI2YaUk.JPG?t=164781869089", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3OAbVVya", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-voRNZYo7Qq.JPG?t=164781868666", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3qxBLMx4", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-ywYw8u57wp.JPG?t=164781878586", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "307o5JnM", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-YHj7OIEPIM.JPG?t=164781870840", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KmqexVve", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-12yPbRjZGW.JPG?t=164781881006", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9aAMXaYG", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-n3W8XZfA68.JPG?t=164781877936", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rMe1zv1a", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-pJIgFd-QS7c.JPG?t=164781876895", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "37loQy1R", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-7tjyu1BgPw.JPG?t=164781870865", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rG4pyLV4", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-n5ZzVr7vRW.JPG?t=164781878133", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3Rnlqwo8", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-_AHS5riHeP.JPG?t=164781877567", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KZeGaVzZ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-iCcJ9320rr.JPG?t=164781868450", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9ayV0l78", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-vO_UH85x9sO.JPG?t=164781868263", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rknJwy6O", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-21LD48A_Ps.JPG?t=164781877576", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3Ojppndm", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-q6mbipZndm.JPG?t=164781878307", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "nrkVNWQK", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-CD9x51hKEsv.JPG?t=164781862932", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3zL76LNr", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-PiqTZl_Pqm.JPG?t=164781870448", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9nznlZAn", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-_B0l2-m2eS.JPG?t=164781878819", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rNBpkjG5", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-vn9ZFbRXJP.JPG?t=164781878239", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3pPNm0kl", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-GZ4MT4Sv0GH.JPG?t=164781862557", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9XmN6N8N", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-PRaTGFkUwk.JPG?t=164781870456", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "36R54B2Z", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-7sFHKZ_MM3O.JPG?t=164781876967", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3v27bpJk", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-tzykUoK2I_R.JPG?t=164781874887", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9QZM8NzY", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-b_nNrPF3Zt.JPG?t=164781878481", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "36y5qBJB", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-ZNW3sFH-fJl.JPG?t=164781862111", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPLjdXON", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-3h4AeEXnP7.JPG?t=164781870412", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rjvjZYv2", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-pf16nd_Bwq6.JPG?t=164781863001", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPM8aW4Z", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-_EK9COhndoR.JPG?t=164781875788", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "K1W6LOj9", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-xdGgZQHZ4M1.JPG?t=164781875751", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rkglja7R", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-NRxqL_0lpo0.JPG?t=164781867868", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "35XqPL1Z", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-9D2jcuYSR8N.JPG?t=164781876610", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rNMa6YZX", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-GrRTKx-vAv7.JPG?t=164781873248", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9lZJg7bO", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-D9M8HQGD4EN.JPG?t=164781872058", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "Kdxxzn85", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-B_ecY59DIr.JPG?t=164781881040", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rNGpjjEk", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-d90AKxxKg3x.JPG?t=164781863491", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KDgynROa", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-xraJ3oEMIa.JPG?t=164781881734", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3g7gdMzb", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-y9Wgys73iq1.JPG?t=164781863085", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rGepzmew", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s--Ym13ATmTBD.JPG?t=164781863440", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9aaMBaLm", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-A7Sc-qII_dV.JPG?t=164781863342", 
+          "width": 4608
+        }, 
+        {
+          "height": 4608, 
+          "id": "KdznJBJQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-ltjIcqnlxo-.JPG?t=164781872855", 
+          "width": 3456
+        }, 
+        {
+          "height": 4608, 
+          "id": "rGqvg0d3", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-46d1jT-Zw_c.JPG?t=164781873213", 
+          "width": 3456
+        }, 
+        {
+          "height": 3456, 
+          "id": "3RYlYP0v", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-CjKNz3Gxczm.JPG?t=164781862666", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3o2OVekw", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-cMt53FuKNHf.JPG?t=164781872427", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9ezL5VQk", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-QX3-_F5rNxU.JPG?t=164781875333", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "98ONoRW6", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-rzT_LwhBe8.JPG?t=164781879957", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "K1y2Jmjn", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-RBhhRE442i.JPG?t=164781880039", 
+          "width": 4608
+        }
+      ], 
+      "interior": [
+        {
+          "height": 950, 
+          "id": "30Pxb0xG", 
+          "link": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/KmvBe8k6-HXDsDseLlo-(edit)2-Avon2U2qGZ.jpg?t=164990122993", 
+          "width": 1425
+        }, 
+        {
+          "height": 3456, 
+          "id": "92Rzq5EQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-U6Ny1EeFov.JPG?t=164781901805", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KYZ1WY1E", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-EtvzoOmEUw.JPG?t=164781901184", 
+          "width": 4608
+        }, 
+        {
+          "height": 2328, 
+          "id": "9QLbxqpe", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-QiTTuuAhlD-(edit).jpg?t=164986064678", 
+          "width": 3493
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LeoD41y", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-wlNI5UilTt.JPG?t=164963079807", 
+          "width": 4032
+        }, 
+        {
+          "height": 3456, 
+          "id": "KZewvoyO", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-SLiFd90XNB.JPG?t=164781901079", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3LDVj680", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-EJMMXVmtgBy.JPG?t=164781897582", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "37OoLyk0", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-UP8tLrHSU_W.JPG?t=164781898166", 
+          "width": 4608
+        }, 
+        {
+          "height": 3072, 
+          "id": "36B08Rwl", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-vSA2c663Jc-(edit).jpg?t=164972897769", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3pAkE1lB", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-QxR1C2-bLKs.JPG?t=164781899193", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9lvJw7az", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-k0c0p3buERA.JPG?t=164781898955", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9aNVyyjQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-RFUbx6iZ6vh.JPG?t=164781882276", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "37WGlvgA", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-lbtraEVog4y.JPG?t=164781902790", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KYy5R4jP", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-IiaQs3d9hnb.JPG?t=164781887209", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3OpbgVv6", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-0krDqfSkLSn.JPG?t=164781889596", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3vV7Yppv", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-DANBlZy1A8.JPG?t=164781901407", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3yb4zvPw", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-QDmtchICTo.JPG?t=164781901542", 
+          "width": 4608
+        }, 
+        {
+          "height": 3072, 
+          "id": "3O8npGD6", 
+          "link": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/KmvBe8k6-FC1TKquj2l-(edit).jpg?t=164972879527", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9XRNJNDg", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-gijIlA-NrgY.JPG?t=164781897981", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3zY7mv6j", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-9s2VIcEJj3G.JPG?t=164781897775", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KV47Agz0", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-4wohT0d8ZvB.JPG?t=164781859942", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "36Gb7GLB", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-ULrQvvt8Dqy.JPG?t=164781899922", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "92yzjbDA", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-nJZ5TZEY3gv.JPG?t=164781859879", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPL80WAq", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-k3aZ7EzRKut.JPG?t=164781902222", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "K1Mgg4N4", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-IqOtlVz78J8.JPG?t=164781902136", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "Km2BDDqN", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-0tpVhr6Q_zg.JPG?t=164781903043", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KVX7akLL", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-47aG93WmM.JPG?t=164972952505", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rGJMR7Xw", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-1xU1n0G9m_g.JPG?t=164781900083", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "37XGgvdx", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-WYg5vOWSMzH.JPG?t=164781860932", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "35yqWLQP", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-QrT1wIJ-qS6.JPG?t=164781902996", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rN2aLYMw", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-PG-fSsayEh.JPG?t=164781900136", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "35kqybbk", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-IJk1lwJt3iX.JPG?t=164781861480", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "r4b6JYAL", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-BXIWRi4lErM.JPG?t=164781902993", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPe8xWoo", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-KGkvtWrVcr9.JPG?t=164781860452", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rMkD5nl4", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-tQPUG7ypHWa.JPG?t=164781898803", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "K1yWj5L7", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-xThRvvFCw.JPG?t=164781860392", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rb10z7Pg", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-P0z2zcXocsM.JPG?t=164781860929", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KmOnmeJl", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-gPRxSt1Sc_l.JPG?t=164781898585", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9lb8dXpz", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-4c9mUcTaW7-.JPG?t=164781860887", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "30opJw29", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-zRHbIG6mBFQ.JPG?t=164781898112", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "30B0BW5G", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-qGHf5FLiGe.JPG?t=164781901720", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KmlBJD0Y", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-FIHOQqmGpFU.JPG?t=164781861485", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KZjGQVOR", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-9Ff0MX6hdMK.JPG?t=164781882746", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPbjvXGL", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-QUg5MRWEFgL.JPG?t=164781897720", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9e5Y7jjj", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-zwUD5D42uoo.JPG?t=164781897170", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3BLRnwXE", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-gRV_qIDqWu.JPG?t=164781901008", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3zmagN7j", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-ZAA3sMu9Uso.JPG?t=164781860454", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rJ2vBWZE", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-rK1zIs8Np_4.JPG?t=164781896893", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9nXbBoaJ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-Jydf6jk93uU.JPG?t=164781897158", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KDl80a8K", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-h8JE_wZZwy.JPG?t=164781900339", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3vNzQX7N", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-lUgMFtII81T.JPG?t=164781896662", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rbl0Pwdy", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-d_FpD44jeY9.JPG?t=164781902574", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3qNQzXLy", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-ehsy1saAoC.JPG?t=164781900562", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9QMgwdaM", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-9Evmp11MVP.JPG?t=164781900456", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9WvnGJOQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-9QsX-nNXBr.JPG?t=164781900706", 
+          "width": 4608
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3456, 
+          "id": "KDbl4nG9", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-3hXtnqVhO.JPG?t=164781867604", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9ApB12Yj", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-kSb9nDqk_T.JPG?t=164781866821", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9lvDnxWm", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-B9OI9xzpu_.JPG?t=164781866451", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3OpplgqY", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-wkAMpS_V8Ld.JPG?t=164781863934", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "30R8zzGr", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-NOZr5g6zZ0.JPG?t=164781865246", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KVbVv8RL", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-KxnN9jpqaaB.JPG?t=164781864770", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3oea5RaE", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-J6ohlkjBso.JPG?t=164781866808", 
+          "width": 4608
+        }, 
+        {
+          "height": 4608, 
+          "id": "35vbqEZB", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-X6lFsAyUU-.JPG?t=164781866846", 
+          "width": 3456
+        }, 
+        {
+          "height": 3456, 
+          "id": "3q1BxMWz", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-wKEuJ-HJQ8e.JPG?t=164781864002", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3vej4MAO", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-rUB6WFvXFS.JPG?t=164781865187", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "K1d2kmn4", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-VFGOZHjkpv.JPG?t=164781866044", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rElRZRbR", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-d3MUIgxU1jN.JPG?t=164781864848", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3BZdNke6", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s--CJJIPJmP2P.JPG?t=164781864458", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3LDvl5QW", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-DiwZhA7fe9.JPG?t=164781864844", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rbZ28Qek", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-nA3qL7amSf.JPG?t=164781866455", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "92OxNoLY", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-sMPfH42sKt.JPG?t=164781865601", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "98mN4vVm", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-8KLIlZRIzU.JPG?t=164781865656", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "r4Roap8L", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-oiq5rPqw_8.JPG?t=164781865626", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rxV4vG58", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-65W4FX9BIz.JPG?t=164781866068", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPG2nn0k", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-86nOw6bIpv.JPG?t=164781866046", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "36djjR6W", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-iveuFgcAZM.JPG?t=164781867193", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3vdjZMGd", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-BFA6HvwlnA8.JPG?t=164781879334", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KPe2wnvQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-dXYM9--Dr1.JPG?t=164781880191", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rxL4j7wq", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-iZvRTLjxjw.JPG?t=164781880294", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3zZaxQyL", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-KvRlgJqrHI5.JPG?t=164781876114", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9l58ZXYG", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-tLjv3LSSDHD.JPG?t=164781876161", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rwnWLag5", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-pS-mp4XQelF.JPG?t=164781862114", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3LeV06Xy", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-GoYP0C1mN0.JPG?t=164781870033", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9n1bbo4N", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-W9WqlnJ0Mt.JPG?t=164781869227", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rbq0x7ZQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-rVK5AMXTDcC.JPG?t=164781876169", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9AjOkPzJ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-oR3JlrwWKXU.JPG?t=164781872441", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rkejLDoN", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-aCla5A_YA1g.JPG?t=164781872474", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "rE7Mo158", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-5drDb0b_lfv.JPG?t=164781874886", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KmABGDN6", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-HAN4P15GpDP.JPG?t=164781876876", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3oPapR2v", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-CyRaCeQa-Z.JPG?t=164781880619", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "3ggjMZy3", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-sW8EFIwOs3.JPG?t=164781877888", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KVQPXeaQ", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-B4aJfR6HXo.JPG?t=164781870029", 
+          "width": 4608
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "rGAN7xR2", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-ZylqAfboJu.JPG?t=164963078772", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNNERyXG", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/KmvBe8k6-WBDUGYfx6K.JPG?t=164963078819", 
+          "width": 4032
+        }, 
+        {
+          "height": 3456, 
+          "id": "rNX7z7L7", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-XqAU4AjBL4.JPG?t=164972927912", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KmZe7V1d", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-zxucHWl4M.JPG?t=164781867122", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "9QlAWNn7", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-eIsIfwkmAkj.JPG?t=164781863986", 
+          "width": 4608
+        }, 
+        {
+          "height": 3456, 
+          "id": "KdkxQP41", 
+          "link": "38266d1dfb631faed15604d0c6a5773850cba591/photos/s-HBMchK-Qxx.JPG?t=164972927665", 
+          "width": 4608
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The Shelby GT500 has always been the king of performance from the Mustang line, boasting a raucous engine and huge horsepower \u2013 and this particular example is no exception thanks to a massive 5.8-liter supercharged V8 that makes 662 horsepower. This GT500 also touts desirable factory equipment, namely a 6-speed manual transmission plus the SVT Handling and Track packages. Other benefits include relatively low mileage and a clean, accident-free Carfax report with just one owner in warm-weather Arizona, further adding to the appeal. The GT500 is a truly insane performance car \u2014 and I'm confident the next owner will love the driving thrills this one has to offer.", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment includes:\n- SVT Performance Package (3.73-ratio limited-slip rear axle, rear decklid spoiler, 19- and 20-inch alloy wheels)\n- SVT Track Package (additional cooling for engine, transmission, and differential oils)\n- Electronics Package (HD radio compatibility and navigation system)\n- SVT engineered Bilstein cockpit-select dampers\n- Brembo vented disc brake system\n- Matte Black tape stripe\n- Aluminum hood with air extractor\n- HID projector headlamps\n- Shelby Recaro seats\n- Shaker Pro audio system\n- 4.2-inch LCD screen\n- Air conditioning", 
+      "highlights": "THIS\u2026 is a 2013 Ford Mustang Shelby GT500, finished in black with a black interior.\n- This GT500 is equipped with a 6-speed manual transmission, and the odometer indicates roughly 30,100 miles.\n- The attached Carfax history report begins and ends in 2013, yet lists no accidents or mileage discrepancies for the given time period. It also shows just one owner in Arizona from new.\n- A window sticker is provided in the photo gallery showing that this GT500 carried an MSRP of $66,715. A partial list of notable equipment includes the SVT Performance Package, SVT Track Package, the Electronics Package, a limited-slip differential, SVT engineered Bilstein cockpit-select dampers, Shelby Recaro seats, a Shaker Pro audio system, and more listed below. The seller reports no modifications. \n- The 2013 Ford Mustang Shelby GT500 was the first factory Mustang to achieve a top speed of over 200 mph, stopping at 202 mph. This is also the last Shelby GT500 variant of the \u201cS197\u201d generation of the Mustang, featuring many chassis upgrades over its predecessor along with the final styling revisions introduced for the 2013 model year.\n- Power comes from a supercharged 5.8-liter V8, rated at 662 horsepower and 631 lb-ft of torque. It powers the rear wheels via a 6-speed manual transmission.", 
+      "known_flaws": "- Some rock chips on front bumper\n- Scrapes on front lip\n- Dent on passenger's side rear quarter panel\n- Some curb rash on wheels\n- Some creases on driver's seat outer bolster", 
+      "other_items": "- 2 keys\n- Owner's manual\n- Window sticker\n- Spare windshield wipers\n- Aftermarket phone mount", 
+      "ownership_history": "The seller is the original owner of this GT500, having purchased it brand new in April 2013. ", 
+      "recent_service_history": "Service documentation in the photo gallery indicates that the following maintenance has been performed:\n- November 2021: Engine oil and filter changed\n- October 2020: Engine oil and filter changed, tires rotated\n- April 2020: Engine oil and filter changed\n- September 2019: Engine oil and filter changed, rear differential fluid changed, rear differential seal replaced\n- August 2019: Airbag inflator recall performed\n- December 2018: Battery replaced\n- October 2017 (16,222 miles): Engine oil and filter changed, tires rotated\n\nAdditional service history is detailed in the photo gallery. ", 
+      "videos": [
+        "https://youtu.be/gElN6j2GMhY"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~30,100 Miles, 1 Owner, 6-Speed Manual, Supercharged V8, Unmodified", 
+    "title": "2013 Ford Mustang Shelby GT500 Coupe", 
+    "title_status": "Clean (AZ)", 
+    "transmission": 2, 
+    "transmission_details": "6-Speed", 
+    "vin": "1ZVBP8JZ0D5279956", 
+    "year": 2013
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "Rod8069"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-26T18:50:00.000+00:00", 
+    "bids": 8, 
+    "comments": 15, 
+    "current_bid": {
+      "amount": 13500, 
+      "bidder": {
+        "photo": null, 
+        "username": "btauto"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 216
+  }, 
+  "status": "live", 
+  "submission_id": "KmvBe8k6", 
+  "views": 2856, 
+  "watching": false
+}
