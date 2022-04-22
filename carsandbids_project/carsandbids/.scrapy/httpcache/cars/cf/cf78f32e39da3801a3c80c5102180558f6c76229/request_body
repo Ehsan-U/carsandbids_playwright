@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://carsandbids.com/v2/autos/auctions?limit=1&status=new&timestamp=1650473924322&signature=550b8601d079834f644284e304e3b0e1cfaff411",
+        "User-Agent": " "
+    },
+    "url": "https://carsandbids.com/auctions/rkqpPZVO/1984-Porsche-944"
+}

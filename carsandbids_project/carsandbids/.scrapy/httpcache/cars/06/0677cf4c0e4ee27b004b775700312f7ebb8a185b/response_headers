@@ -1,0 +1,14 @@
+Date: Thu, 21 Apr 2022 11:06:16 GMT
+Content-Type: application/json
+Allow: GET, HEAD, OPTIONS
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 cca9137c259ad738f790039a45561cee.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: AMS1-C1
+X-Amz-Cf-Id: Mfpaubsx81h2m1AzrUnoxVrusLZSnIMeMauwqJVudd7-RoYhWxLqeg==
+Cf-Cache-Status: DYNAMIC
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 6ff5a6376de8c82f-AMS
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

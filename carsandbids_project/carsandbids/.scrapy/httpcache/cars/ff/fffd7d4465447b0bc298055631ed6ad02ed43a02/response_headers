@@ -1,0 +1,18 @@
+Date: Wed, 20 Apr 2022 03:26:05 GMT
+Content-Type: text/plain
+Last-Modified: Wed, 16 Feb 2022 22:13:57 GMT
+X-Amz-Version-Id: DH0xe0LPsINj_fatY0BHUEvEf53zvn.b
+Etag: W/"01f3a6a9fd2a540baacd0c4c7d87b2d1"
+X-Cache: Miss from cloudfront
+Via: 1.1 7f71f5258c6bbee046a26011fbbfa996.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: AMS1-C1
+X-Amz-Cf-Id: tP0I14PEL4FC3hA7knYkBdj-a75IPs6ZkVvaBSmD7EStBry3bMOkXQ==
+Cf-Cache-Status: REVALIDATED
+Expires: Thu, 20 Apr 2023 03:26:05 GMT
+Cache-Control: public, max-age=31536000
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 6feac6c14b684154-AMS
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

@@ -1,0 +1,51 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no" name="viewport">
+<meta content="#ffffff" name="theme-color">
+<title>
+   1984 Porsche 944 auction - Cars &amp; Bids
+  </title>
+<meta content="Cars &amp; Bids" name="apple-mobile-web-app-title">
+<link href="/favicon.ico" rel="shortcut icon">
+<link href="/apple-touch-icon-76.png" rel="apple-touch-icon">
+<link href="/apple-touch-icon-76.png" rel="apple-touch-icon" sizes="60x60">
+<link href="/apple-touch-icon-120.png" rel="apple-touch-icon" sizes="114x114">
+<link href="/apple-touch-icon-152.png" rel="apple-touch-icon" sizes="144x144">
+<meta content="This 1984 Porsche 944 is for sale on Cars &amp; Bids! Auction ends April 27 2022." data-react-helmet="true" name="description">
+<meta content="1984 Porsche 944 - 5-Speed Manual, Recent Major Service, Nearly Unmodified" data-react-helmet="true" property="og:title">
+<meta content="This 1984 Porsche 944 is for sale on Cars &amp; Bids! Auction ends April 27 2022." data-react-helmet="true" property="og:description">
+<meta content="https://media.carsandbids.com/cdn-cgi/image/width=800,quality=80/7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/3pXzExlZ-DTuw3GdCC6-(edit).jpg?t=164984159375" data-react-helmet="true" property="og:image">
+<meta content="https://carsandbids.com/auctions/rkqpPZVO/1984-Porsche-944" data-react-helmet="true" property="og:url">
+<meta content="website" data-react-helmet="true" property="og:type">
+<meta content="1984 Porsche 944 - 5-Speed Manual, Recent Major Service, Nearly Unmodified" data-react-helmet="true" name="twitter:title">
+<meta content="This 1984 Porsche 944 is for sale on Cars &amp; Bids! Auction ends April 27 2022." data-react-helmet="true" name="twitter:description">
+<meta content="https://media.carsandbids.com/cdn-cgi/image/width=800,quality=80/7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/3pXzExlZ-DTuw3GdCC6-(edit).jpg?t=164984159375" data-react-helmet="true" name="twitter:image">
+<meta content="summary_large_image" data-react-helmet="true" name="twitter:card">
+<meta content="@carsandbids" data-react-helmet="true" name="twitter:site">
+<meta content="@carsandbids" data-react-helmet="true" name="twitter:creator">
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-TLFG8B5">
+   </script>
+<link href="/manifest.json" rel="manifest">
+<style>
+     #root.init{visibility:hidden}
+    </style>
+<link href="/static/css/13.22898054.chunk.css" rel="stylesheet">
+<link href="/static/css/main.52f6ddc7.chunk.css" rel="stylesheet">
+
+
+</head>
+<body>
+<noscript>
+   You need to enable JavaScript to run this app.
+  </noscript>
+<div class="init" id="root"></div>
+<script>
+   !function(e){function t(t){for(var n,a,c=t[0],i=t[1],s=t[2],l=0,d=[];l<c.length;l++)a=c[l],Object.prototype.hasOwnProperty.call(o,a)&&o[a]&&d.push(o[a][0]),o[a]=0;for(n in i)Object.prototype.hasOwnProperty.call(i,n)&&(e[n]=i[n]);for(f&&f(t);d.length;)d.shift()();return u.push.apply(u,s||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,a=1;a<r.length;a++){var i=r[a];0!==o[i]&&(n=!1)}n&&(u.splice(t--,1),e=c(c.s=r[0]))}return e}var n={},a={8:0},o={8:0},u=[];function c(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,c),r.l=!0,r.exports}c.e=function(e){var t=[];a[e]?t.push(a[e]):0!==a[e]&&{1:1,4:1,9:1,12:1}[e]&&t.push(a[e]=new Promise((function(t,r){for(var n="static/css/"+({3:"account",4:"auction",5:"auth",7:"rtb",9:"sellcar",10:"static",11:"submit",12:"user"}[e]||e)+"."+{0:"31d6cfe0",1:"431eaaed",2:"31d6cfe0",3:"31d6cfe0",4:"416b627b",5:"31d6cfe0",7:"31d6cfe0",9:"66083ab3",10:"31d6cfe0",11:"31d6cfe0",12:"86430b42",14:"31d6cfe0",15:"31d6cfe0"}[e]+".chunk.css",o=c.p+n,u=document.getElementsByTagName("link"),i=0;i<u.length;i++){var s=(f=u[i]).getAttribute("data-href")||f.getAttribute("href");if("stylesheet"===f.rel&&(s===n||s===o))return t()}var l=document.getElementsByTagName("style");for(i=0;i<l.length;i++){var f;if((s=(f=l[i]).getAttribute("data-href"))===n||s===o)return t()}var d=document.createElement("link");d.rel="stylesheet",d.type="text/css",d.onload=t,d.onerror=function(t){var n=t&&t.target&&t.target.src||o,u=new Error("Loading CSS chunk "+e+" failed.\n("+n+")");u.code="CSS_CHUNK_LOAD_FAILED",u.request=n,delete a[e],d.parentNode.removeChild(d),r(u)},d.href=o,document.getElementsByTagName("head")[0].appendChild(d)})).then((function(){a[e]=0})));var r=o[e];if(0!==r)if(r)t.push(r[2]);else{var n=new Promise((function(t,n){r=o[e]=[t,n]}));t.push(r[2]=n);var u,i=document.createElement("script");i.charset="utf-8",i.timeout=120,c.nc&&i.setAttribute("nonce",c.nc),i.src=function(e){return c.p+"static/js/"+({3:"account",4:"auction",5:"auth",7:"rtb",9:"sellcar",10:"static",11:"submit",12:"user"}[e]||e)+"."+{0:"b1a6dcb8",1:"83eead04",2:"3a068a9c",3:"2fe5187e",4:"6b11ec60",5:"bdd3d73b",7:"41ebaef8",9:"dfdc3a80",10:"0452da6c",11:"a6b3d5ac",12:"ea2741ab",14:"b6ad01ed",15:"6659169a"}[e]+".chunk.js"}(e);var s=new Error;u=function(t){i.onerror=i.onload=null,clearTimeout(l);var r=o[e];if(0!==r){if(r){var n=t&&("load"===t.type?"missing":t.type),a=t&&t.target&&t.target.src;s.message="Loading chunk "+e+" failed.\n("+n+": "+a+")",s.name="ChunkLoadError",s.type=n,s.request=a,r[1](s)}o[e]=void 0}};var l=setTimeout((function(){u({type:"timeout",target:i})}),12e4);i.onerror=i.onload=u,document.head.appendChild(i)}return Promise.all(t)},c.m=e,c.c=n,c.d=function(e,t,r){c.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},c.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},c.t=function(e,t){if(1&t&&(e=c(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(c.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)c.d(r,n,function(t){return e[t]}.bind(null,n));return r},c.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return c.d(t,"a",t),t},c.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},c.p="/",c.oe=function(e){throw console.error(e),e};var i=this["webpackJsonpautos-web"]=this["webpackJsonpautos-web"]||[],s=i.push.bind(i);i.push=t,i=i.slice();for(var l=0;l<i.length;l++)t(i[l]);var f=s;r()}([])
+  </script>
+<script src="/static/js/13.2bcad387.chunk.js">
+  </script>
+<script src="/static/js/main.54a14a89.chunk.js">
+  </script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon="{&quot;rayId&quot;:&quot;6ff050850ec46b30&quot;,&quot;token&quot;:&quot;7c419153df094725b9f63db163ad956e&quot;,&quot;version&quot;:&quot;2021.12.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+</body></html>
