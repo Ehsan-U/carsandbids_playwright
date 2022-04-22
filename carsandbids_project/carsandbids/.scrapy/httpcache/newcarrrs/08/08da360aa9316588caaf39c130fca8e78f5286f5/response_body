@@ -1,0 +1,610 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 311, 
+      "price": 10440, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 151
+  }, 
+  "id": "3yvvvAky", 
+  "listing": {
+    "body_style": 2, 
+    "drive_train": 2, 
+    "engine": "3.2L I6", 
+    "exterior_color": "Mystic Blue Metallic", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Cold Weather Package", 
+      "Mystic Blue Metallic exterior"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-11T18:58:34.656+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=mvhPrmRffB-lz0Qel_qx-w", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "3ONo0Xz6", 
+    "interior_color": "Gray", 
+    "location": "Darien, CT 06820", 
+    "make": "BMW", 
+    "make_slug": "bmw", 
+    "mileage": 42600, 
+    "mileage_text": null, 
+    "model": "M3", 
+    "model_slug": "m3", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 1560, 
+          "id": "rEYDQGGb", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-Kix84lFvyG.jfif?t=164968059621", 
+          "width": 2080
+        }, 
+        {
+          "height": 1512, 
+          "id": "KDZ1zG5E", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-QvUyWusiKa9.jpg?t=164969091487", 
+          "width": 2016
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2372, 
+          "id": "KPezbbR7", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-a3IYGMM4Zo-(edit).jpg?t=164984401420", 
+          "width": 3559
+        }, 
+        {
+          "height": 1787, 
+          "id": "rxM6B1zB", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-pNhI3imheG-(edit).jpg?t=164984417736", 
+          "width": 2681
+        }, 
+        {
+          "height": 2454, 
+          "id": "9lDERlaO", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-m-U1PfxDPU-(edit).jpg?t=164984448692", 
+          "width": 3681
+        }, 
+        {
+          "height": 1932, 
+          "id": "3oPkqbjw", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb--gACI6btA7-(edit).jpg?t=164984470297", 
+          "width": 2899
+        }, 
+        {
+          "height": 1670, 
+          "id": "rb1AyAwd", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-UfxuT5tj0a-(edit).jpg?t=164984465838", 
+          "width": 2506
+        }, 
+        {
+          "height": 3024, 
+          "id": "K17p7bR4", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-NaePxE61QNW.jpeg?t=164968051728", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35MOaa7B", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-guqBfD2Raj3.jpeg?t=164968052330", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYWy6lE9", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-GK6wDxfJhMf.jpeg?t=164968051092", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zbJPjB1", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-RHZGz4YmrB1.jpeg?t=164968052017", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDy1Xbdy", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-wGDoeUUbSef.jpeg?t=164968050402", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbb8lNDk", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-avtnpK1NwwT.jpeg?t=164968052063", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNb4vPvk", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-FIhwQ_Fzvvw.jpeg?t=164968050188", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kdo0W2wB", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-yFneit56UWI.jpeg?t=164968049839", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjzoYvR2", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-4EP_JcJ_Oeq.jpeg?t=164968049798", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36W0PbGP", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-IcUJaTp9fBo.jpeg?t=164968049915", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGOEJj2w", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-icrid9OQ7ix.jpeg?t=164968050125", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwZ11eZX", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-6dZPIDib9uG.jpeg?t=164968052621", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gNn8lV1", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-NKGqGXnkU20.jpeg?t=164968052986", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjJMGp20", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s--Jc176m2fsH.jpeg?t=164968052961", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vpmJbqv", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-Gs5TWyrKKRb.jpeg?t=164968051124", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkwvL5pR", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-fh7CfbVuVm6.jpeg?t=164968052863", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oERVoOE", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-97Ku2N5UrCb.jpeg?t=164968052801", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkqO1BjQ", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-SImRv05BLpU.jpeg?t=164968049431", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9AYxvJkA", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-IeSuHMWj4tV.jpeg?t=164968049393", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3ozb5Dem", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-Bufc8HWbI5L.jpeg?t=164968049333", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "374djQMp", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-8XN_XQQAVQT.jpeg?t=164968052248", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEGAkw4V", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-Bon5c_wJd2V.jpeg?t=164979443496", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vLd8EEd", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-5-ByoCcv0LG.jpeg?t=164979443617", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36O7aDkW", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-4xXmnPIQKrr.jpeg?t=164968052588", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1Zoa6PG", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-G2F1u11CFiE.jpeg?t=164979444109", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "J9QXpbYr", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-_I1SX1DFDSq.jpeg?t=164979442882", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPyJm8dk", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-IgBN4wuW5hq.jpeg?t=164968051818", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmaR6lad", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-DrY9Qe51j_H.jpeg?t=164968052411", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVNk1omM", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-aqpDL2jAcgU.jpeg?t=164968051652", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92QgoaaY", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-ZWQT5A35I-s.jpeg?t=164968051464", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1880, 
+          "id": "r4kpaeDK", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-2Hu56MwKr2-(edit).jpg?t=164984381135", 
+          "width": 2821
+        }, 
+        {
+          "height": 2688, 
+          "id": "92xnDe4J", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-Lg0r-qlKPR-(edit).jpg?t=164984318365", 
+          "width": 4032
+        }, 
+        {
+          "height": 1590, 
+          "id": "K1y6x0l0", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-caY9yw4btS-(edit).jpg?t=164984390065", 
+          "width": 2385
+        }, 
+        {
+          "height": 1339, 
+          "id": "98OQOP42", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3vqQZNRb-7FgY54fq0b-(edit).jpg?t=164984385811", 
+          "width": 2009
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BgXqVyA", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-zAYGMgLDZjd.jpeg?t=164979443282", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9llw7vg9", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-GTgf-NGlfHP.jpeg?t=164979444284", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPxnNYvV", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-HGjXOane-H-.jpeg?t=164979444125", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxeNmRwW", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-UCZt6SkFnNM.jpeg?t=164979444197", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rM4AV0mK", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-kG2L6Nw9fCZ.jpeg?t=164968052448", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMLzqMdL", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-CS8KvrN7M5X.jpeg?t=164986283577", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmYOamml", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-R_p5EdVRswk.jpeg?t=164986283500", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rN1w41GP", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-lnDqui6gqdF.jpeg?t=164979442680", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pj25BZg", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-CvdqI2aPvVy.jpeg?t=164986283767", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oyNOAN2", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-A5M2q3rMf3q.jpeg?t=164986283801", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxyRkBQ9", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-VoFuk-4HeVn.jpeg?t=164986283594", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98lBe1xY", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-e1hUCzJ4ke7.jpeg?t=164979443935", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVGLmx6l", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-p5ZBEc9JGmr.jpeg?t=164979443386", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "3yWEp0wE", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-YVEgavh7OUe.jpeg?t=164968051275", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qbayVMz", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-dL2sG9bx4wI.jpeg?t=164968050617", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3ozQbevv", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-yZu4-Ew95EU.jpeg?t=164979444451", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WDQxDwM", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-Zbf7q04_5Ix.jpeg?t=164968050717", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEA5PjmR", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-tTuDVFBFEig.jpeg?t=164968051097", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJn5BW8O", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-rKTmX4XBAJi.jpeg?t=164979443088", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9e6gO7Yo", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-maSs9kGEX6_.jpeg?t=164968051643", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9l07BaP2", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-uNa0cx8YZNv.jpeg?t=164986283660", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbAjBJWL", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-CTkHbc4_eM_.jpeg?t=164979444323", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3OB0Nvdy", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-6OQofYziaR8.jpeg?t=164979442770", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9AM7emyw", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-Yqj1P3TB0dV.jpeg?t=164979444454", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XNWzkwz", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-8mNvGlh00k5.jpeg?t=164979443661", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4k5w4Vn", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-yp9rUlYKVd5.jpeg?t=164979443831", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30pZN21R", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-Fg4rH8CW5Cl.jpeg?t=164979443784", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pBOM8bg", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-xgy2wYlpqnT.jpeg?t=164968052639", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qo4M0xE", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-7iMDdxpTF7t.jpeg?t=164979442986", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92AdaqN6", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-JKsEYImADO1.jpeg?t=164979443791", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LjjjvLV", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/3vqQZNRb-0Qlc5PthZFE.jpeg?t=164979443480", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "3Bkjvv66", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-RKodXJnZ9XH.jpeg?t=164968050790", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30wODnxG", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-wSJqU77fSDv.jpeg?t=164968051355", 
+          "width": 4032
+        }, 
+        {
+          "height": 2080, 
+          "id": "9nBY5RJN", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-QRTxD2AJZ-.jfif?t=164968059520", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "3ONOvYOa", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-sp1nqwyfe2.jfif?t=164968059390", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "3vGybP5m", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-JF_RSELmS9.jfif?t=164968059640", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "3BQQd7X9", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-S_BfwG6Hxs.jfif?t=164968059530", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "3qqMdQeN", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-mVPcknTUL.jfif?t=164968059470", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "KV4g5YXQ", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-uvgrA1uHF9.jfif?t=164968059570", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "rJXmkRDX", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-_PKzt2NyjK.jfif?t=164968059487", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "rNalepQG", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-ktypf21Hb3.jfif?t=164968059369", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "9QD81nAk", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-zjagwX6CI.jfif?t=164968059415", 
+          "width": 1560
+        }, 
+        {
+          "height": 2080, 
+          "id": "9a5d1BE8", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-4vf9ZgHBsf.jfif?t=164968059304", 
+          "width": 1560
+        }, 
+        {
+          "height": 1560, 
+          "id": "rGxWd5G2", 
+          "link": "632b2cc99f8ccffd6a1fbf17c6778074662284a3/photos/s-PdIoShrdkH.jfif?t=164968059320", 
+          "width": 2080
+        }
+      ], 
+      "other": []
+    }, 
+    "sections": {
+      "doug": "I love it when a car that sells on Cars & Bids comes back for a second auction \u2013 and this is a good one! The E46 M3 is going up in value, and this one is VERY desirable because it touts reasonably low mileage, no major modifications, AND a great color called Mystic Blue Metallic. The extensive service history and the clean, accident-free Carfax report further enhance this car's appeal and provide peace of mind.", 
+      "equipment": "A window sticker is pictured in the gallery, and a partial list of notable equipment includes:\n- Cold Weather Package (heated front seats, retractable headlight washers, and ski bag)\n- 19-inch \"Style 67\" wheels\n- Xenon headlights\n- Power-operated soft top\n- Aluminum interior trim\n- Leather upholstery\n- Power-adjustable front seats\n- Harman Kardon sound system\n- Navigation system\n- Rear parking sensors", 
+      "highlights": "THIS... is a 2004 BMW M3 Convertible, finished in Mystic Blue Metallic with a blue soft top and a gray interior.\n- This convertible's odometer displays about 42,600 miles.\n- The attached Carfax history report lists no accidents or mileage inconsistencies in this BMW's past. It also shows that this car has been mostly North Carolina- and California-owned.\n- The window sticker pictured in the gallery notes that this M3 cost $66,845 new (about $101,800 in 2022). Factory equipment includes the Cold Weather package, xenon headlights, a power-operated soft top, leather upholstery, power-adjustable front seats, and a Harman Kardon sound system. The only modification reported by the seller is a rear spoiler.\n- The third-generation M3 made its debut for the 2000 model year as the quickest and most powerful evolution of the E46 3 Series. Offered as a coupe and as a convertible, it received a high-revving straight-6 engine, suspension improvements, and a muscular-looking exterior design. Production ended in 2006.\n- Power comes from a 3.2-liter straight-6, rated at 333 horsepower and 262 lb-ft of torque. Called \"S54\" internally, it spins the rear wheels via a 6-speed SMG automated manual transmission.", 
+      "known_flaws": "- Chips on the front end\n- Some scratches on the wheels\n- Some wear on the driver's seat's outer bolsters\n- Scratch on the passenger-side rear headrest", 
+      "modifications": "- Rear spoiler", 
+      "other_items": "- 2 keys\n- Owner's manuals\n- Window sticker\n- Available service records\n- Front license plate bracket", 
+      "ownership_history": "The seller purchased this M3 [on Cars & Bids](https://carsandbids.com/auctions/9amN8W2E/2004-bmw-m3-convertible) in April 2021 and he has put about 2,000 miles on it.", 
+      "recent_service_history": "- Service records shown in the gallery and entries in the attached Carfax history report detail most of the repairs and maintenance performed on this M3 since it was new. \n- The seller states that the engine oil and filter and engine air filter were last changed in November 2021.", 
+      "videos": [
+        "https://www.youtube.com/watch?v=jP1qnK32LEI", 
+        "https://www.youtube.com/watch?v=pOSfywBltm8"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~42,600 Miles, Mostly Unmodified, Extensive Service History", 
+    "title": "2004 BMW M3 Convertible", 
+    "title_status": "Clean (CT)", 
+    "transmission": 1, 
+    "transmission_details": "6-Speed", 
+    "vin": "WBSBR934X4PK06756", 
+    "year": 2004
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "JWZ"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-25T18:02:00.000+00:00", 
+    "bids": 18, 
+    "comments": 11, 
+    "current_bid": {
+      "amount": 10340, 
+      "bidder": {
+        "photo": null, 
+        "username": "kaan"
+      }
+    }, 
+    "questions": 2, 
+    "watchers": 257
+  }, 
+  "status": "live", 
+  "submission_id": "3vqQZNRb", 
+  "views": 3960, 
+  "watching": false
+}

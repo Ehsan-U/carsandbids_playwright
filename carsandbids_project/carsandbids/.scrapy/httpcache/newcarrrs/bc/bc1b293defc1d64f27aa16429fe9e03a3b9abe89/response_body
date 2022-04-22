@@ -1,0 +1,536 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 1800, 
+      "price": 60500, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 861
+  }, 
+  "id": "rjz1NJVw", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "5.2L Supercharged V8", 
+    "exterior_color": "Lead Foot Gray", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Equipment Group 920A", 
+      "R-Electronics Package"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-06T15:28:14.620+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=G1LpAA_jms9byrP_SeYyQQ", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "rjJWw8Q2", 
+    "interior_color": "Ebony", 
+    "location": "Houston, TX 77019", 
+    "make": "Ford", 
+    "make_slug": "ford", 
+    "mileage": 11800, 
+    "mileage_text": null, 
+    "model": "Mustang", 
+    "model_slug": "mustang", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3024, 
+          "id": "9lbDV5bO", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-IEYHUSOyQ2q.jpg?t=164912683466", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KVzJAaEM", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-0f6sBBiuP9-(edit).jpg?t=164981293666", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "35kbeaoj", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-iHws7cYPQ.jpg?t=164912684074", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KmV5Vj2d", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-B9UQkK5QNJ-(edit).jpg?t=164981300525", 
+          "width": 3024
+        }, 
+        {
+          "height": 1560, 
+          "id": "3yZDWVzL", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/InkedrNkVVopP-Ox2Ov57c3Uc_LI-EIdQsHyolx.jpg?t=164981346924", 
+          "width": 2080
+        }, 
+        {
+          "height": 1560, 
+          "id": "3vMY2QOR", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/InkedInkedrNkVVopP-YWI7aJnCsp8_LI-TbKkcWxZrN.jpg?t=164981346888", 
+          "width": 2080
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2187, 
+          "id": "rGanb1g3", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-p9LHE7wd3X-(edit).jpg?t=164980580131", 
+          "width": 3281
+        }, 
+        {
+          "height": 2078, 
+          "id": "3pOPEe4d", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-ergdt3-jdr-(edit).jpg?t=164980565754", 
+          "width": 3117
+        }, 
+        {
+          "height": 2437, 
+          "id": "9nLWPBvB", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-c2MOS_086u-(edit).jpg?t=164980583104", 
+          "width": 3656
+        }, 
+        {
+          "height": 2086, 
+          "id": "KmAPn0z0", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-oCzGYbi1yV-(edit).jpg?t=164980588217", 
+          "width": 3129
+        }, 
+        {
+          "height": 1926, 
+          "id": "rke551JR", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-bj2wMDz3DM-(edit).jpg?t=164980573701", 
+          "width": 2890
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WAGzlVw", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-_6DrWjUqPW8.jpg?t=164910076003", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3RnDGLk1", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-HcuNo7yy1.jpg?t=164945586597", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rk22GRlR", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-r6MQggtFOil.jpg?t=164962115465", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vJBVV2v", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-Cz__82cKu.jpg?t=164927219231", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3v2jWgQd", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-CVy2VmVOY.jpg?t=164910077604", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LN4DP5o", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-5yius_zR7.jpg?t=164927217568", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KV2XYWLx", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-Y8NhNFZUA.jpg?t=164927386944", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMk5Bavm", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-vo3w9-FPb.jpg?t=164910099017", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDb8n2vG", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-zCGxpdYjR.jpg?t=164962111612", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGJdg162", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-zw2l74oyP.jpg?t=164910101539", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9l5D4ERZ", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-Rwv2QPk7C.jpg?t=164910113415", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjLdk0lX", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-6GMUT87EE.jpg?t=164910084184", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjjZeRbx", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-N3iEnzLNd.jpg?t=164910100889", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4RxBlbV", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-DFsc7eQZMBR.jpg?t=164920591722", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3OAQlQGY", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-48ScGZ_tg.jpg?t=164910095509", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rJBxGl6N", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-rMDrlXk-Hsi.jpg?t=164927381712", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nXRaxkG", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-1GbBxQoj7.jpg?t=164910096549", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "9QAMzzle", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s--06QMCXeQ.jpg?t=164910102357", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "3odylvoV", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-0wdRiAI9u.jpg?t=164945585703", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pqx4kRZ", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-MKESI6kzIu.jpg?t=164945584653", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rG4PMGLj", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-CNmxbKhNZ8.jpg?t=164945592234", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2688, 
+          "id": "KV1JdmnM", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-XbSZZxi6wy-(edit).jpg?t=164980665841", 
+          "width": 4032
+        }, 
+        {
+          "height": 2016, 
+          "id": "9QAW7JmE", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-sKkDqGUHJv-(edit).jpg?t=164980643996", 
+          "width": 3024
+        }, 
+        {
+          "height": 2218, 
+          "id": "3qLbmBn1", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-PSN6yhS7Wg-(edit).jpg?t=164980649544", 
+          "width": 3327
+        }, 
+        {
+          "height": 2625, 
+          "id": "3BL1R6pB", 
+          "link": "59339d5e07287c702e69307de910cceaa69c1d04/photos/rNkVVopP-KfHakSC5-f-(edit).jpg?t=164980659231", 
+          "width": 3938
+        }, 
+        {
+          "height": 4032, 
+          "id": "37WEe7gZ", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-gA3f3wVMu.jpg?t=164945574059", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "3zZApyDd", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-yuJxKm7cMl.jpg?t=164945570722", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "9l5mxWeg", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-d9jOA0QK2.jpg?t=164945572085", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "9ezNdAA6", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-FNz5gMyWuib.jpg?t=164910111041", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rklRdGPl", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-Wz2YQ-mne.jpg?t=164945587711", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rj7Qv6GX", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-7RE6pq3bq.jpg?t=164945588675", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "3gE7jN5o", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-UFWzw-c_7.jpg?t=164945589842", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "KVXlZLLl", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-m-NAnjWRX.jpg?t=164945566984", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9n7MNNRp", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-pfPFTPTjT.jpg?t=164927384124", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJ5dOmq2", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-VMXffYX6Wg.jpg?t=164910122266", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qXVOOze", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-wFj5aBKbl.jpg?t=164910121006", 
+          "width": 4032
+        }, 
+        {
+          "height": 2194, 
+          "id": "rMZYP6wZ", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-9xt9O1Pzrxi.jpg?t=164981366922", 
+          "width": 1602
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oMYxqRw", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-47FNaImh0.jpg?t=164995672644", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vVlgLpd", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-V0ilrp1Kvt.jpg?t=164945563173", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92pmPoEW", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-Ut7V-Q5SQ.jpg?t=164945565850", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3yXMjqPd", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-XqKU8SeEc.jpg?t=164945564723", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMeOV5w8", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-6nL9Q-vyV.jpg?t=164945579435", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36LlVy4z", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-lpAyFotuK.jpg?t=164945580158", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPMYOzAQ", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-Udcoi0sj6.jpg?t=164945568580", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZ54EpZZ", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-tQjLKKP2P.jpg?t=164927260075", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1MzoMNG", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-ZyjUl7WDd.jpg?t=164945567908", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "92RzNvex", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-7mgBPx8FsOe.jpg?t=164920598681", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3yAGqZad", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-fJYjsLxKnuS.jpg?t=164920623933", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkegkLbR", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-HvmggfeTU.jpg?t=164910100357", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nLebXeX", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-oFLZNQyWZQ.jpg?t=164920626058", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmOnJoem", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-d6MGoMCjMnc.jpg?t=164920592272", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rw28dWAM", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-YEP_nlGaa.jpg?t=164910083088", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "9lDJdRez", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-HkEbLblh4.jpg?t=164910090821", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "30kbOk4R", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-juKmzZs1G.jpg?t=164910078691", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3y2Yan5R", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-Xzpk9wjUQ79.jpg?t=164927379783", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "9lZ5nBqm", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-B_AsNjA0X.jpg?t=164986583873", 
+          "width": 3024
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "92xV2zzA", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-Gv9K7ATEY.jpg?t=164910089159", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPvqGm8q", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-0iZB6cnMBvx.jpg?t=164927229784", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "307y8A7G", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-the0IHWSE.jpg?t=164910098095", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KD0LNBjp", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/rNkVVopP-aX9saNTV_eC.jpg?t=164981376055", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KdxnA0XB", 
+          "link": "fd63e084fc245b00f38fbdabdd56f2390a88ee7d/photos/s-EJWIit_Y_fW.jpg?t=164910092549", 
+          "width": 3024
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "The Shelby GT350R is an incredibly thrilling car to drive \u2013 it's tremendously capable in terms of speed and handling, and its flat-plane crank V8 is a real gem. This particular GT350R turns the performance up a notch with a Hennessey HPE850 supercharger kit, which reportedly increases output to a staggering 760 horsepower at the wheels. It also boasts one-owner history, a clean, accident-free Carfax report, lots of reported service history, and warm-climate Texas ownership from new. If you missed out on one of these incredible coupes when they were new, here's your chance to own one!", 
+      "equipment": "A window sticker is provided in the photo gallery, and a partial list of notable equipment includes:\n- Equipment Group 920A (19-inch carbon fiber wheels, wheel lock kit, carbon fiber wing)\n- R-Electronics Package (dual zone automatic climate control, SYNC 3 infotainment system with 8-inch touch screen, navigation system, 9-speaker sound system, rear view camera, auxiliary gauges)\n- MagneRide damping system\n- Independent rear suspension\n- 3.73 Torsen differential\n- Brembo brakes\n- Aluminum strut brace\n- Chin splitter\n- Over-the-top racing stripes\n- Recaro cloth/Miko suede front sport seats\n- Rear seat delete\n- Alcantara-wrapped steering wheel\n- Air conditioning\n- Launch control\n- Cruise control\n- Keyless entry", 
+      "highlights": "THIS...is a 2018 Ford Mustang Shelby GT350R, finished in Lead Foot Gray with an Ebony interior.\n- This GT350R features the 6-speed manual transmission, and its odometer currently indicates approximately 11,800 miles.\n- The attached Carfax vehicle history report shows no accidents or mileage discrepancies. It also shows that this GT350R has been registered by one owner in Texas since new.\n- According to the window sticker shown in the gallery, this GT350R carried an original MSRP of $69,395, and it came equipped with Equipment Group 920A (19-inch carbon fiber wheels, wheel lock kit, carbon fiber wing), the R-Electronics Package (dual-zone automatic climate control, SYNC 3 infotainment system with 8-inch touch screen, navigation system, 9-speaker sound system, rear-view camera, auxiliary gauges), a MagneRide damping system, Brembo brakes, over-the-top racing stripes, Recaro front sport seats, an Alcantara-wrapped steering wheel, launch control, and more as detailed below.\n- Modifications reported by the seller are limited to the Hennessey Performance HPE850 kit (2.9L supercharger system, high-flow throttle body, high-flow fuel injectors, high-flow heat exchanger, high-flow air induction system, Hennessey exterior badging, serial numbered engine bay plaque) and a dealer-installed security system.\n- The Shelby GT350R variant of the \"S550\" Ford Mustang is a track-focused performance car benchmarked against competitors like the Chevrolet Camaro Z/28 and the Porsche 911 GT3. Compared to the standard GT350, it has improved grip, less weight, a more aggressive aerodynamic body kit, and it's the first mass-produced road car to come stock with carbon fiber wheels, resulting in a highly competent muscle car for the track.\n- Power comes from a flat-plane-crank \"Voodoo\" 5.2-liter V8 engine, rated at 526 horsepower and 429 lb-ft of torque in stock form. According to Hennessey, the HPE850 kit increases those figures to 858 and 673, and a dyno sheet pictured in the gallery indicates 760 horsepower and 512 lb-ft of torque at the wheels. Output is sent to the rear wheels via a 6-speed manual transmission.", 
+      "known_flaws": "- Scuffs underneath front splitter\n- Chips on front bumper\n- Chip on windshield\n- Lower rear carbon fiber splitter replaced\n- Chips on wheels", 
+      "modifications": "**Hennessey Performance HPE850 kit:**\n- 2.9L supercharger system\n- High-flow throttle body\n- High-flow fuel injectors\n- High-flow heat exchanger\n- High-flow air induction system\n- Hennessey exterior badging\n- Serial numbered engine bay plaque\n\n**Other:**\n- Dealer-installed security system", 
+      "other_items": "- 2 sets of keys\n- Owner's manuals\n- Owner's supplement package\n- Window sticker\n- Service records\n- Factory car cover\n- Locking bolts for carbon fiber wheels\n- 19-inch SVE GT7 wheels and tires with pressure gauges", 
+      "ownership_history": "The seller purchased this GT350R when new in 2018.", 
+      "recent_service_history": "Service documentation in the photo gallery indicates that the following maintenance has been performed:\n- March 2022 (11,741 miles): Engine oil and filter changed\n- March 2021 (10,002 miles): Engine oil and filter changed\n- February 2021 (9,915 miles): Clutch replaced, clutch slave cylinder replaced, flywheel replaced, interior trim pieces replaced\n- October 2020 (9,546 miles): Tires replaced, 4 wheel alignment performed\n- October 2020 (9,375 miles): Engine oil and filter changed\n- March 2020 (7,409 miles): Engine oil and filter changed\n- September 2019 (5,853 miles): A/C expansion valve replaced, A/C system recharged\n- March 2019 (4,006 miles): Engine oil and filter changed", 
+      "seller_notes": "Due to the modifications performed to this GT350R, it may not pass emissions testing in some states. As always, it's the **buyer's responsibility** to perform all due diligence regarding registering this GT350R in their respective state **prior to placing a bid.**", 
+      "videos": [
+        "https://www.youtube.com/watch?v=A4d4zKuRcpE", 
+        "https://www.youtube.com/watch?v=JqNcmaLo3JI", 
+        "https://www.youtube.com/watch?v=HyIkJB89iMA", 
+        "https://www.youtube.com/watch?v=UmJzLtIYYOA"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~11,800 Miles, 1 Owner, 6-Speed Manual, Hennessey Supercharger", 
+    "title": "2018 Ford Mustang Shelby GT350R", 
+    "title_status": "Clean (TX)", 
+    "transmission": 2, 
+    "transmission_details": "6-Speed", 
+    "vin": "1FA6P8JZ5J5500280", 
+    "year": 2018
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "COtter"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-27T17:30:00.000+00:00", 
+    "bids": 3, 
+    "comments": 20, 
+    "current_bid": {
+      "amount": 60000, 
+      "bidder": {
+        "photo": null, 
+        "username": "KG2022"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 159
+  }, 
+  "status": "live", 
+  "submission_id": "rNkVVopP", 
+  "views": 2191, 
+  "watching": false
+}

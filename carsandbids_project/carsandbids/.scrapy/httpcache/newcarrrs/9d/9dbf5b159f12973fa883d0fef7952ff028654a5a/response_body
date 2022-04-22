@@ -1,0 +1,715 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": true, 
+      "payment": 237, 
+      "price": 7877, 
+      "rate": 0.0499, 
+      "term": 36
+    }, 
+    "minimum_payment": 118
+  }, 
+  "id": "3v8O4vnd", 
+  "listing": {
+    "body_style": 3, 
+    "drive_train": 3, 
+    "engine": "2.0L Turbocharged I4", 
+    "exterior_color": "White", 
+    "highlighted_points": [
+      "Some Modifications", 
+      "Air conditioning", 
+      "Hood vents"
+    ], 
+    "history_report": null, 
+    "history_report_pdf": null, 
+    "id": "3pBGpxmY", 
+    "interior_color": "Blue/Gray", 
+    "location": "Flint, MI 48532", 
+    "make": "Nissan", 
+    "make_slug": "nissan", 
+    "mileage": 113100, 
+    "mileage_text": null, 
+    "model": "Pulsar", 
+    "model_slug": "pulsar", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 3024, 
+          "id": "3vAV6lpB", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-2AMwENcLZfz.jpg?t=164996501401", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEODLjnb", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-LAQTqvUbLyf.jpg?t=164996500972", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rbxXYQ8L", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-ToNgQhtiU8C.jpg?t=164996501652", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rN4AV6X5", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-ZY9nvkUDxvb.jpg?t=164996501523", 
+          "width": 4032
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 1683, 
+          "id": "36bMebaP", 
+          "link": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/KDOlP5Yy-0Q9iBAlzMw-(edit).jpg?t=165023537646", 
+          "width": 2525
+        }, 
+        {
+          "height": 2337, 
+          "id": "KYaNeRjL", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-rgLxaN9Dyd-(edit).jpg?t=164996861770", 
+          "width": 3505
+        }, 
+        {
+          "height": 2390, 
+          "id": "3veGxM7b", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-U7OEXc9ivw-(edit).jpg?t=164996865527", 
+          "width": 3586
+        }, 
+        {
+          "height": 2156, 
+          "id": "3yQQ5W6a", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-BJz0a1bo_4-(edit).jpg?t=164996870804", 
+          "width": 3234
+        }, 
+        {
+          "height": 2532, 
+          "id": "30MBMaPp", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-87hpCCXxuW-(edit).jpg?t=164996874526", 
+          "width": 3798
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkeLXJWg", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-4LDSHero9O.jpg?t=164856491361", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rG5D4qXw", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/s-rEO3G5LqChO.jpg?t=164830215279", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nalGykv", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-2Iw_noyqUJb.jpg?t=164969918753", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36eWxBMl", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-1OgXLl5cbq.jpg?t=164856492651", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9Wnx8PXR", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/s-Neb7X2zhYNV.jpg?t=164822582550", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92wMaazJ", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-ZVwASOwQyAz.jpg?t=164969910298", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35Ol7agj", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-aRbx1T8WTfv.jpg?t=164969913475", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XmlzRgq", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-BFxJN64tIBE.jpg?t=164856485932", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEEwwQ7r", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/s-zzanOTAINjF.jpg?t=164822585185", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "307WNMXj", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-hxV1o9XY8ls.jpg?t=164856486091", 
+          "width": 4032
+        }, 
+        {
+          "height": 1512, 
+          "id": "3gGLoyYb", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/s-Umug5D9SpGJ.jpg?t=164822584476", 
+          "width": 2016
+        }, 
+        {
+          "height": 3024, 
+          "id": "9eG1YmAg", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-vnKKwGlBSF.jpg?t=164969926843", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pOmWDng", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-aC-X7EC33s.jpg?t=164856490259", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3BBQQ2oB", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/s-WcGE9E2ZLm.jpg?t=164822582704", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rjRglZkp", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-YoXsbWiiI7h.jpg?t=164969923325", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmYoaJXx", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-TfaHPb_oihj.jpg?t=164969928321", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZDbywaA", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-N4MtKBYW-nH.jpg?t=164969917291", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37ydNb7Z", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-PVtBAfj4m.jpg?t=164969927892", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "367qXezK", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-TzvxpOSPll_.jpg?t=164969928563", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwMqO0JM", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-iy9aeQtqpUe.jpg?t=164969928617", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KV1B5ZEl", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-OAyynOI3Bb.jpg?t=164969927139", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDWYxvxo", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-5R3qhul9kMk.jpg?t=164969924499", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pnO5aZZ", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-TYOiBVl3JVE.jpg?t=164969928745", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkpdAmpO", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-lB9dIyy0U71.jpg?t=164969923200", 
+          "width": 4032
+        }, 
+        {
+          "height": 1512, 
+          "id": "301GLO5G", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/s-UtCOcOHtDzN.jpg?t=164822585345", 
+          "width": 2016
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1ly1wBG", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-HfZMqW3Hm_.jpg?t=164969927169", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9aQ8m4GE", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-VWu2WFw9nBd.jpg?t=164969916813", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kdjgd7kL", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-NRM6NN9QxmZ.jpg?t=164969923549", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WADzzBq", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-Twfrc_BBzZc.jpg?t=164856495047", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zlnnyRB", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-MDZH9XVUHs.jpg?t=164969927330", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lQWXeRg", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-xdA61a8nTB.jpg?t=164969927562", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9eMdaMYk", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-3mzyLhXVITV.jpg?t=164969918762", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9AjPe6nv", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-fzPd2f3K4-.jpg?t=164856491283", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJMeqRmp", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-THbgon6V4fB.jpg?t=164969918499", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYMjg8Ev", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-c3nkHcABHOV.jpg?t=164969917363", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3v7dAjqk", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-WPqW2ofL-wm.jpg?t=164969917807", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QqYRwgk", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-h-onVcTFrL1.jpg?t=164856494681", 
+          "width": 4032
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2688, 
+          "id": "92xj2onx", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-TgV8Yq9IjG-(edit).jpg?t=164996879323", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "KV4O2LVk", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-7AIHtLDB2_-(edit).jpg?t=164996883139", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "rkZVaeOK", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-Jx3UfNt9JX-(edit).jpg?t=164996890922", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "3gnjO8J8", 
+          "link": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/KDOlP5Yy-wNwBUkxfJ_-(edit).jpg?t=164996896309", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WbNmkWw", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-GfznUaZz88.jpg?t=164969925006", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KdZegwwQ", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-Y4DYzsynVuj.jpg?t=165023323956", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDLBgDoM", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-QGm55lnf5lE.jpg?t=165023327460", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36bOxD4x", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-on8EXs5Xn_1.jpg?t=165023323755", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwRXzXlx", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-rTHyKIjiC44.jpg?t=164969914865", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rNjeEyDX", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-RnCuafoyG1a.jpg?t=164969915288", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37Wbqpzp", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-mRN-h38gNs.jpg?t=164856487289", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZY5VkGk", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-AwTbaegLX4.jpg?t=164969925468", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3Bj08B7A", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-nyr8xqamgH.jpg?t=164969925225", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lBxqvMM", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-mkRENtTQCE-.jpg?t=164969922367", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rEx8DekK", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-bonnIpZu1z.jpg?t=164969925968", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9Axxw4Ze", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-LrJGdR4zZJQ.jpg?t=164969922845", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmoMMpap", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-YPkBUmIrYiM.jpg?t=164969921443", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "98y5L68e", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-5zPA8-UPe9N.jpg?t=164969921417", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMzp6Q0a", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-pj1XoQ68QAp.jpg?t=164969921890", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "301AojpR", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-tXdWDZgKe8.jpg?t=164969926464", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxYR7Xy6", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-hK6UA5HY1qa.jpg?t=164969922096", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rxX6WN6Q", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-_qLX4VH1HJ.jpg?t=164856489107", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rj7Dw5J0", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-02tw7UhHrY.jpg?t=164856491996", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vBnPz5d", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-IrqEf8wXFu.jpg?t=164969926121", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "r4Zd02aA", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-0rnhypYU2Oj.jpg?t=164969928058", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QBzg1PY", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-rK8-C62zYkY.jpg?t=164969924531", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rMLEq4E8", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-FeGbMZNMEc-.jpg?t=164969928550", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmXwLlqm", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-clFsbaGJH1D.jpg?t=164969913576", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9AvXOwJ3", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-MBJEbz4pFTp.jpg?t=164969913308", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3o7eaxew", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-cz6KZj8d0Yh.jpg?t=164969912945", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9leMO5eO", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-CekAI3C6dT2.jpg?t=164969912320", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4oWXV7V", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-K-Iwf6x3ctb.jpg?t=164969910554", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rb2y65Qy", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-x_dUeJTRuJX.jpg?t=164969912505", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rxqoDMx0", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-asYuooakXyo.jpg?t=165023404691", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "35GOy2ME", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-NIeYHJrR-n3.jpg?t=164969928109", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30PObq2p", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-jF_gHlcTpjV.jpg?t=164969920540", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lkEjXd2", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-YP9gi9EHJG.jpg?t=164856490250", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPAVL4MZ", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-8CE_Xi6aK3P.jpg?t=164969919806", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4BnzNDP", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-ofXoGQ43-Pt.jpg?t=164969921110", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kd2O0dyv", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-9NYojZ_efF.jpg?t=164856492563", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98Zmekv2", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-gVhvM9e6sut.jpg?t=164969910941", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3o2k47p2", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-vThhvdpH3Z.jpg?t=164856490259", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "3olAN11g", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-5DBsf6tHqcv.jpg?t=164969922828", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "98nQb7q0", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-9jHJRKPDg4.jpg?t=164856488152", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPvd8amQ", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-G0AjFG89zz.jpg?t=164969927233", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "92b7jB0W", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-5kEAyrwz5c.jpg?t=164969926723", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGLRPO29", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-r7DC33SwS.jpg?t=164856493420", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4bkw0mk", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-YOtF7A2aLS.jpg?t=164856487445", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "Km2yj2Bd", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-VrpOlak3ka.jpg?t=164856488195", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rG5QVmGN", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-m1JYtx3y0Zx.jpg?t=164969923841", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3O8117ej", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-traC24PQgq9.jpg?t=164969917557", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1BMVeNd", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-deCvzLODsEG.jpg?t=164969911215", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36BmnAbn", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-fma-niCgKb3.jpg?t=164969923580", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 4032, 
+          "id": "30xL6dlg", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-6WBpzSa48Xk.jpg?t=164969909876", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "9XJOyJWN", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-6LGl2mAasgp.jpg?t=164996503607", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3y80aMmd", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-g2mpSi9dhz.jpg?t=164996503719", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9X6BjP5l", 
+          "link": "b949c5017eac3272db883da3930dfea17b1ee61e/photos/KDOlP5Yy-tqDgZ4IlQ93.jpg?t=164969920355", 
+          "width": 4032
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "Now this is really cool! These Pulsar GTI-Rs were serious hot hatches in their day \u2013 they boast a potent SR20DET turbocharged engine, all-wheel drive, and a mandatory 5-speed manual. They were faster to 60mph than a 911 Carrera of the same model year \u2013 and although they didn't do as well in Group A rally competition as Nissan would've liked, they're still quick little cars that are underrated today. This particular example appears to be in nice shape for the mileage, and it touts a few upgrades like an aftermarket exhaust system and 14-inch alloy wheels. It also comes with a U.S. title, which means the difficult legwork of importing it is already done.", 
+      "equipment": "- ATTESA all-wheel-drive system\n- Hood vents\n- Roof-mounted antenna\n- Rear spoiler\n- Cloth upholstery\n- Air conditioning\n- N'Fit Addzest sound system\n- Power-operated windows, mirrors, and locks", 
+      "highlights": "THIS... is a 1994 Nissan Pulsar GTI-R, finished in White with a blue and gray interior.\n- This Pulsar GTI-R is a Japanese-spec, right-hand-drive car equipped with a 5-speed manual and titled in Michigan. Said to be imported from Japan earlier in 2021, it's equipped with a metric instrument cluster, and the odometer shows about 182,000 kilometers, which represents approximately 113,100 miles.\n- Factory equipment includes the ATTESA all-wheel drive system, hood vents, a roof-mounted antenna, rear spoiler, cloth upholstery, air conditioning, an N'Fit Addzest sound system, and power-operated windows, mirrors, and locks.\n- Modifications reported by the selling dealer include 14-inch alloy wheels, a Pioneer head unit, an aftermarket shift knob, R\u00e4zo pedal covers, and an aftermarket exhaust.\n- Produced from 1990 to 1994, the \"N14\" generation Pulsar saw the introduction of the GTI-R model, which was built to allow Nissan to enter WRC in the Group A class. According to Nissan, the Pulsar GTI-R can sprint to 60 mph in just 5.4 seconds (faster than a 1994 911 Carrera 2 and Carrera 4) on its way to a top speed of 144mph.\n- Power comes from a \"SR20DET\" 2.0-liter turbocharged inline-4, rated at 227 horsepower and 210 lb-ft of torque in stock form. This engine may be making slightly more power as a result of the modifications, though a dyno sheet was not provided to confirm. Output is sent to all four wheels via a 5-speed manual transmission.", 
+      "known_flaws": "- Rock chips on hood and front bumper (pictured in the photo gallery)\n- Scuff on front bumper\n- Paint chips on passenger's side door surround\n- Faded exterior plastic trim\n- Exterior stickers are faded and cracked\n- Scratches on rear bumper\n- Crack in rear bumper\n- Wear on driver's seat's outer bolster\n- Wear on center console, shift knob, and steering wheel\n- Cracks in dashboard\n- Some rust in driver's side door sill area\n- Exposed wires in trunk area\n- Some rust in engine bay and on underside components", 
+      "modifications": "Modifications reported by the selling dealer include:\n- 14-inch alloy wheels\n- Aftermarket exhaust\n- Pioneer head unit\n- Aftermarket shift knob\n- R\u00e4zo pedal covers", 
+      "other_items": "- 1 key\n- Owner's manuals (in Japanese)\n- Service records (in Japanese)\n- Aftermarket floor mats", 
+      "ownership_history": "The selling dealer acquired this Nissan in 2021 and has added approximately 500 miles since. ", 
+      "recent_service_history": "The selling dealer reports that the following services have been recently performed:\n- Distributor replaced, engine oil and filter changed", 
+      "seller_notes": "- The selling dealer will collect sales tax. Please **contact the selling dealer directly with any questions.**\n- Due to the modifications performed to this GTI-R, it may not pass emissions testing in some states. As always, it's the **buyer's responsibility** to perform all due diligence regarding registering this GTI-R in their respective state **prior to placing a bid.**", 
+      "videos": [
+        "https://www.youtube.com/watch?v=xXwRcTWZLjU"
+      ]
+    }, 
+    "seller_type": 2, 
+    "seller_type_details": "Sales Tax Fees", 
+    "sub_title": "5-Speed Manual, SR20DET Turbo 4-Cylinder, AWD, U.S. Title", 
+    "title": "1994 Nissan Pulsar GTI-R", 
+    "title_status": "Clean (MI)", 
+    "transmission": 2, 
+    "transmission_details": "5-Speed", 
+    "vin": "RNN14151692", 
+    "year": 1994
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "NomadAutoImport"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-28T18:34:00.000+00:00", 
+    "bids": 2, 
+    "comments": 5, 
+    "current_bid": {
+      "amount": 7777, 
+      "bidder": {
+        "photo": null, 
+        "username": "swagcars1"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 122
+  }, 
+  "status": "live", 
+  "submission_id": "KDOlP5Yy", 
+  "views": 2458, 
+  "watching": false
+}

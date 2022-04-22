@@ -13,7 +13,7 @@ class CarsSpider(scrapy.Spider):
     data = {}
     not_required = ['seller','bodystyle','sellertype','drivetrain']
     cookies = ''
-    name = 'newcars'
+    name = 'newcarrrs'
     ids = {}
     counter = 0
     allowed_domains = ['carsandbids.com','127.0.0.1']
@@ -60,6 +60,14 @@ class CarsSpider(scrapy.Spider):
             Make = page_data.get("listing").get("make")
             Model = page_data.get("listing").get("model")
             Mileage = page_data.get("listing").get("mileage")
+            if Mileage:
+                Mileage = str(Mileage)
+            else:
+                Mileage = ''
+                raw_miles = self.data['auctions'][i].get("mileage")
+                for c in raw_miles:
+                    if c.isdigit():
+                        Mileage += c
             VIN = page_data.get("listing").get("vin")
             Title_Status = page_data.get("listing").get("title_status")
             Location = page_data.get("listing").get("location")
@@ -71,7 +79,8 @@ class CarsSpider(scrapy.Spider):
                 Transmission = f'Manual {page_data.get("listing").get("transmission_details")}'
             ExteriorColor = page_data.get("listing").get("exterior_color")
             InteriorColor = page_data.get("listing").get("interior_color")
-        
+
+            
             price = page_data.get("finance").get("disclosure").get("price")
             no_reserver = str(self.data["auctions"][i].get('no_reserve'))
             raw_title = self.data['auctions'][i].get("title")

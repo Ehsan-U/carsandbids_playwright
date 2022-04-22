@@ -1,0 +1,600 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 250, 
+      "price": 8200, 
+      "rate": 0.0599, 
+      "term": 36
+    }, 
+    "minimum_payment": 127
+  }, 
+  "id": "rk40xApg", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "5.7L V8", 
+    "exterior_color": "Hemi Orange Pearl Coat", 
+    "highlighted_points": [
+      "Power sunroof", 
+      "Heated front seats", 
+      "Sound Group II"
+    ], 
+    "history_report": {
+      "expiry": "2022-05-30T16:53:43.339+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=L39oI-4wBZmoRTWD-UwOrg", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "9WzWlQEq", 
+    "interior_color": "Dark Slate Gray", 
+    "location": "Apple Valley, CA 92308", 
+    "make": "Dodge", 
+    "make_slug": "dodge", 
+    "mileage": 48000, 
+    "mileage_text": null, 
+    "model": "Challenger", 
+    "model_slug": "challenger", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 2200, 
+          "id": "r4JBbNJg", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-xTTgWcjIjn.jpg?t=164917152294", 
+          "width": 3400
+        }, 
+        {
+          "height": 1024, 
+          "id": "30DRNqP1", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-QL570bf-p7-(edit).jpg?t=164917411573", 
+          "width": 768
+        }, 
+        {
+          "height": 1024, 
+          "id": "9XqXzD1j", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-diuYyd54_9-(edit).jpg?t=164917409663", 
+          "width": 768
+        }, 
+        {
+          "height": 1024, 
+          "id": "37Gbjb03", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-LQXLnMBj-H-(edit).jpg?t=164917414470", 
+          "width": 768
+        }, 
+        {
+          "height": 1024, 
+          "id": "KPDq2W1o", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-8w87jV6q3Y-(edit).jpg?t=164917403592", 
+          "width": 768
+        }, 
+        {
+          "height": 1024, 
+          "id": "3LQ6jkk0", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-cMMS7JwF89-(edit).jpg?t=164917399300", 
+          "width": 768
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 2522, 
+          "id": "rJdVBX4E", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-7Vp6rLqiDs-(edit).jpg?t=164917378587", 
+          "width": 3784
+        }, 
+        {
+          "height": 2278, 
+          "id": "3yZGlBXo", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-oqJu1bhIKo-(edit).jpg?t=164917364684", 
+          "width": 3417
+        }, 
+        {
+          "height": 2688, 
+          "id": "9nEeLJG2", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-MJ7hS6qXb0-(edit).jpg?t=164917381433", 
+          "width": 4032
+        }, 
+        {
+          "height": 2580, 
+          "id": "KVab0g20", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-qiLfRvhmVo-(edit).jpg?t=164917393459", 
+          "width": 3871
+        }, 
+        {
+          "height": 2546, 
+          "id": "9e7L7Dvj", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-G86UiGNgLI-(edit).jpg?t=164917385309", 
+          "width": 3819
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qNm52O4", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-F8mjPqz_0.JPG?t=164847574219", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rJqPAjqO", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-zuq2WwYA-z.JPG?t=164847574588", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qOwpVzr", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-oGxjN3ndWn.JPG?t=164866125614", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZav1dR3", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-kWFkhdM5dL.JPG?t=164847580663", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WjEGQzR", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-S9-sta_oYs.JPG?t=164847580217", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3vyGOBmO", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-x1HcpsmHWo.JPG?t=164866126975", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r48j8Dxr", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-5LZwL0vcWF.JPG?t=164866123092", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "36bVM4kB", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-9TeeM2rjN.JPG?t=164866123490", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KV1WQmp6", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-vQnPpauHvY.JPG?t=164847575215", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3zAoJ6wd", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-tH6lfzqvwr.JPG?t=164882573983", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9WjPRmGd", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-CK_Nx7Sayb.JPG?t=164866135394", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9lBG2jEm", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-S_d4vZSARg.JPG?t=164866132786", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "K1N7k0g2", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-_QMN7P3AKb.JPG?t=164866131758", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4VlMAzn", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-8YoJnorpHz.JPG?t=164847575948", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nJN718N", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-Yo9YCGjwKr.JPG?t=164866151371", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oenwBx1", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-ry5wzXbSN8.JPG?t=164866124124", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9aQWa2Em", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-HKsCqVCpNj.JPG?t=164866124661", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LNYaoZV", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-U_saUjpIWT.JPG?t=164882573563", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35O5MW7k", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-ZtNXnbzkPC.JPG?t=164866123238", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwRVylp5", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-uNLi9zdlYu.JPG?t=164866123739", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3gVOYDeP", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-qCNFAEenyw.JPG?t=164866149326", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9ablDDg8", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-QfxE9FJSK.JPG?t=164866149583", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KZYODNPG", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-F7Mz6sbVua.JPG?t=164866149835", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "37Bpvg0R", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-xq0l8k8qTt.JPG?t=164866152607", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "r4ZyWw1V", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-FJGDdh7g8u.JPG?t=164866152613", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KP0xeJ2K", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-SdPYFe8E_O.JPG?t=164882573751", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30A21JeR", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-FCIQM_UNO.JPG?t=164882574168", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nJmBAjn", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-KaFILBucHU.JPG?t=164847574964", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KV2pNevl", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-df1DOLH-r-.JPG?t=164882573387", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "KYdqAy80", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-vDqMvcW5_TD.JPG?t=164866150091", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "3O6JeJa9", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-yg2pDL16QO0.JPG?t=164866150246", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "3vJMdEGm", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-2j4anzcBwh.JPG?t=164866150804", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "rJzDZEYX", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-6ZHOIkD5E8.JPG?t=164866150870", 
+          "width": 3024
+        }
+      ], 
+      "interior": [
+        {
+          "height": 2688, 
+          "id": "KZR8po7o", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-aWu8AhoCjd-(edit).jpg?t=164917349908", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "r46N5ByP", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-znRXdMGV1w-(edit).jpg?t=164936487239", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "KYE1oXAP", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-JRnzZHbfh_-(edit).jpg?t=164917353252", 
+          "width": 4032
+        }, 
+        {
+          "height": 2688, 
+          "id": "3vM7QDaN", 
+          "link": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9nq4jEjG-HA5ZrF0-Xp-(edit).jpg?t=164917360435", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9QxmLbmD", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-i_Wg-G9Wtc.JPG?t=164936224136", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rxYYE1YQ", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-Jv2EECRdaH.JPG?t=164866132455", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "3qnXGMye", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-f5Nm561X90.JPG?t=164936224141", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "9AxjGXaj", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-07ppA1zf0D.JPG?t=164866133370", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "KV1vWjjQ", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-4Vu33KELcg.JPG?t=164866151513", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9nY2LZWp", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-ZaPCZyeJCV.JPG?t=164936224351", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KYoOWDPP", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/s-M8xXExBpR6.JPG?t=164847580715", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rwyxVoDl", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-u4RPH9sBIf.JPG?t=164866134525", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9X6AMvvx", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-oBnpLhX1ll.JPG?t=164866127024", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPbek65k", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-u2Kwjo9SU.JPG?t=164866132231", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "35pklp6B", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-VMDvcmdo2B.JPG?t=164866133835", 
+          "width": 4032
+        }, 
+        {
+          "height": 4000, 
+          "id": "3L68oeBW", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-bO0cA4fSJg.jpg?t=164866126538", 
+          "width": 1800
+        }, 
+        {
+          "height": 3024, 
+          "id": "rb4OD8k3", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-S8N7ywYA_5.JPG?t=164866133037", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KDW6lM2E", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-5JRjHSPK4j.JPG?t=164866135054", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KPvQQNvN", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-bUIj3NquRd.JPG?t=164866151929", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LEQ5gby", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-Loqb4-JPz8.JPG?t=164866151892", 
+          "width": 4032
+        }, 
+        {
+          "height": 1800, 
+          "id": "92WjdDGY", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-nqCmg6TaML.jpg?t=164866127470", 
+          "width": 4000
+        }, 
+        {
+          "height": 3024, 
+          "id": "Kdj75e01", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-OY0vM9fhOx.JPG?t=164866134079", 
+          "width": 4032
+        }, 
+        {
+          "height": 4032, 
+          "id": "rN4M8QG7", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-yd9Xwd-jSm.JPG?t=164866134993", 
+          "width": 3024
+        }, 
+        {
+          "height": 3024, 
+          "id": "rkxLj7gg", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-yhOOul6img.JPG?t=164866135277", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "9eGoGxm6", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-g1H_P7iDZL.JPG?t=164866151503", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3pxoRxbl", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-hxj559YcCK.JPG?t=164866123785", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3R6xxdzX", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-CihA9pKX6s.JPG?t=164866135059", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "3oyzmvlE", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-53oiy2le5T.JPG?t=164866133068", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "KmOy4gXd", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-0-7QbdTgnF.JPG?t=164866133888", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 3024, 
+          "id": "rJM7vPDY", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-5plPzf-uPH.JPG?t=164866125797", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "30PP2bRj", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-ijvlO1li6j.JPG?t=164866127315", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rE0z0xGR", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-wNFqXLVBx.JPG?t=164866126820", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rGgBoeLE", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-8TZBr0ePE_.JPG?t=164866124713", 
+          "width": 4032
+        }, 
+        {
+          "height": 3024, 
+          "id": "rk6EbedW", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-vAir62WlBk.JPG?t=164866124368", 
+          "width": 4032
+        }
+      ], 
+      "other": [
+        {
+          "height": 3024, 
+          "id": "rJYYAZnN", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-Y0jMGi44h2.JPG?t=164936224220", 
+          "width": 4032
+        }, 
+        {
+          "height": 1800, 
+          "id": "37pwXqZD", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-am1JuiW6XS.jpg?t=164882574258", 
+          "width": 4000
+        }, 
+        {
+          "height": 4032, 
+          "id": "3zlzVqEA", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-luN1-8iqYX.JPG?t=164866152153", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "9XPk7G7N", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-edkHWRCHwx.JPG?t=164866152304", 
+          "width": 3024
+        }, 
+        {
+          "height": 4032, 
+          "id": "30BeQpWg", 
+          "link": "afd46dfb86ff4944a32c0891266b49bd4c28f597/photos/9nq4jEjG-LvZYIsoz-b.JPG?t=164866152371", 
+          "width": 3024
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "I really like the Dodge Challenger R/T, as it boasts big V8 power, retro styling, and excellent affordability given the performance level. This particular example is finished in the eye-catching Hemi Orange Pearl Coat, and it touts the Sound Group II as well as 20-inch wheels, performance steering and suspension, heated front seats, and rear park assist. Other benefits here include reasonably low mileage, no major modifications, and ownership in warm-climate California since new.  ", 
+      "equipment": "A window sticker\u00a0is provided in the photo gallery, and a partial list of notable equipment includes:\n- Sound Group II (Uconnect 430 CD/DVD/MP3/HDD, 6.5-inch touchscreen infotainment system, 40 GB hard drive, 7 Boston Acoustics speakers with subwoofer, 368-watt amplifier)\n- 20-inch aluminum wheels\n- Performance steering\n- Performance suspension\n- 3.06 rear axle ratio\n- HID headlights\n- Front fog lights\n- Functional hood scoop\n- Black \"R/T\" side stripes\n- Power-adjustable heated side mirrors\n- Power sunroof\n- Leather upholstery\n- Power-adjustable and heated front seats\n- Hill start assist\n- Cruise control\n- Keyless entry and start\n- ParkSense rear park assist system", 
+      "highlights": "THIS\u2026 is a 2013 Dodge Challenger R/T, finished in Hemi Orange Pearl Coat with a Dark Slate Gray interior.\n- The attached Carfax history report shows no mileage discrepancies in this car's past. It also shows that it's been registered in California since new.\n- According to the window sticker, this Challenger R/T had an original MSRP of $38,580 and came equipped with the Sound Group II, 20-inch aluminum wheels, performance steering and suspension, a 3.06 rear axle ratio, front fog lights, a functional hood scoop, black \"R/T\" side strips, a power sunroof, leather upholstery, power-adjustable heated front seats, and more as detailed below.\n- Modifications reported by the seller are limited to a KARR High-Performance Series 3 security system.\n- Dodge resurrected the emblematic Challenger nameplate for the 2008 model year after a 25-year hiatus. Marketed as a true modern-day muscle car, the coupe stood out with retro-inspired styling and brawny engine options. It was the first rear-wheel drive Challenger since the original model retired in 1974, and it's still available in 2022.\n- Power comes from a 5.7-liter \"Hemi\" V8, rated at 375 horsepower and 410 lb-ft of torque. Output is sent to the rear wheels via a 5-speed automatic transmission.", 
+      "known_flaws": "- The attached Carfax history report indicates that this Challenger was involved in an accident in May 2014. No additional details are available.\n- Scratches and stone chips on front and rear bumpers (pictured in the gallery)\n- Paint chipped on driver's door handle\n- Curb rash on wheels\n- Creases on driver\u2019s and passenger's seat outside bolsters\n- Scratches on metal-look trim surrounding shift lever\n- Stains on headliner above driver's sun visor", 
+      "modifications": "- KARR High-Performance Series 3 security system", 
+      "other_items": "- 1 key and remote fob\n- Window sticker\n- Service records\n- Car cover", 
+      "ownership_history": "The seller purchased this Challenger in September 2021 and has added approximately 1,000 miles since.\u00a0The attached Carfax history report indicates that this Challenger was originally used as a rental car.", 
+      "recent_service_history": "The attached Carfax report shows that the following services have been performed:\n- June 2021 (47,031 miles): Oil and filter changed, fluids checked, emissions inspection performed\n- January 2021 (46,764 miles): Maintenance inspection completed\n- February 2020 (46,214 miles): Maintenance inspection completed, PCM reprogrammed\n- January 2017 (43,229 miles): Cabin air filter replaced/cleaned, oil and filter changed, antifreeze/coolant checked\n\nService documentation in the photo gallery indicates that the following maintenance has been performed:\n- December 2019 (45,947 miles): Oil and filter changed, chassis lube performed, battery replaced\n- September 2019 (45,251 miles): Tires replaced\n- June 2018: Windshield wiper blades replaced\n- February 2018 (43,706 miles): Alternator replaced under recall, passenger airbag inflator replaced under recall\n- October 2015 (41,361 miles): Oil and filter changed\n\nAdditional service history is detailed in the attached Carfax history report.", 
+      "seller_notes": "The seller notes that a scrape on the front bumper has been professionally repaired. The rear bumper and spoiler appear to have been repainted at some point, but no confirmation or details are available.", 
+      "videos": [
+        "https://www.youtube.com/watch?v=tliShbuwdrc", 
+        "https://www.youtube.com/watch?v=gAJNf5o6JRc"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~48,000 Miles, Hemi V8 Power, Mostly Unmodified, California-Owned", 
+    "title": "2013 Dodge Challenger R/T", 
+    "title_status": "Clean (CA)", 
+    "transmission": 1, 
+    "transmission_details": "5-Speed", 
+    "vin": "2C3CDYBT2DH733664", 
+    "year": 2013
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "ROLLGUY"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-25T18:34:00.000+00:00", 
+    "bids": 10, 
+    "comments": 4, 
+    "current_bid": {
+      "amount": 8100, 
+      "bidder": {
+        "photo": null, 
+        "username": "Bennnnn"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 86
+  }, 
+  "status": "live", 
+  "submission_id": "9nq4jEjG", 
+  "views": 1932, 
+  "watching": false
+}

@@ -1,0 +1,618 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 390, 
+      "price": 13100, 
+      "rate": 0.0449, 
+      "term": 36
+    }, 
+    "minimum_payment": 190
+  }, 
+  "id": "rGBmVPVO", 
+  "listing": {
+    "body_style": 2, 
+    "drive_train": 2, 
+    "engine": "4.6L V8", 
+    "exterior_color": "Black Clearcoat", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "SVT Cobra-branded leather jacket included", 
+      "4.6-liter \"Modular\" V8"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-04T23:53:20.158+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=7ipjbaHN1VOJyBzXTzrb4A", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "30paYalR", 
+    "interior_color": "Dark Charcoal", 
+    "location": "Bonita Springs, FL 34135", 
+    "make": "Ford", 
+    "make_slug": "ford", 
+    "mileage": 27800, 
+    "mileage_text": null, 
+    "model": "Mustang SVT Cobra", 
+    "model_slug": "mustang-svt-cobra", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [
+        {
+          "height": 2448, 
+          "id": "rN1mOyVb", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-NWpiy9O1_w.jpeg?t=164908615106", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KD0VOoXR", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-F0XgX_n60L.jpeg?t=164908615259", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3qw2eOWE", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-YRI0suDdaCb.jpg?t=164908923637", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3vMg4VVd", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-rw-BBRjDhft.jpg?t=164908925592", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3yZgjxRR", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-Q0ThbyTihcv.jpg?t=164908928350", 
+          "width": 3264
+        }
+      ], 
+      "exterior": [
+        {
+          "height": 1960, 
+          "id": "rEJg7k4R", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-F77qq0pq9z-(edit).jpg?t=164983561747", 
+          "width": 2940
+        }, 
+        {
+          "height": 2176, 
+          "id": "3v2pGbMO", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-IBFW0m2cLw-(edit).jpg?t=164983615465", 
+          "width": 3264
+        }, 
+        {
+          "height": 2058, 
+          "id": "3yXXEVDE", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-7hHuoHDOPm-(edit).jpg?t=164983623575", 
+          "width": 3087
+        }, 
+        {
+          "height": 1800, 
+          "id": "30X47nGj", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-LpgVA70xX--(edit).jpg?t=164983627824", 
+          "width": 2700
+        }, 
+        {
+          "height": 1626, 
+          "id": "92pkb2NY", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-F9nl33l6iL-(edit).jpg?t=164983641138", 
+          "width": 2440
+        }, 
+        {
+          "height": 2448, 
+          "id": "3ow2kk01", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-Su0dvDVYar.jpeg?t=164977660216", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "35ppDRPj", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-TUoky5whrP.jpeg?t=164977774508", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "30B64Qj2", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-rpLMV4iVHy.jpeg?t=164980681849", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KPx214WL", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-b8cfgz7TF.jpeg?t=164908702322", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9nY4DY6l", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-gBC8MiilL.jpeg?t=164899508272", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "K1NYGqed", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-7_Phc3Gut.jpeg?t=164977770279", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3Okd7av3", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-o6SMYhpBxt.jpeg?t=164977782829", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rw26WmVp", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-74XtOT5Iz.jpeg?t=164977663843", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rkxWNQMb", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-dBYgKqWq1s.jpeg?t=164977782472", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KPbbMNl7", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-yrp_8EfQ2C.jpeg?t=164977770389", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9WL5l6OM", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-8LOIOYoxn.jpeg?t=164977676011", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9XPWqlBq", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-t2e6EVqEml.jpeg?t=164980681716", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3vVe2VdN", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-MUBXgCayf.jpeg?t=164980681588", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KmOoZRQm", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-VyHOTJzzC.jpeg?t=164977778101", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "r4pagw8V", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-0oH1kAs_d2.jpeg?t=164899518295", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9Az0RDoA", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-wOIdos0Ra6.jpeg?t=164977660232", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rknydem4", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-KZXlzCRPrm.jpeg?t=164977665790", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3zY2LJn4", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-uXKaddxHCp.jpeg?t=164977770763", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9lB7e6qO", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-bDAbw-31bQ.jpeg?t=164977770779", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3RYyGN5x", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-qrHGYx6FF3.jpeg?t=164977665783", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rNqwvAMk", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-WBkUrs6h2Z.jpeg?t=164977663844", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "36R1V15P", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-w3txJS5Yhc.jpeg?t=164977663842", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rbXA5Gd3", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-R4kziGyu9e.jpeg?t=164977771222", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rN2eoXxE", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-FU_BVYH826.jpeg?t=164977782828", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "35X1vOyl", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-xFMHq8d8lN.jpeg?t=164977662073", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rJz5pbdp", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-X5_Is_iXwB.jpeg?t=164977783317", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KmA6oY6b", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-SG5DU_gjm.jpeg?t=164977662115", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3qLGPoR5", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-tHQzCzhtEs.jpeg?t=164977783193", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KdVblp2j", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-gFMwuURxgx.jpeg?t=164977662163", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rwyAZJ7x", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-QmluLyn0fq.jpeg?t=164977778708", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3oQeopLa", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-murIlqfKk-.jpeg?t=164977778805", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rbqyvWEw", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-s13MFB1c7.jpeg?t=164977660189", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3R6OZlmR", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-S0p-8IZO8.jpeg?t=164977782452", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rMkwjADR", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-YZwdBFrmTy.jpeg?t=164977778101", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "3qo2gOZ1", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-BFzhieb2xp.jpeg?t=164908618069", 
+          "width": 2448
+        }, 
+        {
+          "height": 3264, 
+          "id": "3BgoP656", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-lb4QEJsITg.jpeg?t=164908618375", 
+          "width": 2448
+        }, 
+        {
+          "height": 3264, 
+          "id": "3g58mlpR", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-X8Wa6pfm2G.jpeg?t=164908618313", 
+          "width": 2448
+        }, 
+        {
+          "height": 3264, 
+          "id": "9WZJ1ZMM", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-Nd8Bz7Swm.jpeg?t=164908618070", 
+          "width": 2448
+        }, 
+        {
+          "height": 2448, 
+          "id": "9XBVkGpN", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-uAwHPEIK5.jpeg?t=164899513339", 
+          "width": 3264
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1829, 
+          "id": "KPML2dvk", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-wV2fnd5aT7-(edit).jpg?t=164983665691", 
+          "width": 2744
+        }, 
+        {
+          "height": 2176, 
+          "id": "KVXJ06jM", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-h1wp81uCAe-(edit).jpg?t=164983657370", 
+          "width": 3264
+        }, 
+        {
+          "height": 934, 
+          "id": "K1YYPP4K", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-ZtjaZ-CR3c-(edit).jpg?t=164983662314", 
+          "width": 1401
+        }, 
+        {
+          "height": 875, 
+          "id": "9ez8L7md", 
+          "link": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3y84MP7o-cDgTfzeocp-(edit).jpg?t=164983652294", 
+          "width": 1313
+        }, 
+        {
+          "height": 2448, 
+          "id": "3LMm8gNy", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-mtvPwkdglO.jpeg?t=164899510671", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "9QLYXQ7r", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-eziV9KTkdF.jpeg?t=164908618022", 
+          "width": 2448
+        }, 
+        {
+          "height": 2448, 
+          "id": "3LYadQx0", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-CaNXLUpbJM.jpeg?t=164943879278", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "rwELJxBx", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-8kIaru9zVT.jpeg?t=164908838999", 
+          "width": 2448
+        }, 
+        {
+          "height": 2448, 
+          "id": "rJyGlgVE", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-BcS-bkkny.jpeg?t=164943877198", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "KdeGdZeQ", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-z2Du6b4TK.jpeg?t=164908838958", 
+          "width": 2448
+        }, 
+        {
+          "height": 2448, 
+          "id": "KP81lzDo", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-TJeodoqwYN.jpeg?t=164943879295", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9eO6JmEj", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-BTD-RbUPoy.jpeg?t=164943877206", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KVz4JOG0", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-fXow9_lZZ.jpeg?t=164943879222", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KP7yE2x7", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-qNhdKqvDJ.jpeg?t=164899521552", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rEGRyBMa", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-VvxQuA2yb3.jpeg?t=164908646934", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "30nm0pog", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-GW70sermWu.jpeg?t=164899513514", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9n2jlXX2", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-kLxfSM4Kv4.jpeg?t=164943877202", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KYj08eV5", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-gSo9AhbnHB.jpeg?t=164908646928", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "KZyl7J1R", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-hfsvpoK40.jpeg?t=164908646903", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3zVXG1Oj", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-lYmQGoxMWn.jpeg?t=164943881729", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rxAXOjW6", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-psc0Hj5AUqW.jpg?t=164908888449", 
+          "width": 3264
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 2448, 
+          "id": "92AxVzXb", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-pDNBspQFL.jpeg?t=164908657490", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3ox5OGpg", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-ClSLaZSbiLx.jpg?t=164908897140", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "3pGN6VkY", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-_IvLKt_DoXb.jpg?t=164908895265", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rNDmpynP", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-H-Rw06GKRF5.jpg?t=164908915087", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "Kdb6o6yL", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-D69qrP3jNze.jpg?t=164908909198", 
+          "width": 2448
+        }
+      ], 
+      "other": [
+        {
+          "height": 2448, 
+          "id": "3OnQJAZj", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-xx_B2KdT604.jpg?t=164908865365", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rEvN5Xzb", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/s-5OAEDJscMr.jpeg?t=164899510762", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "9ed02qLd", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-pmUZYR8bz.jpeg?t=164908691938", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "36P2gDoz", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-T4ac1AyCF.jpeg?t=164908615073", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rGopBzjE", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-zSPpzsXBFT.jpeg?t=164908615080", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "rkOmvBkb", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-dKdauU1bVFM.jpg?t=164908854531", 
+          "width": 2448
+        }, 
+        {
+          "height": 2448, 
+          "id": "9A5GzOpz", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-SSy6nBDpAXv.jpg?t=164908905870", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "36VZpDVO", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-vj1et-hXY-c.jpg?t=164908911441", 
+          "width": 3264
+        }, 
+        {
+          "height": 2448, 
+          "id": "rGzpezeN", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-Jlmor27rWp8.jpg?t=164908913514", 
+          "width": 3264
+        }, 
+        {
+          "height": 3264, 
+          "id": "9azweyE3", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-CO2w7IppS4C.jpg?t=164908860510", 
+          "width": 2448
+        }, 
+        {
+          "height": 3264, 
+          "id": "3g1DZYRz", 
+          "link": "0ece0f4a031952ce0efdb4b5ba0a1a9892b9588b/photos/3y84MP7o-Q214DEqafYQ.jpg?t=164908858817", 
+          "width": 2448
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "I love the Mustang from this era, and the SVT Cobra model is the one to get \u2013 it boasts serious performance upgrades over the GT and a muscular exterior design. This particular car has a LOT going for it \u2013 including the fact that it's being sold by its original owner, which is truly amazing to see after all these years! This Cobra is also unmodified, which is rare to see on these \u2013 and it's a low-mileage example. Plus, it's a convertible, so you can enjoy the V8's exhaust note with the top down \u2013 and it benefits from a clean, accident-free Carfax report. And, check out the cool leather jacket with this car's serial number that's included in the sale \u2013 that's an awesome piece of memorabilia!!", 
+      "equipment": "A window sticker is shown in the gallery, and a partial list of notable equipment includes:\n- 17-inch wheels\n- SVT-specific suspension system\n- SVT-specific body kit\n- Fog lights\n- Rear spoiler\n- Tinted windows\n- Power-operated soft top\n- Leather upholstery\n- Sport bucket front seats\n- SVT-specific instrument cluster\n- Air conditioning\n- CD and cassette players\n- Mach 460 sound system", 
+      "highlights": "THIS... is a 1999 Ford Mustang SVT Cobra Convertible, finished in Black Clearcoat with a black soft top and a Dark Charcoal interior.\n- The odometer currently displays about 27,800 miles.\n- The attached Carfax history report lists no accidents or mileage inconsistencies in this car's past. It also shows that it is a one-owner car.\n- The window sticker pictured in the gallery notes that this Mustang cost $32,190 new (about $55,600 in 2022). Factory equipment includes 17-inch wheels, an SVT-specific suspension system, a rear spoiler, leather upholstery, sport bucket front seats, and a Mach 460 sound system. The factory tonneau cover is pictured in the gallery and included in the sale, and the seller reports no modifications.\n- Introduced for 1994, the \"SN95\" generation of the emblematic Mustang replaced the long-running Fox-based model with a more modern design that incorporated styling cues borrowed from the original car. It offered enthusiasts better handling, a revised interior, and a wide range of V6 and V8 engines. The high-performance SVT Cobra variant was refreshed in 1999 with updates including revised \"New Edge\" styling, rear independent suspension, and a 15-horsepower boost compared to the 1998 SVT Cobra. Production ended in 2004.\n- Power comes from a 4.6-liter V8, rated at 320 horsepower and 317 lb-ft of torque. It spins the rear wheels via a 5-speed manual transmission.", 
+      "known_flaws": "- Some chips on the front end\n- Creases on the front seats", 
+      "other_items": "- 2 sets of keys\n- Owner's manual\n- Window sticker\n- SVT Cobra-related documentation\n- Ford certificate of authenticity\n- Tonneau cover\n- BLACK+DECKER battery charger\n- Leather jacket with this car's serial number", 
+      "ownership_history": "The seller purchased this Mustang new in July 1999.", 
+      "recent_service_history": "Some service information appears in the attached Carfax history report. Recent work includes:\n- May 2018 (23,244 miles): Engine oil and filter changed, engine air filter and battery replaced\n\nThe seller states that the engine oil was last changed in late 2021.", 
+      "videos": [
+        "https://www.youtube.com/watch?v=C0ZOeKYkgZY", 
+        "https://www.youtube.com/watch?v=du5wzKW2iKc", 
+        "https://www.youtube.com/watch?v=KhxPC2O3xUE", 
+        "https://www.youtube.com/watch?v=qTkptRetBsQ"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "1 Owner, ~27,800 Miles, 5-Speed Manual, Unmodified", 
+    "title": "1999 Ford Mustang SVT Cobra Convertible", 
+    "title_status": "Clean (FL)", 
+    "transmission": 2, 
+    "transmission_details": "5-Speed", 
+    "vin": "1FAFP46V0XF198348", 
+    "year": 1999
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": false, 
+  "seller": {
+    "photo": null, 
+    "username": "Barkice"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-25T19:30:00.000+00:00", 
+    "bids": 5, 
+    "comments": 10, 
+    "current_bid": {
+      "amount": 13000, 
+      "bidder": {
+        "photo": null, 
+        "username": "dorffll"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 97
+  }, 
+  "status": "live", 
+  "submission_id": "3y84MP7o", 
+  "views": 1702, 
+  "watching": false
+}

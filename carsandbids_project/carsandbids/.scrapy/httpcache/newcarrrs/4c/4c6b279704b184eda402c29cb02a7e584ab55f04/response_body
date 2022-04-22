@@ -1,0 +1,447 @@
+{
+  "canceled_message": null, 
+  "finance": {
+    "disclosure": {
+      "dealer": false, 
+      "payment": 171, 
+      "price": 5602, 
+      "rate": 0.0599, 
+      "term": 36
+    }, 
+    "minimum_payment": 87
+  }, 
+  "id": "36qNm5yA", 
+  "listing": {
+    "body_style": 1, 
+    "drive_train": 2, 
+    "engine": "8.2L V8", 
+    "exterior_color": "Yellow", 
+    "highlighted_points": [
+      "Accident-free Carfax history report", 
+      "Heated front seats", 
+      "15-inch wire wheels"
+    ], 
+    "history_report": {
+      "expiry": "2022-06-05T23:27:36.658+00:00", 
+      "url": "https://www.carfax.com/fsb/report?token=f8tFqpQNbKEFWuD9sd_dVw", 
+      "vendor": "carfax"
+    }, 
+    "history_report_pdf": null, 
+    "id": "rJlDn8lp", 
+    "interior_color": "Black", 
+    "location": "White Plains, MD 20695", 
+    "make": "Jaguar", 
+    "make_slug": "jaguar", 
+    "mileage": 66900, 
+    "mileage_text": null, 
+    "model": "XJS", 
+    "model_slug": "xjs", 
+    "photos": {
+      "base_url": "media.carsandbids.com", 
+      "docs": [], 
+      "exterior": [
+        {
+          "height": 1279, 
+          "id": "98y8L7m6", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-eyMrRoqAM-IcLSyqIVuO.jpg?t=164942599261", 
+          "width": 1919
+        }, 
+        {
+          "height": 1283, 
+          "id": "r4Bgzmln", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-JZuE3u_Thg-tUgbKd9HWH.jpg?t=164942599235", 
+          "width": 1925
+        }, 
+        {
+          "height": 1386, 
+          "id": "37D7DpDD", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-Qkrs8HB4D-vviF9DoCcE.jpg?t=164942599171", 
+          "width": 2079
+        }, 
+        {
+          "height": 1386, 
+          "id": "rMzZ6dDk", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-qtsfWcMmX-M_q951IvU3.jpg?t=164942599483", 
+          "width": 2079
+        }, 
+        {
+          "height": 1365, 
+          "id": "Km1wMNze", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-7ZajW0Qecx3-5hzAG1RFim.jpeg?t=164942599461", 
+          "width": 2048
+        }, 
+        {
+          "height": 4557, 
+          "id": "36NxBxVP", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-GR-awsqzv.jpg?t=164925762965", 
+          "width": 6835
+        }, 
+        {
+          "height": 1536, 
+          "id": "rxAjWwo0", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-tGA9DVvNcHU.jpeg?t=164929341338", 
+          "width": 2048
+        }, 
+        {
+          "height": 5018, 
+          "id": "KmnDxL1d", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-mjsbpdQoR.jpg?t=164925770732", 
+          "width": 7527
+        }, 
+        {
+          "height": 3855, 
+          "id": "rJympWvK", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-npmZCmm6l.jpg?t=164925805345", 
+          "width": 5783
+        }, 
+        {
+          "height": 5504, 
+          "id": "9n40BG4N", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-iPOsTljTN.jpg?t=164925806823", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3OqXgLya", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-ONAp-2Ogz.jpg?t=164925802998", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rEV0JZ2b", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-AwmOmzTe_.jpg?t=164925809641", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "KVM8Q7aQ", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-tPfUJwkL8.jpg?t=164925807923", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3vM7qkkm", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-AJnEYgq9v.jpg?t=164925810268", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rjgGgbR0", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-18QE2pntY.jpg?t=164925797274", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3gN2QNw1", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-AUoUxWFFv.jpg?t=164925799436", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "9aL4y178", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-9xIY2qtvg.jpg?t=164925800754", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rGzMNEn2", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-mCrGgThri.jpg?t=164925801234", 
+          "width": 8256
+        }
+      ], 
+      "interior": [
+        {
+          "height": 1180, 
+          "id": "rxYn7gGW", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-_ScNqDSPv-bGVgh544IO.jpg?t=164942684418", 
+          "width": 1771
+        }, 
+        {
+          "height": 1138, 
+          "id": "9lBdqX7g", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-lB7YvzpCP-KCqEicgeL9.jpg?t=164942684443", 
+          "width": 1707
+        }, 
+        {
+          "height": 1156, 
+          "id": "3pdnDen3", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-twT1FoZwi(1)-JleGhqxQBR.jpg?t=164942684465", 
+          "width": 1734
+        }, 
+        {
+          "height": 1046, 
+          "id": "3olGN7Lv", 
+          "link": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rMDaLkpZ-fyID7Uo4Z-4oBydJyoxi.jpg?t=164942684605", 
+          "width": 1570
+        }, 
+        {
+          "height": 5504, 
+          "id": "K1wgdqE0", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-G3tVY7ZfP.jpg?t=164925813231", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "9AAWaVzJ", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-bmLbGq8CZ.jpg?t=164925817602", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "35NYAR8Y", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-byZu4N2qe.jpg?t=164925817991", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "KPDq5vd7", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-L-tKZLK6t.jpg?t=164925815191", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3ojnQWo9", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-DKXNXklUA.jpg?t=164925816925", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "KV48V7VP", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-owcWwozbF.jpg?t=164925830725", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rk2gW6bN", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ--tx9l7t8X.jpg?t=164925824159", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3yB7zmkL", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-c1xGR2U-K.jpg?t=164925825233", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "K1mgpql7", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-bKRQHzjDr.jpg?t=164925838820", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rbylWewg", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-qn5blYva9.jpg?t=164925842158", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rxOZ7Qkj", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-OczPtD7Cx.jpg?t=164925840245", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "30lbPREL", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-tkHOK51nL.jpg?t=164925826422", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "92XBd64A", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-BuwISacAj.jpg?t=164925831582", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3vpwmLEM", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-0VDIekNMS.jpg?t=164925828779", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "r4d1zvGg", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-_kx6PcKS9.jpg?t=164925832033", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "98gZD14w", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-dJ94c4ovA.jpg?t=164925833106", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "98l0VQ5e", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-qUJI3UoAl.jpg?t=164925826778", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rNbggaG5", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-vRt0c3BOG.jpg?t=164925828041", 
+          "width": 8256
+        }, 
+        {
+          "height": 3024, 
+          "id": "3LDYW8EG", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-imOQyUywsSc.jpeg?t=165005559801", 
+          "width": 4032
+        }, 
+        {
+          "height": 5504, 
+          "id": "3oY7m80m", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-JoTqxaorA.jpg?t=164925843015", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "35Y5R0N3", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-JecP8aNID.jpg?t=164925844538", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "9ANWGmo8", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-5zHbjsAtD.jpg?t=164925843705", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rN05L0ZX", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-jO44WNos3.jpg?t=164925821533", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3R4oP6wR", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-duStykjMJ.jpg?t=164925823504", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "KDbJ8pyv", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-3M0SUBnrp.jpg?t=164925822881", 
+          "width": 8256
+        }, 
+        {
+          "height": 3024, 
+          "id": "KP4P0wXQ", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-mkqYdtyrIl0.jpeg?t=164997023512", 
+          "width": 4032
+        }
+      ], 
+      "mechanical": [
+        {
+          "height": 5504, 
+          "id": "3RmoB6av", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-KRxYxiJL2.jpg?t=164925861576", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "9aL6De8m", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-AeufqRwTn.jpg?t=164925869541", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "9W5MRBOQ", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-3rdLsElsT.jpg?t=164925863836", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rkPgB6JQ", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-Bjf4-ieXe.jpg?t=164925863140", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3ge6xOjb", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-Q1LEkRq5n.jpg?t=164925864691", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3pGjY52g", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-2kbJ9CFi_.jpg?t=164925777278", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "3oxOWWeE", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-DkxvRA3HL.jpg?t=164925778917", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rk4jnG7R", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-7LJFtnCJC.jpg?t=164925790793", 
+          "width": 8256
+        }, 
+        {
+          "height": 5504, 
+          "id": "rwAG4wLX", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-OXuozbZDN.jpg?t=164925775410", 
+          "width": 8256
+        }
+      ], 
+      "other": [
+        {
+          "height": 5504, 
+          "id": "9XQDJ88N", 
+          "link": "5a3b32c4d0d660e54b725df5b88f8d16fc1b49a9/photos/rMDaLkpZ-fG5DiVlrN.jpg?t=164925810964", 
+          "width": 8256
+        }
+      ]
+    }, 
+    "sections": {
+      "doug": "Now THIS is cool!! Although onlookers will think this is an average XJS with a loud paint job, that vented hood hides another big secret \u2013 an 8.2-liter Chevrolet V8 crate engine that's reported to produce an impressive 502 horsepower! The car also maintains an otherwise largely unmodified aesthetic, as well as an impressively-kept interior. This is a fantastic Jaguar, and it's precisely the kind of quirky and cool machine I love having on Cars & Bids. A no reserve auction adds to the excitement here, and I'm very curious to see how this one ends up.", 
+      "equipment": "- 15-inch wire spoke wheels\n- Fog lights\n- Leather upholstery\n- Burled wood trim\n- Heated and power-adjustable front seats\n- Power windows and locks\n- Automatic climate control\n- Cruise control\n- Trip computer\n- AM/FM/Cassette radio", 
+      "highlights": "THIS... is a 1989 Jaguar XJS, finished in yellow with  black interior.\n- This XJS is equipped with an 8.2-liter Chevrolet crate engine and a TH400 3-speed automatic transmission.\n- The attached Carfax history report contains several reporting gaps, though it indicates no accidents for the given time period.\n- Factory equipment includes 15-inch wire spoke wheels, fog lights, leather upholstery, burled wood trim, heated and power-adjustable front seats, automatic climate control, a trip computer, an AM/FM/Cassette radio, and more as detailed below. \n- Other modifications reported by the seller include a color change from Jet Black to yellow, an aftermarket exhaust system, and a hood vent.\n- The Jaguar XJS was introduced in 1975 as a replacement for the E-type. A 2+2 coupe was the only body style offered initially and was more of a grand tourer than the E-type, although still a potent performer.\n- Power comes from an 8.2-liter V8 crate engine that's reported to produce approximately 502 horsepower and 567 lb-ft of torque. Output is sent to the rear wheels through a TH400 3-speed automatic transmission.", 
+      "known_flaws": "- Front bumper rubber trim is misaligned\n- Scratch on left quarter panel\n- Some chipped paint around the rear window \n- Trunk lid emblem finishes are worn\n- Some chipped paint below the trunk lid\n- Passenger door has a gap when closed (seller reports the lock is functional)\n- Some paint chips around the wheel arches\n- Some rust on the front brake calipers\n- Creases on the leather upholstery, with a split seam on the driver's outer bolster\n- Cracks on the center console\n- Turn signals operate intermittently \n- Headliner is loose and held up with pins\n- Oil leak visible on the intake manifold", 
+      "modifications": "- Color change from Jet Black to yellow\n- 8.2-liter ZZ502 Chevrolet V8 crate engine\n- TH400 3-speed automatic transmission\n- Aftermarket exhaust system\n- Hood vent", 
+      "other_items": "- 2 sets of keys\n- Owner's manual\n- Spare tire", 
+      "ownership_history": "The seller purchased this Jaguar in May 2021 and has added approximately 4,000 miles to it since.", 
+      "recent_service_history": "The seller reports that the most recent service included a 4-wheel brake caliper, rotor, and pad replacement in October 2021, though records are not available.", 
+      "videos": [
+        "https://vimeo.com/699549928"
+      ]
+    }, 
+    "seller_type": 1, 
+    "seller_type_details": null, 
+    "sub_title": "~66,900 Miles, 502-hp GM V8 Swap With Additional Modifications", 
+    "title": "1989 Jaguar XJS", 
+    "title_status": "Clean (MD)", 
+    "transmission": 1, 
+    "transmission_details": "3-Speed", 
+    "vin": "SAJNY5848KC158673", 
+    "year": 1989
+  }, 
+  "make_saved_search": null, 
+  "model_saved_search": null, 
+  "no_reserve": true, 
+  "seller": {
+    "photo": null, 
+    "username": "Kskbj"
+  }, 
+  "stats": {
+    "auction_end": "2022-04-25T18:18:00.000+00:00", 
+    "bids": 2, 
+    "comments": 24, 
+    "current_bid": {
+      "amount": 5502, 
+      "bidder": {
+        "photo": null, 
+        "username": "memphisto"
+      }
+    }, 
+    "questions": 0, 
+    "watchers": 196
+  }, 
+  "status": "live", 
+  "submission_id": "rMDaLkpZ", 
+  "views": 6441, 
+  "watching": false
+}

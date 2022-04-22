@@ -1,0 +1,1 @@
+{'url': 'https://carsandbids.com/v2/autos/auctions?limit=100&status=new&timestamp=1650663853234&signature=754db79d75d2d3cce633088c519db8ca3ce0d077', 'method': 'GET', 'status': 200, 'response_url': 'https://carsandbids.com/v2/autos/auctions?limit=100&status=new&timestamp=1650663853234&signature=754db79d75d2d3cce633088c519db8ca3ce0d077', 'timestamp': 1650663864.471792}
