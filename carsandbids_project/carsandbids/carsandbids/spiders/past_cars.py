@@ -51,7 +51,7 @@ class CarsSpider(scrapy.Spider):
             self.offset+=count
             yield scrapy.Request(url=self.past_api,callback=self.parse,cookies=self.cookies)
     
-    # parsing each car page
+    # extracting required fields from response (individual car page)
     def custom_parse(self,response):
         try:
             page_data = json.loads(response.text)

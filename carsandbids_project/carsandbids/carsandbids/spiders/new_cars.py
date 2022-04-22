@@ -48,7 +48,7 @@ class CarsSpider(scrapy.Spider):
             url = f'http://127.0.0.1:8081/page?url={car}'
             yield scrapy.Request(url,callback=self.custom_parse,meta={'i':i,'source':car})
             
-    # extracting required fields from response
+    # extracting required fields from response (individual car page)
     def custom_parse(self,response):
         try:
             page_data = json.loads(response.text)
