@@ -21,7 +21,6 @@ class Excel_Pipeline(object):
         self.wb = Workbook()
         self.wb.active.title = 'cars_sheet'
         self.cars_sheet = self.wb.active
-        print('\n\nHELLO from init\n\n')
 
     def open_spider(self,spider):
         # will return the field names that we have defined in items.py
