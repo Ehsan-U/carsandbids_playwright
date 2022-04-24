@@ -26,15 +26,13 @@ class CarsSpider(scrapy.Spider):
     def temp_parse(self, response):
         body = response.body
         data = json.loads(body)  
-        self.cookies = data.get("cookies")
-        self.past_api = data.get("pastapi")
-        # making request to API endpoint with cookies
-        yield scrapy.Request(url=self.past_api,callback=self.parse,cookies=self.cookies)
+        self.past_api = data.get("pastapi").replace("status=closed&","status=closed&offset=0&")
+        return self.parse(response)
 
     # parsing response from API 
     def parse(self,response):    
         body = response.body
-        self.data = json.loads(body)
+        self.data = json.loads(body).get("resp")
         count = int(self.data.get("count"))
         for i in range(count):
             self.ids[self.data["auctions"][i].get("id")] = self.data["auctions"][i].get("title")
@@ -54,7 +52,7 @@ class CarsSpider(scrapy.Spider):
     # extracting required fields from response (individual car page)
     def custom_parse(self,response):
         try:
-            page_data = json.loads(response.text)
+            page_data = json.loads(response.text)[0]
             sel = Selector(text=response.text)
             loader = ItemLoader(item=CarsandbidsItem(),response=response,selector=sel)
             i = response.request.meta.get("i")
@@ -133,5 +131,9 @@ class CarsSpider(scrapy.Spider):
             self.counter +=1
             yield loader.load_item()
             self.con.print("[bold green]Processed Items: ",self.counter," Remaining:",self.data['total']-self.counter)
+            # updating cookies
+            if self.counter == 50:
+                self.con.print("[bold green][+] Cookies Updated")
+                self.cookies = json.loads(response.text)[1]
         except:
             self.con.print_exception()

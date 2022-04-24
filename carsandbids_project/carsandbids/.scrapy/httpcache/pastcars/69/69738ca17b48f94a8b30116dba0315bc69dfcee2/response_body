@@ -1,0 +1,1109 @@
+{
+  "pastapi": "https://carsandbids.com/v2/autos/auctions?limit=50&status=closed&timestamp=1650784267082&signature=20326d5b9b327ad06aa73803dcb61ca74eba3913", 
+  "resp": {
+    "auctions": [
+      {
+        "auction_end": "2022-04-23T03:15:40.365+00:00", 
+        "current_bid": 5678, 
+        "id": "KdYMLW6B", 
+        "location": "Santa Clara, CA 95054", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/3RYGj6Xv-V8wfIMFtw82-XkmK9nYYe3.jpg?t=165048403033"
+        }, 
+        "mileage": "73,000 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "ambusuds"
+        }, 
+        "status": "canceled", 
+        "sub_title": "12-Cylinder Power, AWD, Highly Equipped, Mostly Unmodified ", 
+        "submission_id": "3RYGj6Xv", 
+        "title": "2004 Volkswagen Phaeton W12 Premiere Edition", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:54:00.000+00:00", 
+        "current_bid": 30000, 
+        "id": "9XQkMm2o", 
+        "location": "Hayward, CA 94544", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/r4RE5M5y-16LbmIxBOW-(edit).jpg?t=164973857617"
+        }, 
+        "mileage": "20,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "ef18f28c3072bec0a34fe7e51bb41f1cb80b8c99/photos/mpY9Qcesn.jpeg"
+          }, 
+          "username": "sveauto"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "~20,100 Miles, Estoril Blue Metallic, Florida-Owned, Mostly Unmodified", 
+        "submission_id": "r4RE5M5y", 
+        "title": "1997 BMW M3 Sedan", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:48:25.881+00:00", 
+        "current_bid": 10150, 
+        "id": "9eJEaXw6", 
+        "location": "Salisbury, MD 21804", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/9QBMZLRe-x_we1NKnZP-(edit).jpg?t=164970709081"
+        }, 
+        "mileage": "85,900 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "034ee8a1bfa0958977d4ddc240fa962909cafc96/photos/KZpB1bRQ-11tIEDMr3.jpg"
+          }, 
+          "username": "Joe91"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, Turbo 4-Cylinder, Mostly Unmodified", 
+        "submission_id": "9QBMZLRe", 
+        "title": "2004 Mazdaspeed MX-5 Miata", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:38:00.000+00:00", 
+        "current_bid": 124420, 
+        "id": "3p750D8e", 
+        "location": "Flossmoor, IL 60422", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rb02AeAy-nN9P0OOqef-jezMrcdP1-.jpg?t=164998175426"
+        }, 
+        "mileage": "200 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "RivianBlue"
+        }, 
+        "status": "sold", 
+        "sub_title": "Quad-Motor AWD, Rivian Blue, Large Battery Pack", 
+        "submission_id": "rb02AeAy", 
+        "title": "2022 Rivian R1T Launch Edition", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:32:22.376+00:00", 
+        "current_bid": 12000, 
+        "id": "KPQQAx47", 
+        "location": "Gonzales, LA 70737", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "3fd023ba71f83260f025ed0a9dfe80423f5ddea4/photos/9lzDaw8m-BoFNjPZj7Q-(edit).jpg?t=164944435797"
+        }, 
+        "mileage": "18,800 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "163d88feeae80ea315aa377198abdabb2fe02eb5/photos/3y2aEkJp-PXLkvHRrZtS.jpg"
+          }, 
+          "username": "Poolefamily05"
+        }, 
+        "status": "sold", 
+        "sub_title": "~18,800 Miles, Southern-Owned, Unmodified", 
+        "submission_id": "9lzDaw8m", 
+        "title": "2008 Jaguar S-Type", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:23:51.335+00:00", 
+        "current_bid": 20250, 
+        "id": "98Pgv75v", 
+        "location": "Stafford, VA 22556", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "6603345104d15ba9217527fd6060c44679292dd9/photos/3ylq1x1w.dbidAJkaU-(edit).jpg?t=163719583144"
+        }, 
+        "mileage": "79,400 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "bigman33b"
+        }, 
+        "status": "sold", 
+        "sub_title": "493-hp Supercharged V8, Mostly Arizona-Owned, Mostly Unmodified", 
+        "submission_id": "3ylq1x1w", 
+        "title": "2004 Mercedes-Benz SL55 AMG", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:14:00.000+00:00", 
+        "current_bid": 57000, 
+        "id": "3zPYvDyA", 
+        "location": "Orefield, PA 18069", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "171ab1e538119e13fa98382f268326fc825fdc20/photos/3vJQ5ylj-GBqK39pXcb.jpg?t=164995873128"
+        }, 
+        "mileage": "1,200 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "brad108"
+        }, 
+        "status": "sold", 
+        "sub_title": "7-Speed Manual, ~1,200 Miles, 4WD, Off-Road Modifications", 
+        "submission_id": "3vJQ5ylj", 
+        "title": "2022 Ford Bronco Black Diamond", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:09:40.972+00:00", 
+        "current_bid": 13999, 
+        "id": "KVMv7wQY", 
+        "location": "Pocatello, ID 83202", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/rjPdxkPX-FuLLKcmo9L-(edit).jpg?t=164968693019"
+        }, 
+        "mileage": "126,600 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "Awhittier"
+        }, 
+        "status": "sold", 
+        "sub_title": "5-Speed Manual, AWD, Fiji Blue Metallic, Numerous Modifications", 
+        "submission_id": "rjPdxkPX", 
+        "title": "1992 Mitsubishi 3000GT VR-4", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T19:05:03.715+00:00", 
+        "current_bid": 50000, 
+        "id": "9W5PAaNq", 
+        "location": "Dunedin, FL 34698", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "c51905b0000b639a185eeb080dd879bf007f5604/photos/rGM8mnQ4-MdNhC7Gh1Y-(edit).jpg?t=164982760830"
+        }, 
+        "mileage": "28,300 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "35e312881dca715d9d40d9e3c7018c799db9fcf6/photos/9AyEzGBj-Ar_puhBG-X_.jpg"
+          }, 
+          "username": "Chris_D"
+        }, 
+        "status": "sold", 
+        "sub_title": "6.4L Hemi V8 Power, ~28,300 Miles, Unmodified, Southern-Owned", 
+        "submission_id": "rGM8mnQ4", 
+        "title": "2016 Jeep Grand Cherokee SRT", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:52:59.575+00:00", 
+        "current_bid": 14250, 
+        "id": "3Rmx4xwN", 
+        "location": "Marietta, GA 30060", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/3yyR5xw3-8wTCpnQJ0A-(edit).jpg?t=164934951987"
+        }, 
+        "mileage": "112,500 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "DavidandJeff"
+        }, 
+        "status": "sold", 
+        "sub_title": "1 Owner, V8 Power, $18,335 in Options, Mostly Unmodified", 
+        "submission_id": "3yyR5xw3", 
+        "title": "2008 Mercedes-Benz S550", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:41:01.608+00:00", 
+        "current_bid": 10000, 
+        "id": "9ANj0Jzv", 
+        "location": "Portland, OR 97209", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "c51905b0000b639a185eeb080dd879bf007f5604/photos/rNBmL51G-rLyKyVHbMK-(edit).jpg?t=164921390743"
+        }, 
+        "mileage": "111,800 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "kandiman"
+        }, 
+        "status": "sold", 
+        "sub_title": "5.4L V8 Power, Unmodified, Long-Term Owner, Oregon-Owned", 
+        "submission_id": "rNBmL51G", 
+        "title": "2001 Mercedes-Benz CLK55 AMG", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:34:43.124+00:00", 
+        "current_bid": 17250, 
+        "id": "rxgdd6p0", 
+        "location": "Medina, OH 44256", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rxAxQA2O-eUkc7Bqnb-nOqS-xpCOq.jpeg?t=164895076491"
+        }, 
+        "mileage": "96,200 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "8deaadfd29651d62cae95ef15b6727396610f39a/photos/KPxymvwL-CMGfSlKtm.JPG"
+          }, 
+          "username": "gmonkey"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "420-hp Turbo V8, AWD, Extended Wheelbase, Highly-Optioned", 
+        "submission_id": "rxAxQA2O", 
+        "title": "2013 Audi A8 L", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:18:00.000+00:00", 
+        "current_bid": 43850, 
+        "id": "3Oq61M2k", 
+        "location": "Carroll, IA 51401", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/3z8anqLL-6zdc-KnoRe-(edit).jpg?t=164988369912"
+        }, 
+        "mileage": "4,800 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "tracey6858"
+        }, 
+        "status": "sold", 
+        "sub_title": "~4,800 Miles, 6-Speed Manual, Grabber Blue, Some Modifications", 
+        "submission_id": "3z8anqLL", 
+        "title": "2013 Ford Mustang Boss 302", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:14:44.790+00:00", 
+        "current_bid": 10500, 
+        "id": "9n4N1vml", 
+        "location": "Charlottesville, VA 22903", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/KVQ7xqkQ-UU8AerGmrcM2-kTh1MgLokj.jpg?t=164989516105"
+        }, 
+        "mileage": "94,400 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "Phaques"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, APR Stage 1 Tune, Recent Clutch Replacement", 
+        "submission_id": "KVQ7xqkQ", 
+        "title": "2012 Audi A3 2.0T", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:13:30.134+00:00", 
+        "current_bid": 133000, 
+        "id": "3vYMk4JB", 
+        "location": "Houston, TX 77056", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/KP7ax2AL--QViSOsAHH-(edit).jpg?t=164978881801"
+        }, 
+        "mileage": "14,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "moh713"
+        }, 
+        "status": "sold", 
+        "sub_title": "~14,100 Miles, 1 Owner, W12 Power, AWD, Touring Specification", 
+        "submission_id": "KP7ax2AL", 
+        "title": "2017 Bentley Bentayga", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T18:01:26.134+00:00", 
+        "current_bid": 6750, 
+        "id": "3oYzW0k2", 
+        "location": "Phoenix, AZ 85020", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "37e0d12ee547ba13beecbc1def609de677e2b565/photos/36GZ8o7x-RwBJ-IIaxn-(edit).jpg?t=164927220644"
+        }, 
+        "mileage": "162,800 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "I_sell_obscure_cars"
+        }, 
+        "status": "sold", 
+        "sub_title": "5-Speed Manual, Arizona-Owned, Largely Unmodified", 
+        "submission_id": "36GZ8o7x", 
+        "title": "1995 BMW 325i Sedan", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T17:46:00.000+00:00", 
+        "current_bid": 40969, 
+        "id": "3Lw0Q41y", 
+        "location": "Freeport, NY 11520", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/KVaYNkGL-LyeKUOtLPV4-t1LXFRQJ_B.jpeg?t=164972216080"
+        }, 
+        "mileage": "58,500 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "syedhassan"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "Hellcat 26R Package, Custom Exterior Wrap, 707-hp Supercharged V8", 
+        "submission_id": "KVaYNkGL", 
+        "title": "2016 Dodge Challenger SRT Hellcat", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T17:41:28.224+00:00", 
+        "current_bid": 34001, 
+        "id": "KDVEgVyE", 
+        "location": "Atlanta, GA 30328", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/3vYqZMeO-2B6HFbIQA6-(edit).jpg?t=164946157843"
+        }, 
+        "mileage": "250,300 Miles Shown \u2013 TMU", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "mwallen19"
+        }, 
+        "status": "sold", 
+        "sub_title": "335d Engine and Transmission Swap, Extensive Modifications, Alpine White", 
+        "submission_id": "3vYqZMeO", 
+        "title": "2010 BMW 328xi Sports Wagon", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-22T17:32:21.760+00:00", 
+        "current_bid": 50000, 
+        "id": "9a0WVQ7P", 
+        "location": "Hurricane, UT 84737", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "bdcd60931d1cb87bf7a5afbdc337d4d15bf5377c/photos/Kmn0Q0D0.m7iuUQuf1-(edit).jpg?t=164614544168"
+        }, 
+        "mileage": "127,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "94939df4c43ed6c9daf2c9dbd8952de9fb8d67b6/photos/KZaG85gZ-uzCE9LOT7.jpg"
+          }, 
+          "username": "MoneyGoodJailBad"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "5.7-Liter V8, 4WD, Numerous Off-Road Modifications", 
+        "submission_id": "Kmn0Q0D0", 
+        "title": "2013 Toyota Land Cruiser", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:46:20.835+00:00", 
+        "current_bid": 13400, 
+        "id": "3q4OkNM1", 
+        "location": "Spokane, WA 99204", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9WjGA12w-6xTX7Wqus2-(edit).jpg?t=164934254219"
+        }, 
+        "mileage": "164,400 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "35056a1c05b7b226f8bd79750959927ad424518a/photos/rjJjnZpx-O8dlGj8yNPV.JPG"
+          }, 
+          "username": "RedExit"
+        }, 
+        "status": "sold", 
+        "sub_title": "V8 Power, 4WD, Mark Levinson Audio Package, Unmodified", 
+        "submission_id": "9WjGA12w", 
+        "title": "2008 Lexus GX 470", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:46:19.325+00:00", 
+        "current_bid": 96500, 
+        "id": "3gee6wQP", 
+        "location": "Atlanta, GA 30306", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "77de68daecd823babbb58edb1c8e14d7106e83bb/photos/9Al5Nbg5-9yPxY2VqWx.jpg?t=164971061646"
+        }, 
+        "mileage": "4,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Chrismckay506"
+        }, 
+        "status": "sold", 
+        "sub_title": "~4,100 Miles, 495-hp LT2 V8, 3LT Trim, Z51 Performance Package", 
+        "submission_id": "9Al5Nbg5", 
+        "title": "2021 Chevrolet Corvette Stingray Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:34:26.434+00:00", 
+        "current_bid": 30250, 
+        "id": "rwbbzMql", 
+        "location": "Macon, GA 31204", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "c51905b0000b639a185eeb080dd879bf007f5604/photos/rwXBgezl-xWFrzmpz6c-(edit).jpg?t=164966038988"
+        }, 
+        "mileage": "61,000 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Angryitalian"
+        }, 
+        "status": "sold", 
+        "sub_title": "AWD, Premium 1 and Sport Packages, Mostly Unmodified", 
+        "submission_id": "rwXBgezl", 
+        "title": "2014 Mercedes-Benz E350 4Matic Wagon", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:22:00.000+00:00", 
+        "current_bid": 26000, 
+        "id": "KYDqdExw", 
+        "location": "Miami, FL 33173", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "c51905b0000b639a185eeb080dd879bf007f5604/photos/9Xxg8LOx-SzpiXDG5I6-(edit).jpg?t=164975594046"
+        }, 
+        "mileage": "60,500 Miles Shown", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "investgeorge"
+        }, 
+        "status": "sold", 
+        "sub_title": "Rare Brazilian-Spec Land Cruiser, Mercedes-Benz Diesel Power, 4WD, U.S. Title", 
+        "submission_id": "9Xxg8LOx", 
+        "title": "1982 Toyota Bandeirante OJ55 4x4", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:14:09.013+00:00", 
+        "current_bid": 8000, 
+        "id": "92X20dab", 
+        "location": "Vero Beach, FL 32960", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "3ed6c2029913df9ea5566e7bd2d99b69893c81cb/photos/s-A4tCoC6KZh.jpg?t=164700693550"
+        }, 
+        "mileage": "107,100 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "3ed6c2029913df9ea5566e7bd2d99b69893c81cb/photos/mNJ9o6cpb.jpeg"
+          }, 
+          "username": "VBAutosports"
+        }, 
+        "status": "sold", 
+        "sub_title": "3.0-Liter 6-Cylinder, 5-Speed Manual, Florida-Owned, Mostly Unmodified", 
+        "submission_id": "36QPP4W9", 
+        "title": "2001 BMW Z3 3.0i Roadster", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:10:20.215+00:00", 
+        "current_bid": 15500, 
+        "id": "364nMYNl", 
+        "location": "Lakewood, OH 44107", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/9aNkdPR8-zLhiifbJOh-(edit).jpg?t=164936732093"
+        }, 
+        "mileage": "102,200 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "livad1"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, Turbo 4-Cylinder, AWD, Mostly Unmodified", 
+        "submission_id": "9aNkdPR8", 
+        "title": "2012 Volkswagen Golf R", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T19:03:13.933+00:00", 
+        "current_bid": 72500, 
+        "id": "9lXG7kb2", 
+        "location": "Spring, TX 77379", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/9eMvoLyk-5ORcJwNPXxA2-TsKuzsvjaX.jpg?t=164980126242"
+        }, 
+        "mileage": "71,300 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Sheryarzainali"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "Turbo V12 Power, $239,685 MSRP, Mostly Southern-Owned", 
+        "submission_id": "9eMvoLyk", 
+        "title": "2015 Mercedes-Benz S65 AMG Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:54:11.869+00:00", 
+        "current_bid": 6300, 
+        "id": "rGzey1Bg", 
+        "location": "Sag Harbor, NY 11963", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "d9b636c2ec84ddc3bc7f2eb32861b39bdd5f9683/photos/3odqQWVo-rk3jY1SYN6-(edit).jpg?t=164876681379"
+        }, 
+        "mileage": "100,400 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "e39nyccchi"
+        }, 
+        "status": "sold", 
+        "sub_title": "V8 Power, Engine Replaced in 2015, Dinan Modifications", 
+        "submission_id": "3odqQWVo", 
+        "title": "2003 BMW 540i Sedan", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:43:58.043+00:00", 
+        "current_bid": 21250, 
+        "id": "KdD5gzG1", 
+        "location": "Madison Heights, MI 48071", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "360d4748cf103ccc8156a0d94596456ca0512c29/photos/3O8Zampj-dU8EWHN_j_-(edit).jpg?t=164910573746"
+        }, 
+        "mileage": "76,600 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "TJCHFang"
+        }, 
+        "status": "sold", 
+        "sub_title": "#27 of 200 Built, 5-Speed Manual, 435-hp Supercharged V8", 
+        "submission_id": "3O8Zampj", 
+        "title": "2008 Ford Mustang Roush 428R Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:40:42.611+00:00", 
+        "current_bid": 12001, 
+        "id": "rJJEPLxg", 
+        "location": "Naperville, IL 60563", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "c51905b0000b639a185eeb080dd879bf007f5604/photos/3REPQDwN-KP9BcqE8hP-(edit).jpg?t=164884325425"
+        }, 
+        "mileage": "122,400 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "Jinju"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, Dinan Engine Tune, Sport Package", 
+        "submission_id": "3REPQDwN", 
+        "title": "2007 BMW 335i Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:34:00.000+00:00", 
+        "current_bid": 43656, 
+        "id": "rNNMaVZG", 
+        "location": "Lancaster, PA 17603", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/35NNmWkZ-d3WhDkpbkp-(edit).jpg?t=164927094197"
+        }, 
+        "mileage": "56,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "c0cf58fe32a74820690fa32880d4b02322781af4/photos/9AlVxQOo-J0RAZGeCJNN.jpg"
+          }, 
+          "username": "nismogtr"
+        }, 
+        "status": "sold", 
+        "sub_title": "~56,100 Miles, 4WD, Cummins Turbodiesel, Unmodified", 
+        "submission_id": "35NNmWkZ", 
+        "title": "2015 Ram 3500 Tradesman Crew Cab 4x4", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:21:44.336+00:00", 
+        "current_bid": 28750, 
+        "id": "KZq0yAXG", 
+        "location": "Newbury Park, CA 91320", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/Kdp6Yb0y-RErmPg-nKd-(edit).jpg?t=164918000543"
+        }, 
+        "mileage": "2,400 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "c4c5c3f1aec1bbb573985b0f7e0194c6de1a058c/photos/KYDAXmnM-OgauNyLyYb9.jpg"
+          }, 
+          "username": "ssikonia"
+        }, 
+        "status": "sold", 
+        "sub_title": "~2,400 Miles, 6-Speed Manual, JCW Tuning Kit, 1 Owner Until 2022", 
+        "submission_id": "Kdp6Yb0y", 
+        "title": "2006 Mini Cooper S", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:12:32.330+00:00", 
+        "current_bid": 49995, 
+        "id": "rbp466VD", 
+        "location": "Altus, OK 73521", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/9lBpp64G-EHMojYgMaM-(edit).jpg?t=164970263456"
+        }, 
+        "mileage": "97,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Midnight_Mistress"
+        }, 
+        "status": "sold", 
+        "sub_title": "AWD, Twin-Turbo Power, Performance Modifications, U.S. Title", 
+        "submission_id": "9lBpp64G", 
+        "title": "1995 Nissan Skyline GT-R V-Spec", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T18:10:21.841+00:00", 
+        "current_bid": 6300, 
+        "id": "9aLladEX", 
+        "location": "Austin, TX 78749", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/KDYGgmVp-3GMdPVdhzO-(edit).jpg?t=164849567236"
+        }, 
+        "mileage": "147,100 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "22d4687f3f5ea6dfe1b49188b24015a10bb6c62f/photos/3oqv1q8E-CaHq1iP6Jq-.jpeg"
+          }, 
+          "username": "jackn1202"
+        }, 
+        "status": "sold", 
+        "sub_title": "200-hp Turbo 4-Cylinder, Texas-Owned, Mostly Unmodified", 
+        "submission_id": "KDYGgmVp", 
+        "title": "2011 Volkswagen GTI", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T17:54:41.343+00:00", 
+        "current_bid": 18350, 
+        "id": "rxOqZmEQ", 
+        "location": "Greenwood, IN 46142", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/3yb4vaed-9yF2dwmnmb72-2-kQhgTsCvHB.jpg?t=164980744705"
+        }, 
+        "mileage": "56,100 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Redeye797"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "Numerous Modifications, 6.4L Hemi V8 Power, SRT Option Package II", 
+        "submission_id": "3yb4vaed", 
+        "title": "2011 Dodge Challenger SRT8", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T17:46:00.000+00:00", 
+        "current_bid": 7300, 
+        "id": "3gvwNPwG", 
+        "location": "Kenmore, WA 98028", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/35OLxMwB-UHc14ppFV1-(edit).jpg?t=164936084006"
+        }, 
+        "mileage": "129,600 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "bumperlt"
+        }, 
+        "status": "sold", 
+        "sub_title": "V6 Power, 4WD, Some Modifications, Washington-Owned Since New", 
+        "submission_id": "35OLxMwB", 
+        "title": "1995 Toyota 4Runner SR5 4x4", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T17:43:53.522+00:00", 
+        "current_bid": 34250, 
+        "id": "r4dPXeYk", 
+        "location": "Sacramento, CA 95816", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "d9b636c2ec84ddc3bc7f2eb32861b39bdd5f9683/photos/3q1V42Mn-FKpDf3Ndp7-(edit).jpg?t=164979653203"
+        }, 
+        "mileage": "16,800 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "livegallant"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "~16,800 Miles, Turbo V12, California-Owned, Unmodified", 
+        "submission_id": "3q1V42Mn", 
+        "title": "2007 Mercedes-Benz SL600", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-21T17:42:31.424+00:00", 
+        "current_bid": 25250, 
+        "id": "KPae1odL", 
+        "location": "Montclair, CA 91763", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/3pzZ7ael-9SE47LCTtU-(edit).jpg?t=164930736524"
+        }, 
+        "mileage": "70,600 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Art_H"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, California-Owned, Numerous Modifications", 
+        "submission_id": "3pzZ7ael", 
+        "title": "2013 Subaru Impreza WRX STI", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T19:50:33.890+00:00", 
+        "current_bid": 63000, 
+        "id": "KV4zEZaM", 
+        "location": "Oviedo, FL 32766", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rMqeb5Q4-guYn7ehmMd-(edit).jpg?t=164971215645"
+        }, 
+        "mileage": "27,600 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "996059838b22b3701a59305d115ff47dce260026/photos/rbJmm5GQ-iCiQnEwqcFh.png"
+          }, 
+          "username": "HouseOfMotors"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "~27,600 Miles, AWD, Premium Package, Mostly Unmodified", 
+        "submission_id": "rMqeb5Q4", 
+        "title": "2013 Porsche 911 Carrera 4S Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T19:39:05.901+00:00", 
+        "current_bid": 37000, 
+        "id": "3BmWnYeb", 
+        "location": "Smyrna, GA 30080", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/rx5xpPN6-WfDDCafBJt-(edit)2-6LJUCrLlZ-.jpg?t=164928988934"
+        }, 
+        "mileage": "18,500 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "c570305064c4219472c125db9974d672481cf907/photos/3LEY66ZW-22OCnt8ZjJZ.jpg"
+          }, 
+          "username": "doppler"
+        }, 
+        "status": "sold", 
+        "sub_title": "~18,500 Miles, 1 Owner, Southern-Owned, AWD, Mostly Unmodified", 
+        "submission_id": "rx5xpPN6", 
+        "title": "2019 Volkswagen Golf R", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T19:22:00.000+00:00", 
+        "current_bid": 21250, 
+        "id": "3RJ60ONx", 
+        "location": "Cornish, NH 03745", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da6e8a1d4896127a9d2adf83461993b45339474c/photos/rjYjzaR0-UZNLvZc1t9T-M8RyFKrzwc.jpeg?t=164918562489"
+        }, 
+        "mileage": "47,200 Shown - TMU", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Tyler23"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, Tobacco Interior, 390-hp Ferrari-Derived V8, Unmodified", 
+        "submission_id": "rjYjzaR0", 
+        "title": "2002 Maserati Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T19:16:33.150+00:00", 
+        "current_bid": 12400, 
+        "id": "rjJ1BgR7", 
+        "location": "Santa Clarita, CA 91387", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "da4b9237bacccdf19c0760cab7aec4a8359010b0/photos/KPQDWJZa-yBB82GfPxg.jpg?t=164868531445"
+        }, 
+        "mileage": "122,000 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "c10c47563ffd1944761e5dd3e2412a046b6c64bd/photos/3oP7BYPm-P-t-1Vn9T.jpg"
+          }, 
+          "username": "Navalavaho"
+        }, 
+        "status": "sold", 
+        "sub_title": "Vortec V8 Power, 35-inch Tires, Leather Seats", 
+        "submission_id": "KPQDWJZa", 
+        "title": "1996 GMC Sierra K1500 4x4", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T19:09:38.208+00:00", 
+        "current_bid": 28500, 
+        "id": "9XYj1j8q", 
+        "location": "Los Angeles, CA 90077", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "37e0d12ee547ba13beecbc1def609de677e2b565/photos/36kbbMMP-WMWtzs45t0-(edit).jpg?t=164934252197"
+        }, 
+        "mileage": "94,600 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "JMMacan"
+        }, 
+        "status": "sold", 
+        "sub_title": "1 Owner, Turbo V6 Power, AWD, No Major Modifications", 
+        "submission_id": "36kbbMMP", 
+        "title": "2015 Porsche Macan S", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T19:01:19.866+00:00", 
+        "current_bid": 17000, 
+        "id": "rEjyyW2a", 
+        "location": "San Diego, CA 92129", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "ee7f173e46ec801a48d1673c50f9cebaa1bf2854/photos/30XzznxM-rDA6WysHYI-(edit).jpg?t=164943411224"
+        }, 
+        "mileage": "129,900 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "san_vw_r32"
+        }, 
+        "status": "sold", 
+        "sub_title": "6-Speed Manual, AWD, 3.2-Liter VR6, Western-Owned", 
+        "submission_id": "30XzznxM", 
+        "title": "2004 Volkswagen R32", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:52:52.230+00:00", 
+        "current_bid": 8450, 
+        "id": "30bx6Xnj", 
+        "location": "Royse City, TX 75189", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "438ad923cef6d8239e95d61e7d6849486bae11d9/photos/37eym7kA-22mLMMofsm-(edit).jpg?t=164874768504"
+        }, 
+        "mileage": "174,600 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "ConnorL"
+        }, 
+        "status": "sold", 
+        "sub_title": "V8 Power, Mostly Unmodified, Comfort Package", 
+        "submission_id": "37eym7kA", 
+        "title": "2008 Lexus LS 460", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:42:40.165+00:00", 
+        "current_bid": 66500, 
+        "id": "K1mLVdE2", 
+        "location": "Miami, FL 33137", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "c6def671d8ed2bb30fa2e99b0083e82f5885bb27/photos/r4DE0Mwx-LbNQBDtnV.jpg?t=164922182808"
+        }, 
+        "mileage": "13,700 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "c6def671d8ed2bb30fa2e99b0083e82f5885bb27/photos/Kd64qAnx-uw7DjQqRcn3.jpg"
+          }, 
+          "username": "RoRoMiami"
+        }, 
+        "status": "sold", 
+        "sub_title": "~13,700 Miles, V12 Power, Florida-Owned, Some Modifications", 
+        "submission_id": "r4DE0Mwx", 
+        "title": "2012 Aston Martin Virage", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:34:10.827+00:00", 
+        "current_bid": 11908, 
+        "id": "KmaODZ1b", 
+        "location": "Wichita, KS 67203", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "171ab1e538119e13fa98382f268326fc825fdc20/photos/92XVM4BA-KRVsu7DNlh-(edit).jpg?t=164921859612"
+        }, 
+        "mileage": "182,600 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "JRushford"
+        }, 
+        "status": "sold", 
+        "sub_title": "5-Speed Manual, 4WD, 22RE Power, Mostly Unmodified", 
+        "submission_id": "92XVM4BA", 
+        "title": "1992 Toyota Pickup Deluxe 4x4", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:29:41.856+00:00", 
+        "current_bid": 18150, 
+        "id": "KZdLvWom", 
+        "location": "Winter Garden, FL 34787", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "1477bbe21e8d6b5e719c7c3ccab577fd47dd8cc3/photos/9AyMdlMz-2LyruSHcLU-(edit).jpg?t=164927074895"
+        }, 
+        "mileage": "108,800 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": null, 
+          "username": "Wtlb99"
+        }, 
+        "status": "reserve_not_met", 
+        "sub_title": "Naturally-Aspirated V8 Power, Florida-Owned, Some Modifications", 
+        "submission_id": "9AyMdlMz", 
+        "title": "2008 BMW M3 Convertible", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:20:10.878+00:00", 
+        "current_bid": 9769, 
+        "id": "9nBzZe4D", 
+        "location": "Placentia, CA 92870", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/3zLagq5B-pZMzm_Ik-1-(edit).jpg?t=164807233062"
+        }, 
+        "mileage": "162,100 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "VtecRacer"
+        }, 
+        "status": "sold", 
+        "sub_title": "5-Speed Manual, VTEC, Some Modifications, California-Owned", 
+        "submission_id": "3zLagq5B", 
+        "title": "2000 Acura Integra GS-R Sedan", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:15:08.636+00:00", 
+        "current_bid": 28000, 
+        "id": "3BGdga6K", 
+        "location": "Vero Beach, FL 32960", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "7a0a3c6148108c9c64425dd85e0181fa3cccb652/photos/rMglaAg8-oi9t5wcI8x-(edit).jpg?t=164964855578"
+        }, 
+        "mileage": "48,700 Miles", 
+        "no_reserve": false, 
+        "seller": {
+          "photo": {
+            "base_url": "media.carsandbids.com", 
+            "path": "3ed6c2029913df9ea5566e7bd2d99b69893c81cb/photos/mNJ9o6cpb.jpeg"
+          }, 
+          "username": "VBAutosports"
+        }, 
+        "status": "sold", 
+        "sub_title": "Supercharged V6 Power, AWD, Bang & Olufsen Sound System, Unmodified", 
+        "submission_id": "rMglaAg8", 
+        "title": "2014 Audi S5 Coupe", 
+        "watching": false
+      }, 
+      {
+        "auction_end": "2022-04-20T18:02:19.823+00:00", 
+        "current_bid": 13500, 
+        "id": "9QD1GyRE", 
+        "location": "Campbell, CA 95008", 
+        "main_photo": {
+          "base_url": "media.carsandbids.com", 
+          "path": "8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/9lRDMw7g-35v7-wIt7T-(edit).jpg?t=164928124027"
+        }, 
+        "mileage": "98,500 Miles", 
+        "no_reserve": true, 
+        "seller": {
+          "photo": null, 
+          "username": "A_J_C"
+        }, 
+        "status": "sold", 
+        "sub_title": "5-Speed Manual, 1 Owner, California-Owned, Premium Package", 
+        "submission_id": "9lRDMw7g", 
+        "title": "2005 Saab 9-2X Aero", 
+        "watching": false
+      }
+    ], 
+    "count": 50, 
+    "saved_search": null, 
+    "timestamp": "2022-04-24T07:11:07.527+00:00", 
+    "total": 6789
+  }
+}
