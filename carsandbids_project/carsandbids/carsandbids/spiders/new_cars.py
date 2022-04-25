@@ -26,7 +26,7 @@ class CarsSpider(scrapy.Spider):
     def temp_parse(self,response):
         body = response.body
         self.cookies = json.loads(body).get("cookies")
-        self.newapi = json.loads(body).get("newapi").replace("limit=12","limit=110")
+        self.newapi = json.loads(body).get("newapi").replace("limit=12","limit=100")
         yield scrapy.Request(url=self.newapi,callback=self.parse,cookies=self.cookies)
 
     def parse(self,response):   
